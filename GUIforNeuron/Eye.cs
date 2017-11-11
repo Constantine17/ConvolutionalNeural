@@ -61,6 +61,7 @@ namespace GUIforNeuron
             response.BlackWhite = 256;
             response.empty = false;
 
+
             byte Alpha = image.GetPixel(X, Y).A;
             byte Red = image.GetPixel(X, Y).R;
             byte Green = image.GetPixel(X, Y).G;
@@ -69,7 +70,7 @@ namespace GUIforNeuron
             int Mid = (Red + Green + Blue) / 3;
 
             //double relativityAlpha = 0;
-            if (Alpha < 10) {response.empty = true; return response; }
+            if (Alpha < 10) { response.empty = true; response.BlackWhite = Mid; return response; }
             //if (Alpha < 240) { relativityAlpha = Convert.ToDouble(Alpha) / 256; }
 
             if(Red==Blue&&Red==Green&&Green==Blue) { response.BlackWhite = Mid; return response; }
@@ -83,6 +84,7 @@ namespace GUIforNeuron
                 ) { response.BlackWhite = Mid; return response; }
 
             response.color = true;
+            response.BlackWhite = Mid;
             return response;
         }
 
@@ -92,9 +94,16 @@ namespace GUIforNeuron
                 for (int y = 0; y < image.Height; y++)
                 {
                     var response = GetResponse(x, y);
+                    if (response.BlackWhite >= 256) { new Exception("response.BlackWhite >= 256"); }
+                    if (response.color) {  }
+
+
+                    /*
+                    var response = GetResponse(x, y);
                     if (response.empty) image.SetPixel(x, y, Color.Green);
                     if (response.BlackWhite != 256) { image.SetPixel(x, y, Color.FromArgb(255, response.BlackWhite, response.BlackWhite, response.BlackWhite)); }
                     if(response.color) image.SetPixel(x, y, Color.Red);
+                    */
                 }
         }
     }

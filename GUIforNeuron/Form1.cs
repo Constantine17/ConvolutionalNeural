@@ -24,6 +24,14 @@ namespace GUIforNeuron
         {
             OutputConsole.AppendText(text.ToString()+"\n");
         }
+
+        public void WriteSecondConsole()
+        {
+            SecondConsole.Clear();
+            foreach (var mes in Messeges.messeges)
+            SecondConsole.AppendText(mes + "\n");
+        }
+
         private void pictureBox1_Click(object sender, EventArgs e)
         {
 
@@ -44,6 +52,12 @@ namespace GUIforNeuron
                 pictureBox1.Image = eye.image;
             }
         }
+        private void SecondLayer_Click(object sender, EventArgs e)
+        {
+            var eye = new Eye(imagedirectory);
+            var secondNetwork = new SecondNeuron(eye);
+
+        }
 
         private void FistLayer_Click(object sender, EventArgs e)
         {
@@ -51,5 +65,17 @@ namespace GUIforNeuron
             image.ConvertImage();
             pictureBox1.Image = image.image;
         }
+
+        private void SecondConsole_TextChanged(object sender, EventArgs e)
+        {
+
+        }
+
+        private void button1_Click(object sender, EventArgs e)
+        {
+            WriteSecondConsole();
+        }
+
+
     }
 }
