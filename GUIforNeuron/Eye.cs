@@ -98,12 +98,12 @@ namespace GUIforNeuron
                     if (response.color) {  }
 
 
-                    /*
-                    var response = GetResponse(x, y);
+                    
+                    //var response = GetResponse(x, y);
                     if (response.empty) image.SetPixel(x, y, Color.Green);
                     if (response.BlackWhite != 256) { image.SetPixel(x, y, Color.FromArgb(255, response.BlackWhite, response.BlackWhite, response.BlackWhite)); }
                     if(response.color) image.SetPixel(x, y, Color.Red);
-                    */
+                    
                 }
         }
     }

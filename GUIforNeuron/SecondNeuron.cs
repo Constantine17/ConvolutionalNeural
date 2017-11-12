@@ -3,6 +3,7 @@ using System.Collections.Generic;
 using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
+using System.Drawing;
 
 namespace GUIforNeuron
 {
@@ -39,14 +40,12 @@ namespace GUIforNeuron
                 {
 
                     secondnetNetwork[incX, incY] = ProcessResponse(ref x, ref y);
-                   // y += 5;
                     incY++;
                 }
-                //x += 5;
                 incY = 0;
                 incX++;
             }
-            size = incX - 1;
+            size = incX;
         }
 
         public SecondResponse ProcessResponse(ref int x, ref int y)
@@ -95,20 +94,8 @@ namespace GUIforNeuron
 
             if (secondResponse.grey != 0) { secondResponse.quantityGrey = secondResponse.quantityGrey / secondResponse.grey; }
             else { secondResponse.quantityGrey = 0; }
-            //           if (secondResponse.grey > 0) { secondResponse.quantityGrey = secondResponse.quantityGrey / secondResponse.grey; }
-            //else return;
 
-            //if (secondResponse.black > 0 && secondResponse.white > 0 && secondResponse.quantityGrey == 0) { return; }
             return secondResponse;
-        }
-
-        public void GetResponse()
-        {
-            for (int x = 0; x <= size; x++)
-                for (int y = 0; y <= size; y++)
-                {
-
-                }
         }
     }
 }

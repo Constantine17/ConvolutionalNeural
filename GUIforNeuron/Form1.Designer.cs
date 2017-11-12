@@ -35,6 +35,7 @@
             this.SecondConsole = new System.Windows.Forms.TextBox();
             this.button1 = new System.Windows.Forms.Button();
             this.SecondLayer = new System.Windows.Forms.Button();
+            this.outputSecondLayerImage = new System.Windows.Forms.Button();
             ((System.ComponentModel.ISupportInitialize)(this.pictureBox1)).BeginInit();
             this.SuspendLayout();
             // 
@@ -99,17 +100,28 @@
             // 
             this.SecondLayer.Location = new System.Drawing.Point(619, 87);
             this.SecondLayer.Name = "SecondLayer";
-            this.SecondLayer.Size = new System.Drawing.Size(232, 23);
+            this.SecondLayer.Size = new System.Drawing.Size(110, 23);
             this.SecondLayer.TabIndex = 6;
             this.SecondLayer.Text = "Second layer";
             this.SecondLayer.UseVisualStyleBackColor = true;
             this.SecondLayer.Click += new System.EventHandler(this.SecondLayer_Click);
+            // 
+            // outputSecondLayerImage
+            // 
+            this.outputSecondLayerImage.Location = new System.Drawing.Point(735, 86);
+            this.outputSecondLayerImage.Name = "outputSecondLayerImage";
+            this.outputSecondLayerImage.Size = new System.Drawing.Size(116, 23);
+            this.outputSecondLayerImage.TabIndex = 7;
+            this.outputSecondLayerImage.Text = "outputImage";
+            this.outputSecondLayerImage.UseVisualStyleBackColor = true;
+            this.outputSecondLayerImage.Click += new System.EventHandler(this.outputSecondLayerImage_Click);
             // 
             // Form1
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
             this.ClientSize = new System.Drawing.Size(945, 541);
+            this.Controls.Add(this.outputSecondLayerImage);
             this.Controls.Add(this.SecondLayer);
             this.Controls.Add(this.button1);
             this.Controls.Add(this.SecondConsole);
@@ -134,6 +146,7 @@
         private System.Windows.Forms.TextBox SecondConsole;
         private System.Windows.Forms.Button button1;
         private System.Windows.Forms.Button SecondLayer;
+        private System.Windows.Forms.Button outputSecondLayerImage;
     }
 }
 

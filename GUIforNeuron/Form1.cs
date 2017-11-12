@@ -58,6 +58,12 @@ namespace GUIforNeuron
             var secondNetwork = new SecondNeuron(eye);
 
         }
+        private void outputSecondLayerImage_Click(object sender, EventArgs e)
+        {
+            var eye = new Eye(imagedirectory);
+            var secondNetwork = new SecondNeuron(eye);
+            //pictureBox1.Image = secondNetwork.GetResponseNeuron();
+        }
 
         private void FistLayer_Click(object sender, EventArgs e)
         {
@@ -75,7 +81,6 @@ namespace GUIforNeuron
         {
             WriteSecondConsole();
         }
-
 
     }
 }
