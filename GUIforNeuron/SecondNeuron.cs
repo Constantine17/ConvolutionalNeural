@@ -15,18 +15,18 @@ namespace GUIforNeuron
         public byte black;
         public byte color;
 
-        public int quantityGrey;
-        public bool boolGrey;
+        public int upGrey;
+        public int downGrey;
     }
     class SecondNeuron
     {
         int size = 0;
-        Eye data;
+        //Eye data;
         public SecondResponse[,] secondnetNetwork;
 
         public SecondNeuron(Eye data)
         {
-            this.data = data;
+            //this.data = data;
             int incX = 0; int incY = 0;
 
             int Xend = data.image.Width;
@@ -39,7 +39,7 @@ namespace GUIforNeuron
                 for (int y = 0; y < Yend; y+=5)
                 {
 
-                    secondnetNetwork[incX, incY] = ProcessResponse(ref x, ref y);
+                    secondnetNetwork[incX, incY] = ProcessResponse(ref x, ref y, data);
                     incY++;
                 }
                 incY = 0;
@@ -48,7 +48,7 @@ namespace GUIforNeuron
             size = incX;
         }
 
-        public SecondResponse ProcessResponse(ref int x, ref int y)
+        public SecondResponse ProcessResponse(ref int x, ref int y, Eye data)
         {
             List<FistResponse> response = new List<FistResponse>();
             SecondResponse secondResponse = new SecondResponse();
@@ -64,8 +64,8 @@ namespace GUIforNeuron
             secondResponse.grey = 0;
             secondResponse.black = 0;
             secondResponse.color = 0;
-            secondResponse.quantityGrey = 0;
-            secondResponse.boolGrey = false;
+            secondResponse.upGrey = 0;
+            secondResponse.downGrey = 0;
 
             int maxGrey = 127;
             int minGrey = 127;
@@ -78,22 +78,25 @@ namespace GUIforNeuron
                 if (element.BlackWhite < 20) { secondResponse.black++; continue; }
 
                 secondResponse.grey++;
-                secondResponse.quantityGrey += element.BlackWhite;
+                secondResponse.upGrey += element.BlackWhite;
 
                 if (maxGrey < element.BlackWhite) maxGrey = element.BlackWhite;
                 if (minGrey > element.BlackWhite) minGrey = element.BlackWhite;
             }
             if (secondResponse.empty + secondResponse.white + secondResponse.grey + secondResponse.black + secondResponse.color != 25) Messeges.Write("empty + white + grey + black + color != 25");
 
-            if (maxGrey - minGrey > 22) { secondResponse.boolGrey = true; }
+            //if (maxGrey - minGrey > 22) { secondResponse.boolGrey = true; }
 
             if (secondResponse.empty == 25) return secondResponse;
             if (secondResponse.white == 25) return secondResponse;
             if (secondResponse.black == 25) return secondResponse;
             if (secondResponse.color == 25) return secondResponse;
 
-            if (secondResponse.grey != 0) { secondResponse.quantityGrey = secondResponse.quantityGrey / secondResponse.grey; }
-            else { secondResponse.quantityGrey = 0; }
+            if (secondResponse.grey != 0) { secondResponse.upGrey = secondResponse.upGrey / secondResponse.grey; }
+            else { secondResponse.upGrey = 0; }
+            secondResponse.downGrey = secondResponse.upGrey;
+
+            if (maxGrey - minGrey > 22) { secondResponse.upGrey = maxGrey; secondResponse.downGrey = minGrey; }
 
             return secondResponse;
         }

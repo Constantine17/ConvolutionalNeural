@@ -87,6 +87,7 @@ namespace GUIforNeuron
             var eye = new Eye(imagedirectory);
             var secondNetwork = new SecondNeuron(eye);
             var smart32 = new SmartLayer32(secondNetwork.secondnetNetwork);
+            smart32.CalcConcentration();
         }
     }
 }
