@@ -22,7 +22,7 @@ namespace GUIforNeuron
     {
         int size = 0;
         Eye data;
-        SecondResponse[,] secondnetNetwork;
+        public SecondResponse[,] secondnetNetwork;
 
         public SecondNeuron(Eye data)
         {

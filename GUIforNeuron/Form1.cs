@@ -27,9 +27,9 @@ namespace GUIforNeuron
 
         public void WriteSecondConsole()
         {
-            SecondConsole.Clear();
+            SecondConsoleSecondConsole.Clear();
             foreach (var mes in Messeges.messeges)
-            SecondConsole.AppendText(mes + "\n");
+            SecondConsoleSecondConsole.AppendText(mes + "\n");
         }
 
         private void pictureBox1_Click(object sender, EventArgs e)
@@ -82,5 +82,11 @@ namespace GUIforNeuron
             WriteSecondConsole();
         }
 
+        private void SmartLayer32_Click(object sender, EventArgs e)
+        {
+            var eye = new Eye(imagedirectory);
+            var secondNetwork = new SecondNeuron(eye);
+            var smart32 = new SmartLayer32(secondNetwork.secondnetNetwork);
+        }
     }
 }

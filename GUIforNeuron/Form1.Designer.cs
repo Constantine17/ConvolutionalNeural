@@ -32,10 +32,11 @@
             this.InputDirectory = new System.Windows.Forms.Button();
             this.OutputConsole = new System.Windows.Forms.TextBox();
             this.FistLayer = new System.Windows.Forms.Button();
-            this.SecondConsole = new System.Windows.Forms.TextBox();
+            this.SecondConsoleSecondConsole = new System.Windows.Forms.TextBox();
             this.button1 = new System.Windows.Forms.Button();
             this.SecondLayer = new System.Windows.Forms.Button();
             this.outputSecondLayerImage = new System.Windows.Forms.Button();
+            this.SmartLayer32 = new System.Windows.Forms.Button();
             ((System.ComponentModel.ISupportInitialize)(this.pictureBox1)).BeginInit();
             this.SuspendLayout();
             // 
@@ -77,14 +78,14 @@
             this.FistLayer.UseVisualStyleBackColor = true;
             this.FistLayer.Click += new System.EventHandler(this.FistLayer_Click);
             // 
-            // SecondConsole
+            // SecondConsoleSecondConsole
             // 
-            this.SecondConsole.Location = new System.Drawing.Point(552, 151);
-            this.SecondConsole.Multiline = true;
-            this.SecondConsole.Name = "SecondConsole";
-            this.SecondConsole.Size = new System.Drawing.Size(313, 200);
-            this.SecondConsole.TabIndex = 4;
-            this.SecondConsole.TextChanged += new System.EventHandler(this.SecondConsole_TextChanged);
+            this.SecondConsoleSecondConsole.Location = new System.Drawing.Point(552, 151);
+            this.SecondConsoleSecondConsole.Multiline = true;
+            this.SecondConsoleSecondConsole.Name = "SecondConsoleSecondConsole";
+            this.SecondConsoleSecondConsole.Size = new System.Drawing.Size(313, 200);
+            this.SecondConsoleSecondConsole.TabIndex = 4;
+            this.SecondConsoleSecondConsole.TextChanged += new System.EventHandler(this.SecondConsole_TextChanged);
             // 
             // button1
             // 
@@ -116,15 +117,26 @@
             this.outputSecondLayerImage.UseVisualStyleBackColor = true;
             this.outputSecondLayerImage.Click += new System.EventHandler(this.outputSecondLayerImage_Click);
             // 
+            // SmartLayer32
+            // 
+            this.SmartLayer32.Location = new System.Drawing.Point(619, 117);
+            this.SmartLayer32.Name = "SmartLayer32";
+            this.SmartLayer32.Size = new System.Drawing.Size(232, 23);
+            this.SmartLayer32.TabIndex = 8;
+            this.SmartLayer32.Text = "SmartLayer32";
+            this.SmartLayer32.UseVisualStyleBackColor = true;
+            this.SmartLayer32.Click += new System.EventHandler(this.SmartLayer32_Click);
+            // 
             // Form1
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
             this.ClientSize = new System.Drawing.Size(945, 541);
+            this.Controls.Add(this.SmartLayer32);
             this.Controls.Add(this.outputSecondLayerImage);
             this.Controls.Add(this.SecondLayer);
             this.Controls.Add(this.button1);
-            this.Controls.Add(this.SecondConsole);
+            this.Controls.Add(this.SecondConsoleSecondConsole);
             this.Controls.Add(this.FistLayer);
             this.Controls.Add(this.OutputConsole);
             this.Controls.Add(this.InputDirectory);
@@ -143,10 +155,11 @@
         private System.Windows.Forms.Button InputDirectory;
         private System.Windows.Forms.TextBox OutputConsole;
         private System.Windows.Forms.Button FistLayer;
-        private System.Windows.Forms.TextBox SecondConsole;
+        private System.Windows.Forms.TextBox SecondConsoleSecondConsole;
         private System.Windows.Forms.Button button1;
         private System.Windows.Forms.Button SecondLayer;
         private System.Windows.Forms.Button outputSecondLayerImage;
+        private System.Windows.Forms.Button SmartLayer32;
     }
 }
 
