@@ -12,11 +12,13 @@ namespace GUIforNeuron
         public byte empty;
         public byte white;
         public byte grey;
+        public byte darkGrey;
+        public byte liteGrey;
         public byte black;
         public byte color;
 
-        public int upGrey;
-        public int downGrey;
+        //public int upGrey;
+        //public int downGrey;
     }
     class SecondNeuron
     {
@@ -59,17 +61,20 @@ namespace GUIforNeuron
                 }
             //x += 5; y += 5;
 
-            secondResponse.empty = 0;
             secondResponse.white = 0;
             secondResponse.grey = 0;
             secondResponse.black = 0;
             secondResponse.color = 0;
-            secondResponse.upGrey = 0;
-            secondResponse.downGrey = 0;
+            secondResponse.darkGrey = 0;
+            secondResponse.liteGrey = 0;
+            //secondResponse.upGrey = 0;
+            secondResponse.empty = 0;
+            //secondResponse.downGrey = 0;
 
             int maxGrey = 127;
             int minGrey = 127;
 
+            List<int> contrastGrey = new List<int>();
             foreach (var element in response)
             {
                 if (element.color) { secondResponse.color++; continue; }
@@ -78,7 +83,8 @@ namespace GUIforNeuron
                 if (element.BlackWhite < 20) { secondResponse.black++; continue; }
 
                 secondResponse.grey++;
-                secondResponse.upGrey += element.BlackWhite;
+                //secondResponse.upGrey += element.BlackWhite;
+                contrastGrey.Add(element.BlackWhite);
 
                 if (maxGrey < element.BlackWhite) maxGrey = element.BlackWhite;
                 if (minGrey > element.BlackWhite) minGrey = element.BlackWhite;
@@ -92,11 +98,23 @@ namespace GUIforNeuron
             if (secondResponse.black == 25) return secondResponse;
             if (secondResponse.color == 25) return secondResponse;
 
-            if (secondResponse.grey != 0) { secondResponse.upGrey = secondResponse.upGrey / secondResponse.grey; }
-            else { secondResponse.upGrey = 0; }
-            secondResponse.downGrey = secondResponse.upGrey;
+            if(maxGrey == minGrey) return secondResponse;
 
-            if (maxGrey - minGrey > 22) { secondResponse.upGrey = maxGrey; secondResponse.downGrey = minGrey; }
+            int downLine, upLine;
+            downLine = (maxGrey + minGrey) / 2 - 20;
+            upLine = (maxGrey + minGrey) / 2 + 20;
+
+            foreach (var element in contrastGrey)
+            {
+                if (element < downLine) { secondResponse.darkGrey++; secondResponse.grey--; continue; }
+                if (element > upLine) { secondResponse.liteGrey++; secondResponse.grey--; continue; }
+            }
+
+            //if (secondResponse.grey != 0) { secondResponse.upGrey = secondResponse.upGrey / secondResponse.grey; }
+            //else { secondResponse.upGrey = 0; }
+            //secondResponse.downGrey = secondResponse.upGrey;
+
+            //if (maxGrey - minGrey > 22) { secondResponse.upGrey = maxGrey; secondResponse.downGrey = minGrey; }
 
             return secondResponse;
         }

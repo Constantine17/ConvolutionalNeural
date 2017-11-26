@@ -1,0 +1,9223 @@
+{
+  "size": 32,
+  "arrayAnswer": {
+    "items": [
+      {
+        "nubmer": 0,
+        "white": 0.0,
+        "grey": 0.0,
+        "darkGrey": 0.0,
+        "liteGrey": 0.0,
+        "black": 0.0,
+        "color": 0.0
+      },
+      {
+        "nubmer": 1,
+        "white": 0.0,
+        "grey": 0.0,
+        "darkGrey": 0.0,
+        "liteGrey": 0.0,
+        "black": 0.0,
+        "color": 0.0
+      },
+      {
+        "nubmer": 2,
+        "white": 0.0,
+        "grey": 0.0,
+        "darkGrey": 0.0,
+        "liteGrey": 0.0,
+        "black": 0.0,
+        "color": 0.0
+      },
+      {
+        "nubmer": 3,
+        "white": 0.0,
+        "grey": 0.0,
+        "darkGrey": 0.0,
+        "liteGrey": 0.0,
+        "black": 0.0,
+        "color": 0.0
+      },
+      {
+        "nubmer": 4,
+        "white": 0.0,
+        "grey": 0.0,
+        "darkGrey": 0.0,
+        "liteGrey": 0.0,
+        "black": 0.0,
+        "color": 0.0
+      },
+      {
+        "nubmer": 5,
+        "white": 1.0,
+        "grey": 0.0,
+        "darkGrey": 0.0,
+        "liteGrey": 0.0,
+        "black": 0.0,
+        "color": 0.0
+      },
+      {
+        "nubmer": 6,
+        "white": 1.0,
+        "grey": 0.0,
+        "darkGrey": 0.0,
+        "liteGrey": 0.0,
+        "black": 0.0,
+        "color": 0.0
+      },
+      {
+        "nubmer": 7,
+        "white": 1.0,
+        "grey": 0.0,
+        "darkGrey": 0.0,
+        "liteGrey": 0.0,
+        "black": 0.0,
+        "color": 0.0
+      },
+      {
+        "nubmer": 8,
+        "white": 1.0,
+        "grey": 0.0,
+        "darkGrey": 0.0,
+        "liteGrey": 0.0,
+        "black": 0.0,
+        "color": 0.0
+      },
+      {
+        "nubmer": 9,
+        "white": 1.0,
+        "grey": 0.0,
+        "darkGrey": 0.0,
+        "liteGrey": 0.0,
+        "black": 0.0,
+        "color": 0.0
+      },
+      {
+        "nubmer": 10,
+        "white": 1.0,
+        "grey": 0.0,
+        "darkGrey": 0.0,
+        "liteGrey": 0.0,
+        "black": 0.0,
+        "color": 0.0
+      },
+      {
+        "nubmer": 11,
+        "white": 1.0,
+        "grey": 0.0,
+        "darkGrey": 0.0,
+        "liteGrey": 0.0,
+        "black": 0.0,
+        "color": 0.0
+      },
+      {
+        "nubmer": 12,
+        "white": 1.0,
+        "grey": 0.0,
+        "darkGrey": 0.0,
+        "liteGrey": 0.0,
+        "black": 0.0,
+        "color": 0.0
+      },
+      {
+        "nubmer": 13,
+        "white": 1.0,
+        "grey": 0.0,
+        "darkGrey": 0.0,
+        "liteGrey": 0.0,
+        "black": 0.0,
+        "color": 0.0
+      },
+      {
+        "nubmer": 14,
+        "white": 1.0,
+        "grey": 0.0,
+        "darkGrey": 0.0,
+        "liteGrey": 0.0,
+        "black": 0.0,
+        "color": 0.0
+      },
+      {
+        "nubmer": 15,
+        "white": 1.0,
+        "grey": 0.0,
+        "darkGrey": 0.0,
+        "liteGrey": 0.0,
+        "black": 0.0,
+        "color": 0.0
+      },
+      {
+        "nubmer": 16,
+        "white": 1.0,
+        "grey": 0.0,
+        "darkGrey": 0.0,
+        "liteGrey": 0.0,
+        "black": 0.0,
+        "color": 0.0
+      },
+      {
+        "nubmer": 17,
+        "white": 1.0,
+        "grey": 0.0,
+        "darkGrey": 0.0,
+        "liteGrey": 0.0,
+        "black": 0.0,
+        "color": 0.0
+      },
+      {
+        "nubmer": 18,
+        "white": 1.0,
+        "grey": 0.0,
+        "darkGrey": 0.0,
+        "liteGrey": 0.0,
+        "black": 0.0,
+        "color": 0.0
+      },
+      {
+        "nubmer": 19,
+        "white": 1.0,
+        "grey": 0.0,
+        "darkGrey": 0.0,
+        "liteGrey": 0.0,
+        "black": 0.0,
+        "color": 0.0
+      },
+      {
+        "nubmer": 20,
+        "white": 0.95333333333333337,
+        "grey": 0.0,
+        "darkGrey": 0.0,
+        "liteGrey": 0.0,
+        "black": 0.046666666666666669,
+        "color": 0.0
+      },
+      {
+        "nubmer": 21,
+        "white": 0.95333333333333337,
+        "grey": 0.0,
+        "darkGrey": 0.0,
+        "liteGrey": 0.0,
+        "black": 0.046666666666666669,
+        "color": 0.0
+      },
+      {
+        "nubmer": 22,
+        "white": 1.0,
+        "grey": 0.0,
+        "darkGrey": 0.0,
+        "liteGrey": 0.0,
+        "black": 0.0,
+        "color": 0.0
+      },
+      {
+        "nubmer": 23,
+        "white": 1.0,
+        "grey": 0.0,
+        "darkGrey": 0.0,
+        "liteGrey": 0.0,
+        "black": 0.0,
+        "color": 0.0
+      },
+      {
+        "nubmer": 24,
+        "white": 1.0,
+        "grey": 0.0,
+        "darkGrey": 0.0,
+        "liteGrey": 0.0,
+        "black": 0.0,
+        "color": 0.0
+      },
+      {
+        "nubmer": 25,
+        "white": 1.0,
+        "grey": 0.0,
+        "darkGrey": 0.0,
+        "liteGrey": 0.0,
+        "black": 0.0,
+        "color": 0.0
+      },
+      {
+        "nubmer": 26,
+        "white": 1.0,
+        "grey": 0.0,
+        "darkGrey": 0.0,
+        "liteGrey": 0.0,
+        "black": 0.0,
+        "color": 0.0
+      },
+      {
+        "nubmer": 27,
+        "white": 1.0,
+        "grey": 0.0,
+        "darkGrey": 0.0,
+        "liteGrey": 0.0,
+        "black": 0.0,
+        "color": 0.0
+      },
+      {
+        "nubmer": 28,
+        "white": 1.0,
+        "grey": 0.0,
+        "darkGrey": 0.0,
+        "liteGrey": 0.0,
+        "black": 0.0,
+        "color": 0.0
+      },
+      {
+        "nubmer": 29,
+        "white": 1.0,
+        "grey": 0.0,
+        "darkGrey": 0.0,
+        "liteGrey": 0.0,
+        "black": 0.0,
+        "color": 0.0
+      },
+      {
+        "nubmer": 30,
+        "white": 1.0,
+        "grey": 0.0,
+        "darkGrey": 0.0,
+        "liteGrey": 0.0,
+        "black": 0.0,
+        "color": 0.0
+      },
+      {
+        "nubmer": 31,
+        "white": 1.0,
+        "grey": 0.0,
+        "darkGrey": 0.0,
+        "liteGrey": 0.0,
+        "black": 0.0,
+        "color": 0.0
+      },
+      {
+        "nubmer": 32,
+        "white": 0.0,
+        "grey": 0.0,
+        "darkGrey": 0.0,
+        "liteGrey": 0.0,
+        "black": 0.0,
+        "color": 0.0
+      },
+      {
+        "nubmer": 33,
+        "white": 0.0,
+        "grey": 0.0,
+        "darkGrey": 0.0,
+        "liteGrey": 0.0,
+        "black": 0.0,
+        "color": 0.0
+      },
+      {
+        "nubmer": 34,
+        "white": 0.0,
+        "grey": 0.0,
+        "darkGrey": 0.0,
+        "liteGrey": 0.0,
+        "black": 0.0,
+        "color": 0.0
+      },
+      {
+        "nubmer": 35,
+        "white": 0.0,
+        "grey": 0.0,
+        "darkGrey": 0.0,
+        "liteGrey": 0.0,
+        "black": 0.0,
+        "color": 0.0
+      },
+      {
+        "nubmer": 36,
+        "white": 0.0,
+        "grey": 0.0,
+        "darkGrey": 0.0,
+        "liteGrey": 0.0,
+        "black": 0.0,
+        "color": 0.0
+      },
+      {
+        "nubmer": 37,
+        "white": 1.0,
+        "grey": 0.0,
+        "darkGrey": 0.0,
+        "liteGrey": 0.0,
+        "black": 0.0,
+        "color": 0.0
+      },
+      {
+        "nubmer": 38,
+        "white": 1.0,
+        "grey": 0.0,
+        "darkGrey": 0.0,
+        "liteGrey": 0.0,
+        "black": 0.0,
+        "color": 0.0
+      },
+      {
+        "nubmer": 39,
+        "white": 1.0,
+        "grey": 0.0,
+        "darkGrey": 0.0,
+        "liteGrey": 0.0,
+        "black": 0.0,
+        "color": 0.0
+      },
+      {
+        "nubmer": 40,
+        "white": 1.0,
+        "grey": 0.0,
+        "darkGrey": 0.0,
+        "liteGrey": 0.0,
+        "black": 0.0,
+        "color": 0.0
+      },
+      {
+        "nubmer": 41,
+        "white": 1.0,
+        "grey": 0.0,
+        "darkGrey": 0.0,
+        "liteGrey": 0.0,
+        "black": 0.0,
+        "color": 0.0
+      },
+      {
+        "nubmer": 42,
+        "white": 1.0,
+        "grey": 0.0,
+        "darkGrey": 0.0,
+        "liteGrey": 0.0,
+        "black": 0.0,
+        "color": 0.0
+      },
+      {
+        "nubmer": 43,
+        "white": 1.0,
+        "grey": 0.0,
+        "darkGrey": 0.0,
+        "liteGrey": 0.0,
+        "black": 0.0,
+        "color": 0.0
+      },
+      {
+        "nubmer": 44,
+        "white": 1.0,
+        "grey": 0.0,
+        "darkGrey": 0.0,
+        "liteGrey": 0.0,
+        "black": 0.0,
+        "color": 0.0
+      },
+      {
+        "nubmer": 45,
+        "white": 1.0,
+        "grey": 0.0,
+        "darkGrey": 0.0,
+        "liteGrey": 0.0,
+        "black": 0.0,
+        "color": 0.0
+      },
+      {
+        "nubmer": 46,
+        "white": 1.0,
+        "grey": 0.0,
+        "darkGrey": 0.0,
+        "liteGrey": 0.0,
+        "black": 0.0,
+        "color": 0.0
+      },
+      {
+        "nubmer": 47,
+        "white": 1.0,
+        "grey": 0.0,
+        "darkGrey": 0.0,
+        "liteGrey": 0.0,
+        "black": 0.0,
+        "color": 0.0
+      },
+      {
+        "nubmer": 48,
+        "white": 1.0,
+        "grey": 0.0,
+        "darkGrey": 0.0,
+        "liteGrey": 0.0,
+        "black": 0.0,
+        "color": 0.0
+      },
+      {
+        "nubmer": 49,
+        "white": 1.0,
+        "grey": 0.0,
+        "darkGrey": 0.0,
+        "liteGrey": 0.0,
+        "black": 0.0,
+        "color": 0.0
+      },
+      {
+        "nubmer": 50,
+        "white": 1.0,
+        "grey": 0.0,
+        "darkGrey": 0.0,
+        "liteGrey": 0.0,
+        "black": 0.0,
+        "color": 0.0
+      },
+      {
+        "nubmer": 51,
+        "white": 1.0,
+        "grey": 0.0,
+        "darkGrey": 0.0,
+        "liteGrey": 0.0,
+        "black": 0.0,
+        "color": 0.0
+      },
+      {
+        "nubmer": 52,
+        "white": 0.95,
+        "grey": 0.0,
+        "darkGrey": 0.0,
+        "liteGrey": 0.0,
+        "black": 0.05,
+        "color": 0.0
+      },
+      {
+        "nubmer": 53,
+        "white": 0.95,
+        "grey": 0.0,
+        "darkGrey": 0.0,
+        "liteGrey": 0.0,
+        "black": 0.05,
+        "color": 0.0
+      },
+      {
+        "nubmer": 54,
+        "white": 1.0,
+        "grey": 0.0,
+        "darkGrey": 0.0,
+        "liteGrey": 0.0,
+        "black": 0.0,
+        "color": 0.0
+      },
+      {
+        "nubmer": 55,
+        "white": 1.0,
+        "grey": 0.0,
+        "darkGrey": 0.0,
+        "liteGrey": 0.0,
+        "black": 0.0,
+        "color": 0.0
+      },
+      {
+        "nubmer": 56,
+        "white": 1.0,
+        "grey": 0.0,
+        "darkGrey": 0.0,
+        "liteGrey": 0.0,
+        "black": 0.0,
+        "color": 0.0
+      },
+      {
+        "nubmer": 57,
+        "white": 1.0,
+        "grey": 0.0,
+        "darkGrey": 0.0,
+        "liteGrey": 0.0,
+        "black": 0.0,
+        "color": 0.0
+      },
+      {
+        "nubmer": 58,
+        "white": 1.0,
+        "grey": 0.0,
+        "darkGrey": 0.0,
+        "liteGrey": 0.0,
+        "black": 0.0,
+        "color": 0.0
+      },
+      {
+        "nubmer": 59,
+        "white": 1.0,
+        "grey": 0.0,
+        "darkGrey": 0.0,
+        "liteGrey": 0.0,
+        "black": 0.0,
+        "color": 0.0
+      },
+      {
+        "nubmer": 60,
+        "white": 1.0,
+        "grey": 0.0,
+        "darkGrey": 0.0,
+        "liteGrey": 0.0,
+        "black": 0.0,
+        "color": 0.0
+      },
+      {
+        "nubmer": 61,
+        "white": 1.0,
+        "grey": 0.0,
+        "darkGrey": 0.0,
+        "liteGrey": 0.0,
+        "black": 0.0,
+        "color": 0.0
+      },
+      {
+        "nubmer": 62,
+        "white": 1.0,
+        "grey": 0.0,
+        "darkGrey": 0.0,
+        "liteGrey": 0.0,
+        "black": 0.0,
+        "color": 0.0
+      },
+      {
+        "nubmer": 63,
+        "white": 1.0,
+        "grey": 0.0,
+        "darkGrey": 0.0,
+        "liteGrey": 0.0,
+        "black": 0.0,
+        "color": 0.0
+      },
+      {
+        "nubmer": 64,
+        "white": 0.0,
+        "grey": 0.0,
+        "darkGrey": 0.0,
+        "liteGrey": 0.0,
+        "black": 0.0,
+        "color": 0.0
+      },
+      {
+        "nubmer": 65,
+        "white": 0.0,
+        "grey": 0.0,
+        "darkGrey": 0.0,
+        "liteGrey": 0.0,
+        "black": 0.0,
+        "color": 0.0
+      },
+      {
+        "nubmer": 66,
+        "white": 0.0,
+        "grey": 0.0,
+        "darkGrey": 0.0,
+        "liteGrey": 0.0,
+        "black": 0.0,
+        "color": 0.0
+      },
+      {
+        "nubmer": 67,
+        "white": 0.0,
+        "grey": 0.0,
+        "darkGrey": 0.0,
+        "liteGrey": 0.0,
+        "black": 0.0,
+        "color": 0.0
+      },
+      {
+        "nubmer": 68,
+        "white": 0.0,
+        "grey": 0.0,
+        "darkGrey": 0.0,
+        "liteGrey": 0.0,
+        "black": 0.0,
+        "color": 0.0
+      },
+      {
+        "nubmer": 69,
+        "white": 1.0,
+        "grey": 0.0,
+        "darkGrey": 0.0,
+        "liteGrey": 0.0,
+        "black": 0.0,
+        "color": 0.0
+      },
+      {
+        "nubmer": 70,
+        "white": 1.0,
+        "grey": 0.0,
+        "darkGrey": 0.0,
+        "liteGrey": 0.0,
+        "black": 0.0,
+        "color": 0.0
+      },
+      {
+        "nubmer": 71,
+        "white": 1.0,
+        "grey": 0.0,
+        "darkGrey": 0.0,
+        "liteGrey": 0.0,
+        "black": 0.0,
+        "color": 0.0
+      },
+      {
+        "nubmer": 72,
+        "white": 1.0,
+        "grey": 0.0,
+        "darkGrey": 0.0,
+        "liteGrey": 0.0,
+        "black": 0.0,
+        "color": 0.0
+      },
+      {
+        "nubmer": 73,
+        "white": 1.0,
+        "grey": 0.0,
+        "darkGrey": 0.0,
+        "liteGrey": 0.0,
+        "black": 0.0,
+        "color": 0.0
+      },
+      {
+        "nubmer": 74,
+        "white": 1.0,
+        "grey": 0.0,
+        "darkGrey": 0.0,
+        "liteGrey": 0.0,
+        "black": 0.0,
+        "color": 0.0
+      },
+      {
+        "nubmer": 75,
+        "white": 1.0,
+        "grey": 0.0,
+        "darkGrey": 0.0,
+        "liteGrey": 0.0,
+        "black": 0.0,
+        "color": 0.0
+      },
+      {
+        "nubmer": 76,
+        "white": 1.0,
+        "grey": 0.0,
+        "darkGrey": 0.0,
+        "liteGrey": 0.0,
+        "black": 0.0,
+        "color": 0.0
+      },
+      {
+        "nubmer": 77,
+        "white": 1.0,
+        "grey": 0.0,
+        "darkGrey": 0.0,
+        "liteGrey": 0.0,
+        "black": 0.0,
+        "color": 0.0
+      },
+      {
+        "nubmer": 78,
+        "white": 1.0,
+        "grey": 0.0,
+        "darkGrey": 0.0,
+        "liteGrey": 0.0,
+        "black": 0.0,
+        "color": 0.0
+      },
+      {
+        "nubmer": 79,
+        "white": 1.0,
+        "grey": 0.0,
+        "darkGrey": 0.0,
+        "liteGrey": 0.0,
+        "black": 0.0,
+        "color": 0.0
+      },
+      {
+        "nubmer": 80,
+        "white": 1.0,
+        "grey": 0.0,
+        "darkGrey": 0.0,
+        "liteGrey": 0.0,
+        "black": 0.0,
+        "color": 0.0
+      },
+      {
+        "nubmer": 81,
+        "white": 1.0,
+        "grey": 0.0,
+        "darkGrey": 0.0,
+        "liteGrey": 0.0,
+        "black": 0.0,
+        "color": 0.0
+      },
+      {
+        "nubmer": 82,
+        "white": 1.0,
+        "grey": 0.0,
+        "darkGrey": 0.0,
+        "liteGrey": 0.0,
+        "black": 0.0,
+        "color": 0.0
+      },
+      {
+        "nubmer": 83,
+        "white": 1.0,
+        "grey": 0.0,
+        "darkGrey": 0.0,
+        "liteGrey": 0.0,
+        "black": 0.0,
+        "color": 0.0
+      },
+      {
+        "nubmer": 84,
+        "white": 0.95,
+        "grey": 0.0,
+        "darkGrey": 0.0,
+        "liteGrey": 0.0,
+        "black": 0.05,
+        "color": 0.0
+      },
+      {
+        "nubmer": 85,
+        "white": 0.95,
+        "grey": 0.0,
+        "darkGrey": 0.0,
+        "liteGrey": 0.0,
+        "black": 0.05,
+        "color": 0.0
+      },
+      {
+        "nubmer": 86,
+        "white": 1.0,
+        "grey": 0.0,
+        "darkGrey": 0.0,
+        "liteGrey": 0.0,
+        "black": 0.0,
+        "color": 0.0
+      },
+      {
+        "nubmer": 87,
+        "white": 1.0,
+        "grey": 0.0,
+        "darkGrey": 0.0,
+        "liteGrey": 0.0,
+        "black": 0.0,
+        "color": 0.0
+      },
+      {
+        "nubmer": 88,
+        "white": 1.0,
+        "grey": 0.0,
+        "darkGrey": 0.0,
+        "liteGrey": 0.0,
+        "black": 0.0,
+        "color": 0.0
+      },
+      {
+        "nubmer": 89,
+        "white": 1.0,
+        "grey": 0.0,
+        "darkGrey": 0.0,
+        "liteGrey": 0.0,
+        "black": 0.0,
+        "color": 0.0
+      },
+      {
+        "nubmer": 90,
+        "white": 1.0,
+        "grey": 0.0,
+        "darkGrey": 0.0,
+        "liteGrey": 0.0,
+        "black": 0.0,
+        "color": 0.0
+      },
+      {
+        "nubmer": 91,
+        "white": 1.0,
+        "grey": 0.0,
+        "darkGrey": 0.0,
+        "liteGrey": 0.0,
+        "black": 0.0,
+        "color": 0.0
+      },
+      {
+        "nubmer": 92,
+        "white": 1.0,
+        "grey": 0.0,
+        "darkGrey": 0.0,
+        "liteGrey": 0.0,
+        "black": 0.0,
+        "color": 0.0
+      },
+      {
+        "nubmer": 93,
+        "white": 1.0,
+        "grey": 0.0,
+        "darkGrey": 0.0,
+        "liteGrey": 0.0,
+        "black": 0.0,
+        "color": 0.0
+      },
+      {
+        "nubmer": 94,
+        "white": 1.0,
+        "grey": 0.0,
+        "darkGrey": 0.0,
+        "liteGrey": 0.0,
+        "black": 0.0,
+        "color": 0.0
+      },
+      {
+        "nubmer": 95,
+        "white": 1.0,
+        "grey": 0.0,
+        "darkGrey": 0.0,
+        "liteGrey": 0.0,
+        "black": 0.0,
+        "color": 0.0
+      },
+      {
+        "nubmer": 96,
+        "white": 0.0,
+        "grey": 0.0,
+        "darkGrey": 0.0,
+        "liteGrey": 0.0,
+        "black": 0.0,
+        "color": 0.0
+      },
+      {
+        "nubmer": 97,
+        "white": 0.0,
+        "grey": 0.0,
+        "darkGrey": 0.0,
+        "liteGrey": 0.0,
+        "black": 0.0,
+        "color": 0.0
+      },
+      {
+        "nubmer": 98,
+        "white": 0.0,
+        "grey": 0.0,
+        "darkGrey": 0.0,
+        "liteGrey": 0.0,
+        "black": 0.0,
+        "color": 0.0
+      },
+      {
+        "nubmer": 99,
+        "white": 0.0,
+        "grey": 0.0,
+        "darkGrey": 0.0,
+        "liteGrey": 0.0,
+        "black": 0.0,
+        "color": 0.0
+      },
+      {
+        "nubmer": 100,
+        "white": 0.0,
+        "grey": 0.0,
+        "darkGrey": 0.0,
+        "liteGrey": 0.0,
+        "black": 0.0,
+        "color": 0.0
+      },
+      {
+        "nubmer": 101,
+        "white": 1.0,
+        "grey": 0.0,
+        "darkGrey": 0.0,
+        "liteGrey": 0.0,
+        "black": 0.0,
+        "color": 0.0
+      },
+      {
+        "nubmer": 102,
+        "white": 1.0,
+        "grey": 0.0,
+        "darkGrey": 0.0,
+        "liteGrey": 0.0,
+        "black": 0.0,
+        "color": 0.0
+      },
+      {
+        "nubmer": 103,
+        "white": 1.0,
+        "grey": 0.0,
+        "darkGrey": 0.0,
+        "liteGrey": 0.0,
+        "black": 0.0,
+        "color": 0.0
+      },
+      {
+        "nubmer": 104,
+        "white": 1.0,
+        "grey": 0.0,
+        "darkGrey": 0.0,
+        "liteGrey": 0.0,
+        "black": 0.0,
+        "color": 0.0
+      },
+      {
+        "nubmer": 105,
+        "white": 1.0,
+        "grey": 0.0,
+        "darkGrey": 0.0,
+        "liteGrey": 0.0,
+        "black": 0.0,
+        "color": 0.0
+      },
+      {
+        "nubmer": 106,
+        "white": 1.0,
+        "grey": 0.0,
+        "darkGrey": 0.0,
+        "liteGrey": 0.0,
+        "black": 0.0,
+        "color": 0.0
+      },
+      {
+        "nubmer": 107,
+        "white": 1.0,
+        "grey": 0.0,
+        "darkGrey": 0.0,
+        "liteGrey": 0.0,
+        "black": 0.0,
+        "color": 0.0
+      },
+      {
+        "nubmer": 108,
+        "white": 1.0,
+        "grey": 0.0,
+        "darkGrey": 0.0,
+        "liteGrey": 0.0,
+        "black": 0.0,
+        "color": 0.0
+      },
+      {
+        "nubmer": 109,
+        "white": 1.0,
+        "grey": 0.0,
+        "darkGrey": 0.0,
+        "liteGrey": 0.0,
+        "black": 0.0,
+        "color": 0.0
+      },
+      {
+        "nubmer": 110,
+        "white": 1.0,
+        "grey": 0.0,
+        "darkGrey": 0.0,
+        "liteGrey": 0.0,
+        "black": 0.0,
+        "color": 0.0
+      },
+      {
+        "nubmer": 111,
+        "white": 1.0,
+        "grey": 0.0,
+        "darkGrey": 0.0,
+        "liteGrey": 0.0,
+        "black": 0.0,
+        "color": 0.0
+      },
+      {
+        "nubmer": 112,
+        "white": 1.0,
+        "grey": 0.0,
+        "darkGrey": 0.0,
+        "liteGrey": 0.0,
+        "black": 0.0,
+        "color": 0.0
+      },
+      {
+        "nubmer": 113,
+        "white": 1.0,
+        "grey": 0.0,
+        "darkGrey": 0.0,
+        "liteGrey": 0.0,
+        "black": 0.0,
+        "color": 0.0
+      },
+      {
+        "nubmer": 114,
+        "white": 1.0,
+        "grey": 0.0,
+        "darkGrey": 0.0,
+        "liteGrey": 0.0,
+        "black": 0.0,
+        "color": 0.0
+      },
+      {
+        "nubmer": 115,
+        "white": 1.0,
+        "grey": 0.0,
+        "darkGrey": 0.0,
+        "liteGrey": 0.0,
+        "black": 0.0,
+        "color": 0.0
+      },
+      {
+        "nubmer": 116,
+        "white": 0.95,
+        "grey": 0.0,
+        "darkGrey": 0.0,
+        "liteGrey": 0.0,
+        "black": 0.05,
+        "color": 0.0
+      },
+      {
+        "nubmer": 117,
+        "white": 0.95,
+        "grey": 0.0,
+        "darkGrey": 0.0,
+        "liteGrey": 0.0,
+        "black": 0.05,
+        "color": 0.0
+      },
+      {
+        "nubmer": 118,
+        "white": 1.0,
+        "grey": 0.0,
+        "darkGrey": 0.0,
+        "liteGrey": 0.0,
+        "black": 0.0,
+        "color": 0.0
+      },
+      {
+        "nubmer": 119,
+        "white": 1.0,
+        "grey": 0.0,
+        "darkGrey": 0.0,
+        "liteGrey": 0.0,
+        "black": 0.0,
+        "color": 0.0
+      },
+      {
+        "nubmer": 120,
+        "white": 1.0,
+        "grey": 0.0,
+        "darkGrey": 0.0,
+        "liteGrey": 0.0,
+        "black": 0.0,
+        "color": 0.0
+      },
+      {
+        "nubmer": 121,
+        "white": 1.0,
+        "grey": 0.0,
+        "darkGrey": 0.0,
+        "liteGrey": 0.0,
+        "black": 0.0,
+        "color": 0.0
+      },
+      {
+        "nubmer": 122,
+        "white": 1.0,
+        "grey": 0.0,
+        "darkGrey": 0.0,
+        "liteGrey": 0.0,
+        "black": 0.0,
+        "color": 0.0
+      },
+      {
+        "nubmer": 123,
+        "white": 1.0,
+        "grey": 0.0,
+        "darkGrey": 0.0,
+        "liteGrey": 0.0,
+        "black": 0.0,
+        "color": 0.0
+      },
+      {
+        "nubmer": 124,
+        "white": 1.0,
+        "grey": 0.0,
+        "darkGrey": 0.0,
+        "liteGrey": 0.0,
+        "black": 0.0,
+        "color": 0.0
+      },
+      {
+        "nubmer": 125,
+        "white": 1.0,
+        "grey": 0.0,
+        "darkGrey": 0.0,
+        "liteGrey": 0.0,
+        "black": 0.0,
+        "color": 0.0
+      },
+      {
+        "nubmer": 126,
+        "white": 1.0,
+        "grey": 0.0,
+        "darkGrey": 0.0,
+        "liteGrey": 0.0,
+        "black": 0.0,
+        "color": 0.0
+      },
+      {
+        "nubmer": 127,
+        "white": 1.0,
+        "grey": 0.0,
+        "darkGrey": 0.0,
+        "liteGrey": 0.0,
+        "black": 0.0,
+        "color": 0.0
+      },
+      {
+        "nubmer": 128,
+        "white": 0.0,
+        "grey": 0.0,
+        "darkGrey": 0.0,
+        "liteGrey": 0.0,
+        "black": 0.0,
+        "color": 0.0
+      },
+      {
+        "nubmer": 129,
+        "white": 0.0,
+        "grey": 0.0,
+        "darkGrey": 0.0,
+        "liteGrey": 0.0,
+        "black": 0.0,
+        "color": 0.0
+      },
+      {
+        "nubmer": 130,
+        "white": 0.0,
+        "grey": 0.0,
+        "darkGrey": 0.0,
+        "liteGrey": 0.0,
+        "black": 0.0,
+        "color": 0.0
+      },
+      {
+        "nubmer": 131,
+        "white": 0.0,
+        "grey": 0.0,
+        "darkGrey": 0.0,
+        "liteGrey": 0.0,
+        "black": 0.0,
+        "color": 0.0
+      },
+      {
+        "nubmer": 132,
+        "white": 0.0,
+        "grey": 0.0,
+        "darkGrey": 0.0,
+        "liteGrey": 0.0,
+        "black": 0.0,
+        "color": 0.0
+      },
+      {
+        "nubmer": 133,
+        "white": 1.0,
+        "grey": 0.0,
+        "darkGrey": 0.0,
+        "liteGrey": 0.0,
+        "black": 0.0,
+        "color": 0.0
+      },
+      {
+        "nubmer": 134,
+        "white": 1.0,
+        "grey": 0.0,
+        "darkGrey": 0.0,
+        "liteGrey": 0.0,
+        "black": 0.0,
+        "color": 0.0
+      },
+      {
+        "nubmer": 135,
+        "white": 1.0,
+        "grey": 0.0,
+        "darkGrey": 0.0,
+        "liteGrey": 0.0,
+        "black": 0.0,
+        "color": 0.0
+      },
+      {
+        "nubmer": 136,
+        "white": 1.0,
+        "grey": 0.0,
+        "darkGrey": 0.0,
+        "liteGrey": 0.0,
+        "black": 0.0,
+        "color": 0.0
+      },
+      {
+        "nubmer": 137,
+        "white": 1.0,
+        "grey": 0.0,
+        "darkGrey": 0.0,
+        "liteGrey": 0.0,
+        "black": 0.0,
+        "color": 0.0
+      },
+      {
+        "nubmer": 138,
+        "white": 1.0,
+        "grey": 0.0,
+        "darkGrey": 0.0,
+        "liteGrey": 0.0,
+        "black": 0.0,
+        "color": 0.0
+      },
+      {
+        "nubmer": 139,
+        "white": 1.0,
+        "grey": 0.0,
+        "darkGrey": 0.0,
+        "liteGrey": 0.0,
+        "black": 0.0,
+        "color": 0.0
+      },
+      {
+        "nubmer": 140,
+        "white": 1.0,
+        "grey": 0.0,
+        "darkGrey": 0.0,
+        "liteGrey": 0.0,
+        "black": 0.0,
+        "color": 0.0
+      },
+      {
+        "nubmer": 141,
+        "white": 1.0,
+        "grey": 0.0,
+        "darkGrey": 0.0,
+        "liteGrey": 0.0,
+        "black": 0.0,
+        "color": 0.0
+      },
+      {
+        "nubmer": 142,
+        "white": 1.0,
+        "grey": 0.0,
+        "darkGrey": 0.0,
+        "liteGrey": 0.0,
+        "black": 0.0,
+        "color": 0.0
+      },
+      {
+        "nubmer": 143,
+        "white": 1.0,
+        "grey": 0.0,
+        "darkGrey": 0.0,
+        "liteGrey": 0.0,
+        "black": 0.0,
+        "color": 0.0
+      },
+      {
+        "nubmer": 144,
+        "white": 1.0,
+        "grey": 0.0,
+        "darkGrey": 0.0,
+        "liteGrey": 0.0,
+        "black": 0.0,
+        "color": 0.0
+      },
+      {
+        "nubmer": 145,
+        "white": 1.0,
+        "grey": 0.0,
+        "darkGrey": 0.0,
+        "liteGrey": 0.0,
+        "black": 0.0,
+        "color": 0.0
+      },
+      {
+        "nubmer": 146,
+        "white": 1.0,
+        "grey": 0.0,
+        "darkGrey": 0.0,
+        "liteGrey": 0.0,
+        "black": 0.0,
+        "color": 0.0
+      },
+      {
+        "nubmer": 147,
+        "white": 1.0,
+        "grey": 0.0,
+        "darkGrey": 0.0,
+        "liteGrey": 0.0,
+        "black": 0.0,
+        "color": 0.0
+      },
+      {
+        "nubmer": 148,
+        "white": 0.95,
+        "grey": 0.0,
+        "darkGrey": 0.0,
+        "liteGrey": 0.0,
+        "black": 0.05,
+        "color": 0.0
+      },
+      {
+        "nubmer": 149,
+        "white": 0.95,
+        "grey": 0.0,
+        "darkGrey": 0.0,
+        "liteGrey": 0.0,
+        "black": 0.05,
+        "color": 0.0
+      },
+      {
+        "nubmer": 150,
+        "white": 1.0,
+        "grey": 0.0,
+        "darkGrey": 0.0,
+        "liteGrey": 0.0,
+        "black": 0.0,
+        "color": 0.0
+      },
+      {
+        "nubmer": 151,
+        "white": 1.0,
+        "grey": 0.0,
+        "darkGrey": 0.0,
+        "liteGrey": 0.0,
+        "black": 0.0,
+        "color": 0.0
+      },
+      {
+        "nubmer": 152,
+        "white": 1.0,
+        "grey": 0.0,
+        "darkGrey": 0.0,
+        "liteGrey": 0.0,
+        "black": 0.0,
+        "color": 0.0
+      },
+      {
+        "nubmer": 153,
+        "white": 1.0,
+        "grey": 0.0,
+        "darkGrey": 0.0,
+        "liteGrey": 0.0,
+        "black": 0.0,
+        "color": 0.0
+      },
+      {
+        "nubmer": 154,
+        "white": 1.0,
+        "grey": 0.0,
+        "darkGrey": 0.0,
+        "liteGrey": 0.0,
+        "black": 0.0,
+        "color": 0.0
+      },
+      {
+        "nubmer": 155,
+        "white": 1.0,
+        "grey": 0.0,
+        "darkGrey": 0.0,
+        "liteGrey": 0.0,
+        "black": 0.0,
+        "color": 0.0
+      },
+      {
+        "nubmer": 156,
+        "white": 1.0,
+        "grey": 0.0,
+        "darkGrey": 0.0,
+        "liteGrey": 0.0,
+        "black": 0.0,
+        "color": 0.0
+      },
+      {
+        "nubmer": 157,
+        "white": 1.0,
+        "grey": 0.0,
+        "darkGrey": 0.0,
+        "liteGrey": 0.0,
+        "black": 0.0,
+        "color": 0.0
+      },
+      {
+        "nubmer": 158,
+        "white": 1.0,
+        "grey": 0.0,
+        "darkGrey": 0.0,
+        "liteGrey": 0.0,
+        "black": 0.0,
+        "color": 0.0
+      },
+      {
+        "nubmer": 159,
+        "white": 1.0,
+        "grey": 0.0,
+        "darkGrey": 0.0,
+        "liteGrey": 0.0,
+        "black": 0.0,
+        "color": 0.0
+      },
+      {
+        "nubmer": 160,
+        "white": 0.0,
+        "grey": 0.0,
+        "darkGrey": 0.0,
+        "liteGrey": 0.0,
+        "black": 0.0,
+        "color": 0.0
+      },
+      {
+        "nubmer": 161,
+        "white": 0.0,
+        "grey": 0.0,
+        "darkGrey": 0.0,
+        "liteGrey": 0.0,
+        "black": 0.0,
+        "color": 0.0
+      },
+      {
+        "nubmer": 162,
+        "white": 0.0,
+        "grey": 0.0,
+        "darkGrey": 0.0,
+        "liteGrey": 0.0,
+        "black": 0.0,
+        "color": 0.0
+      },
+      {
+        "nubmer": 163,
+        "white": 0.0,
+        "grey": 0.0,
+        "darkGrey": 0.0,
+        "liteGrey": 0.0,
+        "black": 0.0,
+        "color": 0.0
+      },
+      {
+        "nubmer": 164,
+        "white": 0.0,
+        "grey": 0.0,
+        "darkGrey": 0.0,
+        "liteGrey": 0.0,
+        "black": 0.0,
+        "color": 0.0
+      },
+      {
+        "nubmer": 165,
+        "white": 1.0,
+        "grey": 0.0,
+        "darkGrey": 0.0,
+        "liteGrey": 0.0,
+        "black": 0.0,
+        "color": 0.0
+      },
+      {
+        "nubmer": 166,
+        "white": 1.0,
+        "grey": 0.0,
+        "darkGrey": 0.0,
+        "liteGrey": 0.0,
+        "black": 0.0,
+        "color": 0.0
+      },
+      {
+        "nubmer": 167,
+        "white": 1.0,
+        "grey": 0.0,
+        "darkGrey": 0.0,
+        "liteGrey": 0.0,
+        "black": 0.0,
+        "color": 0.0
+      },
+      {
+        "nubmer": 168,
+        "white": 1.0,
+        "grey": 0.0,
+        "darkGrey": 0.0,
+        "liteGrey": 0.0,
+        "black": 0.0,
+        "color": 0.0
+      },
+      {
+        "nubmer": 169,
+        "white": 1.0,
+        "grey": 0.0,
+        "darkGrey": 0.0,
+        "liteGrey": 0.0,
+        "black": 0.0,
+        "color": 0.0
+      },
+      {
+        "nubmer": 170,
+        "white": 1.0,
+        "grey": 0.0,
+        "darkGrey": 0.0,
+        "liteGrey": 0.0,
+        "black": 0.0,
+        "color": 0.0
+      },
+      {
+        "nubmer": 171,
+        "white": 1.0,
+        "grey": 0.0,
+        "darkGrey": 0.0,
+        "liteGrey": 0.0,
+        "black": 0.0,
+        "color": 0.0
+      },
+      {
+        "nubmer": 172,
+        "white": 1.0,
+        "grey": 0.0,
+        "darkGrey": 0.0,
+        "liteGrey": 0.0,
+        "black": 0.0,
+        "color": 0.0
+      },
+      {
+        "nubmer": 173,
+        "white": 1.0,
+        "grey": 0.0,
+        "darkGrey": 0.0,
+        "liteGrey": 0.0,
+        "black": 0.0,
+        "color": 0.0
+      },
+      {
+        "nubmer": 174,
+        "white": 1.0,
+        "grey": 0.0,
+        "darkGrey": 0.0,
+        "liteGrey": 0.0,
+        "black": 0.0,
+        "color": 0.0
+      },
+      {
+        "nubmer": 175,
+        "white": 1.0,
+        "grey": 0.0,
+        "darkGrey": 0.0,
+        "liteGrey": 0.0,
+        "black": 0.0,
+        "color": 0.0
+      },
+      {
+        "nubmer": 176,
+        "white": 1.0,
+        "grey": 0.0,
+        "darkGrey": 0.0,
+        "liteGrey": 0.0,
+        "black": 0.0,
+        "color": 0.0
+      },
+      {
+        "nubmer": 177,
+        "white": 1.0,
+        "grey": 0.0,
+        "darkGrey": 0.0,
+        "liteGrey": 0.0,
+        "black": 0.0,
+        "color": 0.0
+      },
+      {
+        "nubmer": 178,
+        "white": 1.0,
+        "grey": 0.0,
+        "darkGrey": 0.0,
+        "liteGrey": 0.0,
+        "black": 0.0,
+        "color": 0.0
+      },
+      {
+        "nubmer": 179,
+        "white": 1.0,
+        "grey": 0.0,
+        "darkGrey": 0.0,
+        "liteGrey": 0.0,
+        "black": 0.0,
+        "color": 0.0
+      },
+      {
+        "nubmer": 180,
+        "white": 0.95,
+        "grey": 0.0,
+        "darkGrey": 0.0,
+        "liteGrey": 0.0,
+        "black": 0.05,
+        "color": 0.0
+      },
+      {
+        "nubmer": 181,
+        "white": 0.95,
+        "grey": 0.0,
+        "darkGrey": 0.0,
+        "liteGrey": 0.0,
+        "black": 0.05,
+        "color": 0.0
+      },
+      {
+        "nubmer": 182,
+        "white": 1.0,
+        "grey": 0.0,
+        "darkGrey": 0.0,
+        "liteGrey": 0.0,
+        "black": 0.0,
+        "color": 0.0
+      },
+      {
+        "nubmer": 183,
+        "white": 1.0,
+        "grey": 0.0,
+        "darkGrey": 0.0,
+        "liteGrey": 0.0,
+        "black": 0.0,
+        "color": 0.0
+      },
+      {
+        "nubmer": 184,
+        "white": 1.0,
+        "grey": 0.0,
+        "darkGrey": 0.0,
+        "liteGrey": 0.0,
+        "black": 0.0,
+        "color": 0.0
+      },
+      {
+        "nubmer": 185,
+        "white": 1.0,
+        "grey": 0.0,
+        "darkGrey": 0.0,
+        "liteGrey": 0.0,
+        "black": 0.0,
+        "color": 0.0
+      },
+      {
+        "nubmer": 186,
+        "white": 1.0,
+        "grey": 0.0,
+        "darkGrey": 0.0,
+        "liteGrey": 0.0,
+        "black": 0.0,
+        "color": 0.0
+      },
+      {
+        "nubmer": 187,
+        "white": 1.0,
+        "grey": 0.0,
+        "darkGrey": 0.0,
+        "liteGrey": 0.0,
+        "black": 0.0,
+        "color": 0.0
+      },
+      {
+        "nubmer": 188,
+        "white": 1.0,
+        "grey": 0.0,
+        "darkGrey": 0.0,
+        "liteGrey": 0.0,
+        "black": 0.0,
+        "color": 0.0
+      },
+      {
+        "nubmer": 189,
+        "white": 1.0,
+        "grey": 0.0,
+        "darkGrey": 0.0,
+        "liteGrey": 0.0,
+        "black": 0.0,
+        "color": 0.0
+      },
+      {
+        "nubmer": 190,
+        "white": 1.0,
+        "grey": 0.0,
+        "darkGrey": 0.0,
+        "liteGrey": 0.0,
+        "black": 0.0,
+        "color": 0.0
+      },
+      {
+        "nubmer": 191,
+        "white": 1.0,
+        "grey": 0.0,
+        "darkGrey": 0.0,
+        "liteGrey": 0.0,
+        "black": 0.0,
+        "color": 0.0
+      },
+      {
+        "nubmer": 192,
+        "white": 0.0,
+        "grey": 0.0,
+        "darkGrey": 0.0,
+        "liteGrey": 0.0,
+        "black": 0.0,
+        "color": 0.0
+      },
+      {
+        "nubmer": 193,
+        "white": 0.0,
+        "grey": 0.0,
+        "darkGrey": 0.0,
+        "liteGrey": 0.0,
+        "black": 0.0,
+        "color": 0.0
+      },
+      {
+        "nubmer": 194,
+        "white": 0.0,
+        "grey": 0.0,
+        "darkGrey": 0.0,
+        "liteGrey": 0.0,
+        "black": 0.0,
+        "color": 0.0
+      },
+      {
+        "nubmer": 195,
+        "white": 0.0,
+        "grey": 0.0,
+        "darkGrey": 0.0,
+        "liteGrey": 0.0,
+        "black": 0.0,
+        "color": 0.0
+      },
+      {
+        "nubmer": 196,
+        "white": 0.0,
+        "grey": 0.0,
+        "darkGrey": 0.0,
+        "liteGrey": 0.0,
+        "black": 0.0,
+        "color": 0.0
+      },
+      {
+        "nubmer": 197,
+        "white": 1.0,
+        "grey": 0.0,
+        "darkGrey": 0.0,
+        "liteGrey": 0.0,
+        "black": 0.0,
+        "color": 0.0
+      },
+      {
+        "nubmer": 198,
+        "white": 1.0,
+        "grey": 0.0,
+        "darkGrey": 0.0,
+        "liteGrey": 0.0,
+        "black": 0.0,
+        "color": 0.0
+      },
+      {
+        "nubmer": 199,
+        "white": 1.0,
+        "grey": 0.0,
+        "darkGrey": 0.0,
+        "liteGrey": 0.0,
+        "black": 0.0,
+        "color": 0.0
+      },
+      {
+        "nubmer": 200,
+        "white": 1.0,
+        "grey": 0.0,
+        "darkGrey": 0.0,
+        "liteGrey": 0.0,
+        "black": 0.0,
+        "color": 0.0
+      },
+      {
+        "nubmer": 201,
+        "white": 1.0,
+        "grey": 0.0,
+        "darkGrey": 0.0,
+        "liteGrey": 0.0,
+        "black": 0.0,
+        "color": 0.0
+      },
+      {
+        "nubmer": 202,
+        "white": 1.0,
+        "grey": 0.0,
+        "darkGrey": 0.0,
+        "liteGrey": 0.0,
+        "black": 0.0,
+        "color": 0.0
+      },
+      {
+        "nubmer": 203,
+        "white": 1.0,
+        "grey": 0.0,
+        "darkGrey": 0.0,
+        "liteGrey": 0.0,
+        "black": 0.0,
+        "color": 0.0
+      },
+      {
+        "nubmer": 204,
+        "white": 1.0,
+        "grey": 0.0,
+        "darkGrey": 0.0,
+        "liteGrey": 0.0,
+        "black": 0.0,
+        "color": 0.0
+      },
+      {
+        "nubmer": 205,
+        "white": 1.0,
+        "grey": 0.0,
+        "darkGrey": 0.0,
+        "liteGrey": 0.0,
+        "black": 0.0,
+        "color": 0.0
+      },
+      {
+        "nubmer": 206,
+        "white": 1.0,
+        "grey": 0.0,
+        "darkGrey": 0.0,
+        "liteGrey": 0.0,
+        "black": 0.0,
+        "color": 0.0
+      },
+      {
+        "nubmer": 207,
+        "white": 1.0,
+        "grey": 0.0,
+        "darkGrey": 0.0,
+        "liteGrey": 0.0,
+        "black": 0.0,
+        "color": 0.0
+      },
+      {
+        "nubmer": 208,
+        "white": 1.0,
+        "grey": 0.0,
+        "darkGrey": 0.0,
+        "liteGrey": 0.0,
+        "black": 0.0,
+        "color": 0.0
+      },
+      {
+        "nubmer": 209,
+        "white": 1.0,
+        "grey": 0.0,
+        "darkGrey": 0.0,
+        "liteGrey": 0.0,
+        "black": 0.0,
+        "color": 0.0
+      },
+      {
+        "nubmer": 210,
+        "white": 1.0,
+        "grey": 0.0,
+        "darkGrey": 0.0,
+        "liteGrey": 0.0,
+        "black": 0.0,
+        "color": 0.0
+      },
+      {
+        "nubmer": 211,
+        "white": 1.0,
+        "grey": 0.0,
+        "darkGrey": 0.0,
+        "liteGrey": 0.0,
+        "black": 0.0,
+        "color": 0.0
+      },
+      {
+        "nubmer": 212,
+        "white": 0.95,
+        "grey": 0.0,
+        "darkGrey": 0.0,
+        "liteGrey": 0.0,
+        "black": 0.05,
+        "color": 0.0
+      },
+      {
+        "nubmer": 213,
+        "white": 0.95,
+        "grey": 0.0,
+        "darkGrey": 0.0,
+        "liteGrey": 0.0,
+        "black": 0.05,
+        "color": 0.0
+      },
+      {
+        "nubmer": 214,
+        "white": 1.0,
+        "grey": 0.0,
+        "darkGrey": 0.0,
+        "liteGrey": 0.0,
+        "black": 0.0,
+        "color": 0.0
+      },
+      {
+        "nubmer": 215,
+        "white": 1.0,
+        "grey": 0.0,
+        "darkGrey": 0.0,
+        "liteGrey": 0.0,
+        "black": 0.0,
+        "color": 0.0
+      },
+      {
+        "nubmer": 216,
+        "white": 1.0,
+        "grey": 0.0,
+        "darkGrey": 0.0,
+        "liteGrey": 0.0,
+        "black": 0.0,
+        "color": 0.0
+      },
+      {
+        "nubmer": 217,
+        "white": 1.0,
+        "grey": 0.0,
+        "darkGrey": 0.0,
+        "liteGrey": 0.0,
+        "black": 0.0,
+        "color": 0.0
+      },
+      {
+        "nubmer": 218,
+        "white": 1.0,
+        "grey": 0.0,
+        "darkGrey": 0.0,
+        "liteGrey": 0.0,
+        "black": 0.0,
+        "color": 0.0
+      },
+      {
+        "nubmer": 219,
+        "white": 1.0,
+        "grey": 0.0,
+        "darkGrey": 0.0,
+        "liteGrey": 0.0,
+        "black": 0.0,
+        "color": 0.0
+      },
+      {
+        "nubmer": 220,
+        "white": 1.0,
+        "grey": 0.0,
+        "darkGrey": 0.0,
+        "liteGrey": 0.0,
+        "black": 0.0,
+        "color": 0.0
+      },
+      {
+        "nubmer": 221,
+        "white": 1.0,
+        "grey": 0.0,
+        "darkGrey": 0.0,
+        "liteGrey": 0.0,
+        "black": 0.0,
+        "color": 0.0
+      },
+      {
+        "nubmer": 222,
+        "white": 1.0,
+        "grey": 0.0,
+        "darkGrey": 0.0,
+        "liteGrey": 0.0,
+        "black": 0.0,
+        "color": 0.0
+      },
+      {
+        "nubmer": 223,
+        "white": 1.0,
+        "grey": 0.0,
+        "darkGrey": 0.0,
+        "liteGrey": 0.0,
+        "black": 0.0,
+        "color": 0.0
+      },
+      {
+        "nubmer": 224,
+        "white": 0.0,
+        "grey": 0.0,
+        "darkGrey": 0.0,
+        "liteGrey": 0.0,
+        "black": 0.0,
+        "color": 0.0
+      },
+      {
+        "nubmer": 225,
+        "white": 0.0,
+        "grey": 0.0,
+        "darkGrey": 0.0,
+        "liteGrey": 0.0,
+        "black": 0.0,
+        "color": 0.0
+      },
+      {
+        "nubmer": 226,
+        "white": 0.0,
+        "grey": 0.0,
+        "darkGrey": 0.0,
+        "liteGrey": 0.0,
+        "black": 0.0,
+        "color": 0.0
+      },
+      {
+        "nubmer": 227,
+        "white": 0.0,
+        "grey": 0.0,
+        "darkGrey": 0.0,
+        "liteGrey": 0.0,
+        "black": 0.0,
+        "color": 0.0
+      },
+      {
+        "nubmer": 228,
+        "white": 0.0,
+        "grey": 0.0,
+        "darkGrey": 0.0,
+        "liteGrey": 0.0,
+        "black": 0.0,
+        "color": 0.0
+      },
+      {
+        "nubmer": 229,
+        "white": 1.0,
+        "grey": 0.0,
+        "darkGrey": 0.0,
+        "liteGrey": 0.0,
+        "black": 0.0,
+        "color": 0.0
+      },
+      {
+        "nubmer": 230,
+        "white": 1.0,
+        "grey": 0.0,
+        "darkGrey": 0.0,
+        "liteGrey": 0.0,
+        "black": 0.0,
+        "color": 0.0
+      },
+      {
+        "nubmer": 231,
+        "white": 1.0,
+        "grey": 0.0,
+        "darkGrey": 0.0,
+        "liteGrey": 0.0,
+        "black": 0.0,
+        "color": 0.0
+      },
+      {
+        "nubmer": 232,
+        "white": 1.0,
+        "grey": 0.0,
+        "darkGrey": 0.0,
+        "liteGrey": 0.0,
+        "black": 0.0,
+        "color": 0.0
+      },
+      {
+        "nubmer": 233,
+        "white": 1.0,
+        "grey": 0.0,
+        "darkGrey": 0.0,
+        "liteGrey": 0.0,
+        "black": 0.0,
+        "color": 0.0
+      },
+      {
+        "nubmer": 234,
+        "white": 1.0,
+        "grey": 0.0,
+        "darkGrey": 0.0,
+        "liteGrey": 0.0,
+        "black": 0.0,
+        "color": 0.0
+      },
+      {
+        "nubmer": 235,
+        "white": 1.0,
+        "grey": 0.0,
+        "darkGrey": 0.0,
+        "liteGrey": 0.0,
+        "black": 0.0,
+        "color": 0.0
+      },
+      {
+        "nubmer": 236,
+        "white": 1.0,
+        "grey": 0.0,
+        "darkGrey": 0.0,
+        "liteGrey": 0.0,
+        "black": 0.0,
+        "color": 0.0
+      },
+      {
+        "nubmer": 237,
+        "white": 1.0,
+        "grey": 0.0,
+        "darkGrey": 0.0,
+        "liteGrey": 0.0,
+        "black": 0.0,
+        "color": 0.0
+      },
+      {
+        "nubmer": 238,
+        "white": 1.0,
+        "grey": 0.0,
+        "darkGrey": 0.0,
+        "liteGrey": 0.0,
+        "black": 0.0,
+        "color": 0.0
+      },
+      {
+        "nubmer": 239,
+        "white": 1.0,
+        "grey": 0.0,
+        "darkGrey": 0.0,
+        "liteGrey": 0.0,
+        "black": 0.0,
+        "color": 0.0
+      },
+      {
+        "nubmer": 240,
+        "white": 1.0,
+        "grey": 0.0,
+        "darkGrey": 0.0,
+        "liteGrey": 0.0,
+        "black": 0.0,
+        "color": 0.0
+      },
+      {
+        "nubmer": 241,
+        "white": 1.0,
+        "grey": 0.0,
+        "darkGrey": 0.0,
+        "liteGrey": 0.0,
+        "black": 0.0,
+        "color": 0.0
+      },
+      {
+        "nubmer": 242,
+        "white": 1.0,
+        "grey": 0.0,
+        "darkGrey": 0.0,
+        "liteGrey": 0.0,
+        "black": 0.0,
+        "color": 0.0
+      },
+      {
+        "nubmer": 243,
+        "white": 1.0,
+        "grey": 0.0,
+        "darkGrey": 0.0,
+        "liteGrey": 0.0,
+        "black": 0.0,
+        "color": 0.0
+      },
+      {
+        "nubmer": 244,
+        "white": 0.95,
+        "grey": 0.0,
+        "darkGrey": 0.0,
+        "liteGrey": 0.0,
+        "black": 0.05,
+        "color": 0.0
+      },
+      {
+        "nubmer": 245,
+        "white": 0.95,
+        "grey": 0.0,
+        "darkGrey": 0.0,
+        "liteGrey": 0.0,
+        "black": 0.05,
+        "color": 0.0
+      },
+      {
+        "nubmer": 246,
+        "white": 1.0,
+        "grey": 0.0,
+        "darkGrey": 0.0,
+        "liteGrey": 0.0,
+        "black": 0.0,
+        "color": 0.0
+      },
+      {
+        "nubmer": 247,
+        "white": 1.0,
+        "grey": 0.0,
+        "darkGrey": 0.0,
+        "liteGrey": 0.0,
+        "black": 0.0,
+        "color": 0.0
+      },
+      {
+        "nubmer": 248,
+        "white": 1.0,
+        "grey": 0.0,
+        "darkGrey": 0.0,
+        "liteGrey": 0.0,
+        "black": 0.0,
+        "color": 0.0
+      },
+      {
+        "nubmer": 249,
+        "white": 1.0,
+        "grey": 0.0,
+        "darkGrey": 0.0,
+        "liteGrey": 0.0,
+        "black": 0.0,
+        "color": 0.0
+      },
+      {
+        "nubmer": 250,
+        "white": 1.0,
+        "grey": 0.0,
+        "darkGrey": 0.0,
+        "liteGrey": 0.0,
+        "black": 0.0,
+        "color": 0.0
+      },
+      {
+        "nubmer": 251,
+        "white": 1.0,
+        "grey": 0.0,
+        "darkGrey": 0.0,
+        "liteGrey": 0.0,
+        "black": 0.0,
+        "color": 0.0
+      },
+      {
+        "nubmer": 252,
+        "white": 1.0,
+        "grey": 0.0,
+        "darkGrey": 0.0,
+        "liteGrey": 0.0,
+        "black": 0.0,
+        "color": 0.0
+      },
+      {
+        "nubmer": 253,
+        "white": 1.0,
+        "grey": 0.0,
+        "darkGrey": 0.0,
+        "liteGrey": 0.0,
+        "black": 0.0,
+        "color": 0.0
+      },
+      {
+        "nubmer": 254,
+        "white": 1.0,
+        "grey": 0.0,
+        "darkGrey": 0.0,
+        "liteGrey": 0.0,
+        "black": 0.0,
+        "color": 0.0
+      },
+      {
+        "nubmer": 255,
+        "white": 1.0,
+        "grey": 0.0,
+        "darkGrey": 0.0,
+        "liteGrey": 0.0,
+        "black": 0.0,
+        "color": 0.0
+      },
+      {
+        "nubmer": 256,
+        "white": 0.0,
+        "grey": 0.0,
+        "darkGrey": 0.0,
+        "liteGrey": 0.0,
+        "black": 0.0,
+        "color": 0.0
+      },
+      {
+        "nubmer": 257,
+        "white": 0.0,
+        "grey": 0.0,
+        "darkGrey": 0.0,
+        "liteGrey": 0.0,
+        "black": 0.0,
+        "color": 0.0
+      },
+      {
+        "nubmer": 258,
+        "white": 0.0,
+        "grey": 0.0,
+        "darkGrey": 0.0,
+        "liteGrey": 0.0,
+        "black": 0.0,
+        "color": 0.0
+      },
+      {
+        "nubmer": 259,
+        "white": 0.0,
+        "grey": 0.0,
+        "darkGrey": 0.0,
+        "liteGrey": 0.0,
+        "black": 0.0,
+        "color": 0.0
+      },
+      {
+        "nubmer": 260,
+        "white": 0.0,
+        "grey": 0.0,
+        "darkGrey": 0.0,
+        "liteGrey": 0.0,
+        "black": 0.0,
+        "color": 0.0
+      },
+      {
+        "nubmer": 261,
+        "white": 1.0,
+        "grey": 0.0,
+        "darkGrey": 0.0,
+        "liteGrey": 0.0,
+        "black": 0.0,
+        "color": 0.0
+      },
+      {
+        "nubmer": 262,
+        "white": 1.0,
+        "grey": 0.0,
+        "darkGrey": 0.0,
+        "liteGrey": 0.0,
+        "black": 0.0,
+        "color": 0.0
+      },
+      {
+        "nubmer": 263,
+        "white": 1.0,
+        "grey": 0.0,
+        "darkGrey": 0.0,
+        "liteGrey": 0.0,
+        "black": 0.0,
+        "color": 0.0
+      },
+      {
+        "nubmer": 264,
+        "white": 1.0,
+        "grey": 0.0,
+        "darkGrey": 0.0,
+        "liteGrey": 0.0,
+        "black": 0.0,
+        "color": 0.0
+      },
+      {
+        "nubmer": 265,
+        "white": 1.0,
+        "grey": 0.0,
+        "darkGrey": 0.0,
+        "liteGrey": 0.0,
+        "black": 0.0,
+        "color": 0.0
+      },
+      {
+        "nubmer": 266,
+        "white": 1.0,
+        "grey": 0.0,
+        "darkGrey": 0.0,
+        "liteGrey": 0.0,
+        "black": 0.0,
+        "color": 0.0
+      },
+      {
+        "nubmer": 267,
+        "white": 1.0,
+        "grey": 0.0,
+        "darkGrey": 0.0,
+        "liteGrey": 0.0,
+        "black": 0.0,
+        "color": 0.0
+      },
+      {
+        "nubmer": 268,
+        "white": 1.0,
+        "grey": 0.0,
+        "darkGrey": 0.0,
+        "liteGrey": 0.0,
+        "black": 0.0,
+        "color": 0.0
+      },
+      {
+        "nubmer": 269,
+        "white": 1.0,
+        "grey": 0.0,
+        "darkGrey": 0.0,
+        "liteGrey": 0.0,
+        "black": 0.0,
+        "color": 0.0
+      },
+      {
+        "nubmer": 270,
+        "white": 1.0,
+        "grey": 0.0,
+        "darkGrey": 0.0,
+        "liteGrey": 0.0,
+        "black": 0.0,
+        "color": 0.0
+      },
+      {
+        "nubmer": 271,
+        "white": 1.0,
+        "grey": 0.0,
+        "darkGrey": 0.0,
+        "liteGrey": 0.0,
+        "black": 0.0,
+        "color": 0.0
+      },
+      {
+        "nubmer": 272,
+        "white": 1.0,
+        "grey": 0.0,
+        "darkGrey": 0.0,
+        "liteGrey": 0.0,
+        "black": 0.0,
+        "color": 0.0
+      },
+      {
+        "nubmer": 273,
+        "white": 1.0,
+        "grey": 0.0,
+        "darkGrey": 0.0,
+        "liteGrey": 0.0,
+        "black": 0.0,
+        "color": 0.0
+      },
+      {
+        "nubmer": 274,
+        "white": 1.0,
+        "grey": 0.0,
+        "darkGrey": 0.0,
+        "liteGrey": 0.0,
+        "black": 0.0,
+        "color": 0.0
+      },
+      {
+        "nubmer": 275,
+        "white": 1.0,
+        "grey": 0.0,
+        "darkGrey": 0.0,
+        "liteGrey": 0.0,
+        "black": 0.0,
+        "color": 0.0
+      },
+      {
+        "nubmer": 276,
+        "white": 0.95,
+        "grey": 0.0,
+        "darkGrey": 0.0,
+        "liteGrey": 0.0,
+        "black": 0.05,
+        "color": 0.0
+      },
+      {
+        "nubmer": 277,
+        "white": 0.95,
+        "grey": 0.0,
+        "darkGrey": 0.0,
+        "liteGrey": 0.0,
+        "black": 0.05,
+        "color": 0.0
+      },
+      {
+        "nubmer": 278,
+        "white": 1.0,
+        "grey": 0.0,
+        "darkGrey": 0.0,
+        "liteGrey": 0.0,
+        "black": 0.0,
+        "color": 0.0
+      },
+      {
+        "nubmer": 279,
+        "white": 1.0,
+        "grey": 0.0,
+        "darkGrey": 0.0,
+        "liteGrey": 0.0,
+        "black": 0.0,
+        "color": 0.0
+      },
+      {
+        "nubmer": 280,
+        "white": 1.0,
+        "grey": 0.0,
+        "darkGrey": 0.0,
+        "liteGrey": 0.0,
+        "black": 0.0,
+        "color": 0.0
+      },
+      {
+        "nubmer": 281,
+        "white": 1.0,
+        "grey": 0.0,
+        "darkGrey": 0.0,
+        "liteGrey": 0.0,
+        "black": 0.0,
+        "color": 0.0
+      },
+      {
+        "nubmer": 282,
+        "white": 1.0,
+        "grey": 0.0,
+        "darkGrey": 0.0,
+        "liteGrey": 0.0,
+        "black": 0.0,
+        "color": 0.0
+      },
+      {
+        "nubmer": 283,
+        "white": 1.0,
+        "grey": 0.0,
+        "darkGrey": 0.0,
+        "liteGrey": 0.0,
+        "black": 0.0,
+        "color": 0.0
+      },
+      {
+        "nubmer": 284,
+        "white": 1.0,
+        "grey": 0.0,
+        "darkGrey": 0.0,
+        "liteGrey": 0.0,
+        "black": 0.0,
+        "color": 0.0
+      },
+      {
+        "nubmer": 285,
+        "white": 1.0,
+        "grey": 0.0,
+        "darkGrey": 0.0,
+        "liteGrey": 0.0,
+        "black": 0.0,
+        "color": 0.0
+      },
+      {
+        "nubmer": 286,
+        "white": 1.0,
+        "grey": 0.0,
+        "darkGrey": 0.0,
+        "liteGrey": 0.0,
+        "black": 0.0,
+        "color": 0.0
+      },
+      {
+        "nubmer": 287,
+        "white": 1.0,
+        "grey": 0.0,
+        "darkGrey": 0.0,
+        "liteGrey": 0.0,
+        "black": 0.0,
+        "color": 0.0
+      },
+      {
+        "nubmer": 288,
+        "white": 0.0,
+        "grey": 0.0,
+        "darkGrey": 0.0,
+        "liteGrey": 0.0,
+        "black": 0.0,
+        "color": 0.0
+      },
+      {
+        "nubmer": 289,
+        "white": 0.0,
+        "grey": 0.0,
+        "darkGrey": 0.0,
+        "liteGrey": 0.0,
+        "black": 0.0,
+        "color": 0.0
+      },
+      {
+        "nubmer": 290,
+        "white": 0.0,
+        "grey": 0.0,
+        "darkGrey": 0.0,
+        "liteGrey": 0.0,
+        "black": 0.0,
+        "color": 0.0
+      },
+      {
+        "nubmer": 291,
+        "white": 0.0,
+        "grey": 0.0,
+        "darkGrey": 0.0,
+        "liteGrey": 0.0,
+        "black": 0.0,
+        "color": 0.0
+      },
+      {
+        "nubmer": 292,
+        "white": 0.0,
+        "grey": 0.0,
+        "darkGrey": 0.0,
+        "liteGrey": 0.0,
+        "black": 0.0,
+        "color": 0.0
+      },
+      {
+        "nubmer": 293,
+        "white": 1.0,
+        "grey": 0.0,
+        "darkGrey": 0.0,
+        "liteGrey": 0.0,
+        "black": 0.0,
+        "color": 0.0
+      },
+      {
+        "nubmer": 294,
+        "white": 1.0,
+        "grey": 0.0,
+        "darkGrey": 0.0,
+        "liteGrey": 0.0,
+        "black": 0.0,
+        "color": 0.0
+      },
+      {
+        "nubmer": 295,
+        "white": 1.0,
+        "grey": 0.0,
+        "darkGrey": 0.0,
+        "liteGrey": 0.0,
+        "black": 0.0,
+        "color": 0.0
+      },
+      {
+        "nubmer": 296,
+        "white": 1.0,
+        "grey": 0.0,
+        "darkGrey": 0.0,
+        "liteGrey": 0.0,
+        "black": 0.0,
+        "color": 0.0
+      },
+      {
+        "nubmer": 297,
+        "white": 1.0,
+        "grey": 0.0,
+        "darkGrey": 0.0,
+        "liteGrey": 0.0,
+        "black": 0.0,
+        "color": 0.0
+      },
+      {
+        "nubmer": 298,
+        "white": 1.0,
+        "grey": 0.0,
+        "darkGrey": 0.0,
+        "liteGrey": 0.0,
+        "black": 0.0,
+        "color": 0.0
+      },
+      {
+        "nubmer": 299,
+        "white": 1.0,
+        "grey": 0.0,
+        "darkGrey": 0.0,
+        "liteGrey": 0.0,
+        "black": 0.0,
+        "color": 0.0
+      },
+      {
+        "nubmer": 300,
+        "white": 1.0,
+        "grey": 0.0,
+        "darkGrey": 0.0,
+        "liteGrey": 0.0,
+        "black": 0.0,
+        "color": 0.0
+      },
+      {
+        "nubmer": 301,
+        "white": 1.0,
+        "grey": 0.0,
+        "darkGrey": 0.0,
+        "liteGrey": 0.0,
+        "black": 0.0,
+        "color": 0.0
+      },
+      {
+        "nubmer": 302,
+        "white": 1.0,
+        "grey": 0.0,
+        "darkGrey": 0.0,
+        "liteGrey": 0.0,
+        "black": 0.0,
+        "color": 0.0
+      },
+      {
+        "nubmer": 303,
+        "white": 1.0,
+        "grey": 0.0,
+        "darkGrey": 0.0,
+        "liteGrey": 0.0,
+        "black": 0.0,
+        "color": 0.0
+      },
+      {
+        "nubmer": 304,
+        "white": 1.0,
+        "grey": 0.0,
+        "darkGrey": 0.0,
+        "liteGrey": 0.0,
+        "black": 0.0,
+        "color": 0.0
+      },
+      {
+        "nubmer": 305,
+        "white": 1.0,
+        "grey": 0.0,
+        "darkGrey": 0.0,
+        "liteGrey": 0.0,
+        "black": 0.0,
+        "color": 0.0
+      },
+      {
+        "nubmer": 306,
+        "white": 1.0,
+        "grey": 0.0,
+        "darkGrey": 0.0,
+        "liteGrey": 0.0,
+        "black": 0.0,
+        "color": 0.0
+      },
+      {
+        "nubmer": 307,
+        "white": 1.0,
+        "grey": 0.0,
+        "darkGrey": 0.0,
+        "liteGrey": 0.0,
+        "black": 0.0,
+        "color": 0.0
+      },
+      {
+        "nubmer": 308,
+        "white": 0.95,
+        "grey": 0.0,
+        "darkGrey": 0.0,
+        "liteGrey": 0.0,
+        "black": 0.05,
+        "color": 0.0
+      },
+      {
+        "nubmer": 309,
+        "white": 0.95,
+        "grey": 0.0,
+        "darkGrey": 0.0,
+        "liteGrey": 0.0,
+        "black": 0.05,
+        "color": 0.0
+      },
+      {
+        "nubmer": 310,
+        "white": 1.0,
+        "grey": 0.0,
+        "darkGrey": 0.0,
+        "liteGrey": 0.0,
+        "black": 0.0,
+        "color": 0.0
+      },
+      {
+        "nubmer": 311,
+        "white": 1.0,
+        "grey": 0.0,
+        "darkGrey": 0.0,
+        "liteGrey": 0.0,
+        "black": 0.0,
+        "color": 0.0
+      },
+      {
+        "nubmer": 312,
+        "white": 1.0,
+        "grey": 0.0,
+        "darkGrey": 0.0,
+        "liteGrey": 0.0,
+        "black": 0.0,
+        "color": 0.0
+      },
+      {
+        "nubmer": 313,
+        "white": 1.0,
+        "grey": 0.0,
+        "darkGrey": 0.0,
+        "liteGrey": 0.0,
+        "black": 0.0,
+        "color": 0.0
+      },
+      {
+        "nubmer": 314,
+        "white": 1.0,
+        "grey": 0.0,
+        "darkGrey": 0.0,
+        "liteGrey": 0.0,
+        "black": 0.0,
+        "color": 0.0
+      },
+      {
+        "nubmer": 315,
+        "white": 1.0,
+        "grey": 0.0,
+        "darkGrey": 0.0,
+        "liteGrey": 0.0,
+        "black": 0.0,
+        "color": 0.0
+      },
+      {
+        "nubmer": 316,
+        "white": 1.0,
+        "grey": 0.0,
+        "darkGrey": 0.0,
+        "liteGrey": 0.0,
+        "black": 0.0,
+        "color": 0.0
+      },
+      {
+        "nubmer": 317,
+        "white": 0.985,
+        "grey": 0.015,
+        "darkGrey": 0.0,
+        "liteGrey": 0.0,
+        "black": 0.0,
+        "color": 0.0
+      },
+      {
+        "nubmer": 318,
+        "white": 0.7975,
+        "grey": 0.2025,
+        "darkGrey": 0.0,
+        "liteGrey": 0.0,
+        "black": 0.0,
+        "color": 0.0
+      },
+      {
+        "nubmer": 319,
+        "white": 0.7625,
+        "grey": 0.2375,
+        "darkGrey": 0.0,
+        "liteGrey": 0.0,
+        "black": 0.0,
+        "color": 0.0
+      },
+      {
+        "nubmer": 320,
+        "white": 0.0,
+        "grey": 0.0,
+        "darkGrey": 0.0,
+        "liteGrey": 0.0,
+        "black": 0.0,
+        "color": 0.0
+      },
+      {
+        "nubmer": 321,
+        "white": 0.0,
+        "grey": 0.0,
+        "darkGrey": 0.0,
+        "liteGrey": 0.0,
+        "black": 0.0,
+        "color": 0.0
+      },
+      {
+        "nubmer": 322,
+        "white": 0.0,
+        "grey": 0.0,
+        "darkGrey": 0.0,
+        "liteGrey": 0.0,
+        "black": 0.0,
+        "color": 0.0
+      },
+      {
+        "nubmer": 323,
+        "white": 0.0,
+        "grey": 0.0,
+        "darkGrey": 0.0,
+        "liteGrey": 0.0,
+        "black": 0.0,
+        "color": 0.0
+      },
+      {
+        "nubmer": 324,
+        "white": 0.0,
+        "grey": 0.0,
+        "darkGrey": 0.0,
+        "liteGrey": 0.0,
+        "black": 0.0,
+        "color": 0.0
+      },
+      {
+        "nubmer": 325,
+        "white": 1.0,
+        "grey": 0.0,
+        "darkGrey": 0.0,
+        "liteGrey": 0.0,
+        "black": 0.0,
+        "color": 0.0
+      },
+      {
+        "nubmer": 326,
+        "white": 1.0,
+        "grey": 0.0,
+        "darkGrey": 0.0,
+        "liteGrey": 0.0,
+        "black": 0.0,
+        "color": 0.0
+      },
+      {
+        "nubmer": 327,
+        "white": 1.0,
+        "grey": 0.0,
+        "darkGrey": 0.0,
+        "liteGrey": 0.0,
+        "black": 0.0,
+        "color": 0.0
+      },
+      {
+        "nubmer": 328,
+        "white": 1.0,
+        "grey": 0.0,
+        "darkGrey": 0.0,
+        "liteGrey": 0.0,
+        "black": 0.0,
+        "color": 0.0
+      },
+      {
+        "nubmer": 329,
+        "white": 1.0,
+        "grey": 0.0,
+        "darkGrey": 0.0,
+        "liteGrey": 0.0,
+        "black": 0.0,
+        "color": 0.0
+      },
+      {
+        "nubmer": 330,
+        "white": 1.0,
+        "grey": 0.0,
+        "darkGrey": 0.0,
+        "liteGrey": 0.0,
+        "black": 0.0,
+        "color": 0.0
+      },
+      {
+        "nubmer": 331,
+        "white": 1.0,
+        "grey": 0.0,
+        "darkGrey": 0.0,
+        "liteGrey": 0.0,
+        "black": 0.0,
+        "color": 0.0
+      },
+      {
+        "nubmer": 332,
+        "white": 1.0,
+        "grey": 0.0,
+        "darkGrey": 0.0,
+        "liteGrey": 0.0,
+        "black": 0.0,
+        "color": 0.0
+      },
+      {
+        "nubmer": 333,
+        "white": 1.0,
+        "grey": 0.0,
+        "darkGrey": 0.0,
+        "liteGrey": 0.0,
+        "black": 0.0,
+        "color": 0.0
+      },
+      {
+        "nubmer": 334,
+        "white": 1.0,
+        "grey": 0.0,
+        "darkGrey": 0.0,
+        "liteGrey": 0.0,
+        "black": 0.0,
+        "color": 0.0
+      },
+      {
+        "nubmer": 335,
+        "white": 1.0,
+        "grey": 0.0,
+        "darkGrey": 0.0,
+        "liteGrey": 0.0,
+        "black": 0.0,
+        "color": 0.0
+      },
+      {
+        "nubmer": 336,
+        "white": 1.0,
+        "grey": 0.0,
+        "darkGrey": 0.0,
+        "liteGrey": 0.0,
+        "black": 0.0,
+        "color": 0.0
+      },
+      {
+        "nubmer": 337,
+        "white": 1.0,
+        "grey": 0.0,
+        "darkGrey": 0.0,
+        "liteGrey": 0.0,
+        "black": 0.0,
+        "color": 0.0
+      },
+      {
+        "nubmer": 338,
+        "white": 1.0,
+        "grey": 0.0,
+        "darkGrey": 0.0,
+        "liteGrey": 0.0,
+        "black": 0.0,
+        "color": 0.0
+      },
+      {
+        "nubmer": 339,
+        "white": 1.0,
+        "grey": 0.0,
+        "darkGrey": 0.0,
+        "liteGrey": 0.0,
+        "black": 0.0,
+        "color": 0.0
+      },
+      {
+        "nubmer": 340,
+        "white": 0.95,
+        "grey": 0.0,
+        "darkGrey": 0.0,
+        "liteGrey": 0.0,
+        "black": 0.05,
+        "color": 0.0
+      },
+      {
+        "nubmer": 341,
+        "white": 0.95,
+        "grey": 0.0,
+        "darkGrey": 0.0,
+        "liteGrey": 0.0,
+        "black": 0.05,
+        "color": 0.0
+      },
+      {
+        "nubmer": 342,
+        "white": 1.0,
+        "grey": 0.0,
+        "darkGrey": 0.0,
+        "liteGrey": 0.0,
+        "black": 0.0,
+        "color": 0.0
+      },
+      {
+        "nubmer": 343,
+        "white": 1.0,
+        "grey": 0.0,
+        "darkGrey": 0.0,
+        "liteGrey": 0.0,
+        "black": 0.0,
+        "color": 0.0
+      },
+      {
+        "nubmer": 344,
+        "white": 1.0,
+        "grey": 0.0,
+        "darkGrey": 0.0,
+        "liteGrey": 0.0,
+        "black": 0.0,
+        "color": 0.0
+      },
+      {
+        "nubmer": 345,
+        "white": 1.0,
+        "grey": 0.0,
+        "darkGrey": 0.0,
+        "liteGrey": 0.0,
+        "black": 0.0,
+        "color": 0.0
+      },
+      {
+        "nubmer": 346,
+        "white": 1.0,
+        "grey": 0.0,
+        "darkGrey": 0.0,
+        "liteGrey": 0.0,
+        "black": 0.0,
+        "color": 0.0
+      },
+      {
+        "nubmer": 347,
+        "white": 1.0,
+        "grey": 0.0,
+        "darkGrey": 0.0,
+        "liteGrey": 0.0,
+        "black": 0.0,
+        "color": 0.0
+      },
+      {
+        "nubmer": 348,
+        "white": 0.9675,
+        "grey": 0.0325,
+        "darkGrey": 0.0,
+        "liteGrey": 0.0,
+        "black": 0.0,
+        "color": 0.0
+      },
+      {
+        "nubmer": 349,
+        "white": 0.75,
+        "grey": 0.25,
+        "darkGrey": 0.0,
+        "liteGrey": 0.0,
+        "black": 0.0,
+        "color": 0.0
+      },
+      {
+        "nubmer": 350,
+        "white": 0.52,
+        "grey": 0.48,
+        "darkGrey": 0.0,
+        "liteGrey": 0.0,
+        "black": 0.0,
+        "color": 0.0
+      },
+      {
+        "nubmer": 351,
+        "white": 0.6875,
+        "grey": 0.3125,
+        "darkGrey": 0.0,
+        "liteGrey": 0.0,
+        "black": 0.0,
+        "color": 0.0
+      },
+      {
+        "nubmer": 352,
+        "white": 0.0,
+        "grey": 0.0,
+        "darkGrey": 0.0,
+        "liteGrey": 0.0,
+        "black": 0.0,
+        "color": 0.0
+      },
+      {
+        "nubmer": 353,
+        "white": 0.0,
+        "grey": 0.0,
+        "darkGrey": 0.0,
+        "liteGrey": 0.0,
+        "black": 0.0,
+        "color": 0.0
+      },
+      {
+        "nubmer": 354,
+        "white": 0.0,
+        "grey": 0.0,
+        "darkGrey": 0.0,
+        "liteGrey": 0.0,
+        "black": 0.0,
+        "color": 0.0
+      },
+      {
+        "nubmer": 355,
+        "white": 0.0,
+        "grey": 0.0,
+        "darkGrey": 0.0,
+        "liteGrey": 0.0,
+        "black": 0.0,
+        "color": 0.0
+      },
+      {
+        "nubmer": 356,
+        "white": 0.0,
+        "grey": 0.0,
+        "darkGrey": 0.0,
+        "liteGrey": 0.0,
+        "black": 0.0,
+        "color": 0.0
+      },
+      {
+        "nubmer": 357,
+        "white": 1.0,
+        "grey": 0.0,
+        "darkGrey": 0.0,
+        "liteGrey": 0.0,
+        "black": 0.0,
+        "color": 0.0
+      },
+      {
+        "nubmer": 358,
+        "white": 1.0,
+        "grey": 0.0,
+        "darkGrey": 0.0,
+        "liteGrey": 0.0,
+        "black": 0.0,
+        "color": 0.0
+      },
+      {
+        "nubmer": 359,
+        "white": 1.0,
+        "grey": 0.0,
+        "darkGrey": 0.0,
+        "liteGrey": 0.0,
+        "black": 0.0,
+        "color": 0.0
+      },
+      {
+        "nubmer": 360,
+        "white": 1.0,
+        "grey": 0.0,
+        "darkGrey": 0.0,
+        "liteGrey": 0.0,
+        "black": 0.0,
+        "color": 0.0
+      },
+      {
+        "nubmer": 361,
+        "white": 1.0,
+        "grey": 0.0,
+        "darkGrey": 0.0,
+        "liteGrey": 0.0,
+        "black": 0.0,
+        "color": 0.0
+      },
+      {
+        "nubmer": 362,
+        "white": 1.0,
+        "grey": 0.0,
+        "darkGrey": 0.0,
+        "liteGrey": 0.0,
+        "black": 0.0,
+        "color": 0.0
+      },
+      {
+        "nubmer": 363,
+        "white": 1.0,
+        "grey": 0.0,
+        "darkGrey": 0.0,
+        "liteGrey": 0.0,
+        "black": 0.0,
+        "color": 0.0
+      },
+      {
+        "nubmer": 364,
+        "white": 1.0,
+        "grey": 0.0,
+        "darkGrey": 0.0,
+        "liteGrey": 0.0,
+        "black": 0.0,
+        "color": 0.0
+      },
+      {
+        "nubmer": 365,
+        "white": 1.0,
+        "grey": 0.0,
+        "darkGrey": 0.0,
+        "liteGrey": 0.0,
+        "black": 0.0,
+        "color": 0.0
+      },
+      {
+        "nubmer": 366,
+        "white": 1.0,
+        "grey": 0.0,
+        "darkGrey": 0.0,
+        "liteGrey": 0.0,
+        "black": 0.0,
+        "color": 0.0
+      },
+      {
+        "nubmer": 367,
+        "white": 1.0,
+        "grey": 0.0,
+        "darkGrey": 0.0,
+        "liteGrey": 0.0,
+        "black": 0.0,
+        "color": 0.0
+      },
+      {
+        "nubmer": 368,
+        "white": 1.0,
+        "grey": 0.0,
+        "darkGrey": 0.0,
+        "liteGrey": 0.0,
+        "black": 0.0,
+        "color": 0.0
+      },
+      {
+        "nubmer": 369,
+        "white": 1.0,
+        "grey": 0.0,
+        "darkGrey": 0.0,
+        "liteGrey": 0.0,
+        "black": 0.0,
+        "color": 0.0
+      },
+      {
+        "nubmer": 370,
+        "white": 1.0,
+        "grey": 0.0,
+        "darkGrey": 0.0,
+        "liteGrey": 0.0,
+        "black": 0.0,
+        "color": 0.0
+      },
+      {
+        "nubmer": 371,
+        "white": 1.0,
+        "grey": 0.0,
+        "darkGrey": 0.0,
+        "liteGrey": 0.0,
+        "black": 0.0,
+        "color": 0.0
+      },
+      {
+        "nubmer": 372,
+        "white": 0.95,
+        "grey": 0.0,
+        "darkGrey": 0.0,
+        "liteGrey": 0.0,
+        "black": 0.05,
+        "color": 0.0
+      },
+      {
+        "nubmer": 373,
+        "white": 0.95,
+        "grey": 0.0,
+        "darkGrey": 0.0,
+        "liteGrey": 0.0,
+        "black": 0.05,
+        "color": 0.0
+      },
+      {
+        "nubmer": 374,
+        "white": 1.0,
+        "grey": 0.0,
+        "darkGrey": 0.0,
+        "liteGrey": 0.0,
+        "black": 0.0,
+        "color": 0.0
+      },
+      {
+        "nubmer": 375,
+        "white": 1.0,
+        "grey": 0.0,
+        "darkGrey": 0.0,
+        "liteGrey": 0.0,
+        "black": 0.0,
+        "color": 0.0
+      },
+      {
+        "nubmer": 376,
+        "white": 1.0,
+        "grey": 0.0,
+        "darkGrey": 0.0,
+        "liteGrey": 0.0,
+        "black": 0.0,
+        "color": 0.0
+      },
+      {
+        "nubmer": 377,
+        "white": 1.0,
+        "grey": 0.0,
+        "darkGrey": 0.0,
+        "liteGrey": 0.0,
+        "black": 0.0,
+        "color": 0.0
+      },
+      {
+        "nubmer": 378,
+        "white": 1.0,
+        "grey": 0.0,
+        "darkGrey": 0.0,
+        "liteGrey": 0.0,
+        "black": 0.0,
+        "color": 0.0
+      },
+      {
+        "nubmer": 379,
+        "white": 0.9475,
+        "grey": 0.0525,
+        "darkGrey": 0.0,
+        "liteGrey": 0.0,
+        "black": 0.0,
+        "color": 0.0
+      },
+      {
+        "nubmer": 380,
+        "white": 0.715,
+        "grey": 0.285,
+        "darkGrey": 0.0,
+        "liteGrey": 0.0,
+        "black": 0.0,
+        "color": 0.0
+      },
+      {
+        "nubmer": 381,
+        "white": 0.5125,
+        "grey": 0.4875,
+        "darkGrey": 0.0,
+        "liteGrey": 0.0,
+        "black": 0.0,
+        "color": 0.0
+      },
+      {
+        "nubmer": 382,
+        "white": 0.67,
+        "grey": 0.33,
+        "darkGrey": 0.0,
+        "liteGrey": 0.0,
+        "black": 0.0,
+        "color": 0.0
+      },
+      {
+        "nubmer": 383,
+        "white": 0.925,
+        "grey": 0.075,
+        "darkGrey": 0.0,
+        "liteGrey": 0.0,
+        "black": 0.0,
+        "color": 0.0
+      },
+      {
+        "nubmer": 384,
+        "white": 0.0,
+        "grey": 0.0,
+        "darkGrey": 0.0,
+        "liteGrey": 0.0,
+        "black": 0.0,
+        "color": 0.0
+      },
+      {
+        "nubmer": 385,
+        "white": 0.0,
+        "grey": 0.0,
+        "darkGrey": 0.0,
+        "liteGrey": 0.0,
+        "black": 0.0,
+        "color": 0.0
+      },
+      {
+        "nubmer": 386,
+        "white": 0.0,
+        "grey": 0.0,
+        "darkGrey": 0.0,
+        "liteGrey": 0.0,
+        "black": 0.0,
+        "color": 0.0
+      },
+      {
+        "nubmer": 387,
+        "white": 0.0,
+        "grey": 0.0,
+        "darkGrey": 0.0,
+        "liteGrey": 0.0,
+        "black": 0.0,
+        "color": 0.0
+      },
+      {
+        "nubmer": 388,
+        "white": 0.0,
+        "grey": 0.0,
+        "darkGrey": 0.0,
+        "liteGrey": 0.0,
+        "black": 0.0,
+        "color": 0.0
+      },
+      {
+        "nubmer": 389,
+        "white": 1.0,
+        "grey": 0.0,
+        "darkGrey": 0.0,
+        "liteGrey": 0.0,
+        "black": 0.0,
+        "color": 0.0
+      },
+      {
+        "nubmer": 390,
+        "white": 1.0,
+        "grey": 0.0,
+        "darkGrey": 0.0,
+        "liteGrey": 0.0,
+        "black": 0.0,
+        "color": 0.0
+      },
+      {
+        "nubmer": 391,
+        "white": 1.0,
+        "grey": 0.0,
+        "darkGrey": 0.0,
+        "liteGrey": 0.0,
+        "black": 0.0,
+        "color": 0.0
+      },
+      {
+        "nubmer": 392,
+        "white": 1.0,
+        "grey": 0.0,
+        "darkGrey": 0.0,
+        "liteGrey": 0.0,
+        "black": 0.0,
+        "color": 0.0
+      },
+      {
+        "nubmer": 393,
+        "white": 1.0,
+        "grey": 0.0,
+        "darkGrey": 0.0,
+        "liteGrey": 0.0,
+        "black": 0.0,
+        "color": 0.0
+      },
+      {
+        "nubmer": 394,
+        "white": 1.0,
+        "grey": 0.0,
+        "darkGrey": 0.0,
+        "liteGrey": 0.0,
+        "black": 0.0,
+        "color": 0.0
+      },
+      {
+        "nubmer": 395,
+        "white": 1.0,
+        "grey": 0.0,
+        "darkGrey": 0.0,
+        "liteGrey": 0.0,
+        "black": 0.0,
+        "color": 0.0
+      },
+      {
+        "nubmer": 396,
+        "white": 1.0,
+        "grey": 0.0,
+        "darkGrey": 0.0,
+        "liteGrey": 0.0,
+        "black": 0.0,
+        "color": 0.0
+      },
+      {
+        "nubmer": 397,
+        "white": 1.0,
+        "grey": 0.0,
+        "darkGrey": 0.0,
+        "liteGrey": 0.0,
+        "black": 0.0,
+        "color": 0.0
+      },
+      {
+        "nubmer": 398,
+        "white": 1.0,
+        "grey": 0.0,
+        "darkGrey": 0.0,
+        "liteGrey": 0.0,
+        "black": 0.0,
+        "color": 0.0
+      },
+      {
+        "nubmer": 399,
+        "white": 1.0,
+        "grey": 0.0,
+        "darkGrey": 0.0,
+        "liteGrey": 0.0,
+        "black": 0.0,
+        "color": 0.0
+      },
+      {
+        "nubmer": 400,
+        "white": 1.0,
+        "grey": 0.0,
+        "darkGrey": 0.0,
+        "liteGrey": 0.0,
+        "black": 0.0,
+        "color": 0.0
+      },
+      {
+        "nubmer": 401,
+        "white": 1.0,
+        "grey": 0.0,
+        "darkGrey": 0.0,
+        "liteGrey": 0.0,
+        "black": 0.0,
+        "color": 0.0
+      },
+      {
+        "nubmer": 402,
+        "white": 1.0,
+        "grey": 0.0,
+        "darkGrey": 0.0,
+        "liteGrey": 0.0,
+        "black": 0.0,
+        "color": 0.0
+      },
+      {
+        "nubmer": 403,
+        "white": 1.0,
+        "grey": 0.0,
+        "darkGrey": 0.0,
+        "liteGrey": 0.0,
+        "black": 0.0,
+        "color": 0.0
+      },
+      {
+        "nubmer": 404,
+        "white": 0.95,
+        "grey": 0.0,
+        "darkGrey": 0.0,
+        "liteGrey": 0.0,
+        "black": 0.05,
+        "color": 0.0
+      },
+      {
+        "nubmer": 405,
+        "white": 0.95,
+        "grey": 0.0,
+        "darkGrey": 0.0,
+        "liteGrey": 0.0,
+        "black": 0.05,
+        "color": 0.0
+      },
+      {
+        "nubmer": 406,
+        "white": 1.0,
+        "grey": 0.0,
+        "darkGrey": 0.0,
+        "liteGrey": 0.0,
+        "black": 0.0,
+        "color": 0.0
+      },
+      {
+        "nubmer": 407,
+        "white": 1.0,
+        "grey": 0.0,
+        "darkGrey": 0.0,
+        "liteGrey": 0.0,
+        "black": 0.0,
+        "color": 0.0
+      },
+      {
+        "nubmer": 408,
+        "white": 1.0,
+        "grey": 0.0,
+        "darkGrey": 0.0,
+        "liteGrey": 0.0,
+        "black": 0.0,
+        "color": 0.0
+      },
+      {
+        "nubmer": 409,
+        "white": 1.0,
+        "grey": 0.0,
+        "darkGrey": 0.0,
+        "liteGrey": 0.0,
+        "black": 0.0,
+        "color": 0.0
+      },
+      {
+        "nubmer": 410,
+        "white": 0.93,
+        "grey": 0.07,
+        "darkGrey": 0.0,
+        "liteGrey": 0.0,
+        "black": 0.0,
+        "color": 0.0
+      },
+      {
+        "nubmer": 411,
+        "white": 0.6775,
+        "grey": 0.3225,
+        "darkGrey": 0.0,
+        "liteGrey": 0.0,
+        "black": 0.0,
+        "color": 0.0
+      },
+      {
+        "nubmer": 412,
+        "white": 0.515,
+        "grey": 0.485,
+        "darkGrey": 0.0,
+        "liteGrey": 0.0,
+        "black": 0.0,
+        "color": 0.0
+      },
+      {
+        "nubmer": 413,
+        "white": 0.715,
+        "grey": 0.285,
+        "darkGrey": 0.0,
+        "liteGrey": 0.0,
+        "black": 0.0,
+        "color": 0.0
+      },
+      {
+        "nubmer": 414,
+        "white": 0.9475,
+        "grey": 0.0525,
+        "darkGrey": 0.0,
+        "liteGrey": 0.0,
+        "black": 0.0,
+        "color": 0.0
+      },
+      {
+        "nubmer": 415,
+        "white": 1.0,
+        "grey": 0.0,
+        "darkGrey": 0.0,
+        "liteGrey": 0.0,
+        "black": 0.0,
+        "color": 0.0
+      },
+      {
+        "nubmer": 416,
+        "white": 0.0,
+        "grey": 0.0,
+        "darkGrey": 0.0,
+        "liteGrey": 0.0,
+        "black": 0.0,
+        "color": 0.0
+      },
+      {
+        "nubmer": 417,
+        "white": 0.0,
+        "grey": 0.0,
+        "darkGrey": 0.0,
+        "liteGrey": 0.0,
+        "black": 0.0,
+        "color": 0.0
+      },
+      {
+        "nubmer": 418,
+        "white": 0.0,
+        "grey": 0.0,
+        "darkGrey": 0.0,
+        "liteGrey": 0.0,
+        "black": 0.0,
+        "color": 0.0
+      },
+      {
+        "nubmer": 419,
+        "white": 0.0,
+        "grey": 0.0,
+        "darkGrey": 0.0,
+        "liteGrey": 0.0,
+        "black": 0.0,
+        "color": 0.0
+      },
+      {
+        "nubmer": 420,
+        "white": 0.0,
+        "grey": 0.0,
+        "darkGrey": 0.0,
+        "liteGrey": 0.0,
+        "black": 0.0,
+        "color": 0.0
+      },
+      {
+        "nubmer": 421,
+        "white": 1.0,
+        "grey": 0.0,
+        "darkGrey": 0.0,
+        "liteGrey": 0.0,
+        "black": 0.0,
+        "color": 0.0
+      },
+      {
+        "nubmer": 422,
+        "white": 1.0,
+        "grey": 0.0,
+        "darkGrey": 0.0,
+        "liteGrey": 0.0,
+        "black": 0.0,
+        "color": 0.0
+      },
+      {
+        "nubmer": 423,
+        "white": 1.0,
+        "grey": 0.0,
+        "darkGrey": 0.0,
+        "liteGrey": 0.0,
+        "black": 0.0,
+        "color": 0.0
+      },
+      {
+        "nubmer": 424,
+        "white": 1.0,
+        "grey": 0.0,
+        "darkGrey": 0.0,
+        "liteGrey": 0.0,
+        "black": 0.0,
+        "color": 0.0
+      },
+      {
+        "nubmer": 425,
+        "white": 1.0,
+        "grey": 0.0,
+        "darkGrey": 0.0,
+        "liteGrey": 0.0,
+        "black": 0.0,
+        "color": 0.0
+      },
+      {
+        "nubmer": 426,
+        "white": 1.0,
+        "grey": 0.0,
+        "darkGrey": 0.0,
+        "liteGrey": 0.0,
+        "black": 0.0,
+        "color": 0.0
+      },
+      {
+        "nubmer": 427,
+        "white": 1.0,
+        "grey": 0.0,
+        "darkGrey": 0.0,
+        "liteGrey": 0.0,
+        "black": 0.0,
+        "color": 0.0
+      },
+      {
+        "nubmer": 428,
+        "white": 1.0,
+        "grey": 0.0,
+        "darkGrey": 0.0,
+        "liteGrey": 0.0,
+        "black": 0.0,
+        "color": 0.0
+      },
+      {
+        "nubmer": 429,
+        "white": 1.0,
+        "grey": 0.0,
+        "darkGrey": 0.0,
+        "liteGrey": 0.0,
+        "black": 0.0,
+        "color": 0.0
+      },
+      {
+        "nubmer": 430,
+        "white": 1.0,
+        "grey": 0.0,
+        "darkGrey": 0.0,
+        "liteGrey": 0.0,
+        "black": 0.0,
+        "color": 0.0
+      },
+      {
+        "nubmer": 431,
+        "white": 1.0,
+        "grey": 0.0,
+        "darkGrey": 0.0,
+        "liteGrey": 0.0,
+        "black": 0.0,
+        "color": 0.0
+      },
+      {
+        "nubmer": 432,
+        "white": 1.0,
+        "grey": 0.0,
+        "darkGrey": 0.0,
+        "liteGrey": 0.0,
+        "black": 0.0,
+        "color": 0.0
+      },
+      {
+        "nubmer": 433,
+        "white": 1.0,
+        "grey": 0.0,
+        "darkGrey": 0.0,
+        "liteGrey": 0.0,
+        "black": 0.0,
+        "color": 0.0
+      },
+      {
+        "nubmer": 434,
+        "white": 1.0,
+        "grey": 0.0,
+        "darkGrey": 0.0,
+        "liteGrey": 0.0,
+        "black": 0.0,
+        "color": 0.0
+      },
+      {
+        "nubmer": 435,
+        "white": 1.0,
+        "grey": 0.0,
+        "darkGrey": 0.0,
+        "liteGrey": 0.0,
+        "black": 0.0,
+        "color": 0.0
+      },
+      {
+        "nubmer": 436,
+        "white": 0.95,
+        "grey": 0.0,
+        "darkGrey": 0.0,
+        "liteGrey": 0.0,
+        "black": 0.05,
+        "color": 0.0
+      },
+      {
+        "nubmer": 437,
+        "white": 0.95,
+        "grey": 0.0,
+        "darkGrey": 0.0,
+        "liteGrey": 0.0,
+        "black": 0.05,
+        "color": 0.0
+      },
+      {
+        "nubmer": 438,
+        "white": 1.0,
+        "grey": 0.0,
+        "darkGrey": 0.0,
+        "liteGrey": 0.0,
+        "black": 0.0,
+        "color": 0.0
+      },
+      {
+        "nubmer": 439,
+        "white": 1.0,
+        "grey": 0.0,
+        "darkGrey": 0.0,
+        "liteGrey": 0.0,
+        "black": 0.0,
+        "color": 0.0
+      },
+      {
+        "nubmer": 440,
+        "white": 1.0,
+        "grey": 0.0,
+        "darkGrey": 0.0,
+        "liteGrey": 0.0,
+        "black": 0.0,
+        "color": 0.0
+      },
+      {
+        "nubmer": 441,
+        "white": 0.91,
+        "grey": 0.09,
+        "darkGrey": 0.0,
+        "liteGrey": 0.0,
+        "black": 0.0,
+        "color": 0.0
+      },
+      {
+        "nubmer": 442,
+        "white": 0.65,
+        "grey": 0.35,
+        "darkGrey": 0.0,
+        "liteGrey": 0.0,
+        "black": 0.0,
+        "color": 0.0
+      },
+      {
+        "nubmer": 443,
+        "white": 0.5225,
+        "grey": 0.4775,
+        "darkGrey": 0.0,
+        "liteGrey": 0.0,
+        "black": 0.0,
+        "color": 0.0
+      },
+      {
+        "nubmer": 444,
+        "white": 0.75,
+        "grey": 0.25,
+        "darkGrey": 0.0,
+        "liteGrey": 0.0,
+        "black": 0.0,
+        "color": 0.0
+      },
+      {
+        "nubmer": 445,
+        "white": 0.9675,
+        "grey": 0.0325,
+        "darkGrey": 0.0,
+        "liteGrey": 0.0,
+        "black": 0.0,
+        "color": 0.0
+      },
+      {
+        "nubmer": 446,
+        "white": 1.0,
+        "grey": 0.0,
+        "darkGrey": 0.0,
+        "liteGrey": 0.0,
+        "black": 0.0,
+        "color": 0.0
+      },
+      {
+        "nubmer": 447,
+        "white": 1.0,
+        "grey": 0.0,
+        "darkGrey": 0.0,
+        "liteGrey": 0.0,
+        "black": 0.0,
+        "color": 0.0
+      },
+      {
+        "nubmer": 448,
+        "white": 0.0,
+        "grey": 0.0,
+        "darkGrey": 0.0,
+        "liteGrey": 0.0,
+        "black": 0.0,
+        "color": 0.0
+      },
+      {
+        "nubmer": 449,
+        "white": 0.0,
+        "grey": 0.0,
+        "darkGrey": 0.0,
+        "liteGrey": 0.0,
+        "black": 0.0,
+        "color": 0.0
+      },
+      {
+        "nubmer": 450,
+        "white": 0.0,
+        "grey": 0.0,
+        "darkGrey": 0.0,
+        "liteGrey": 0.0,
+        "black": 0.0,
+        "color": 0.0
+      },
+      {
+        "nubmer": 451,
+        "white": 0.0,
+        "grey": 0.0,
+        "darkGrey": 0.0,
+        "liteGrey": 0.0,
+        "black": 0.0,
+        "color": 0.0
+      },
+      {
+        "nubmer": 452,
+        "white": 0.0,
+        "grey": 0.0,
+        "darkGrey": 0.0,
+        "liteGrey": 0.0,
+        "black": 0.0,
+        "color": 0.0
+      },
+      {
+        "nubmer": 453,
+        "white": 1.0,
+        "grey": 0.0,
+        "darkGrey": 0.0,
+        "liteGrey": 0.0,
+        "black": 0.0,
+        "color": 0.0
+      },
+      {
+        "nubmer": 454,
+        "white": 1.0,
+        "grey": 0.0,
+        "darkGrey": 0.0,
+        "liteGrey": 0.0,
+        "black": 0.0,
+        "color": 0.0
+      },
+      {
+        "nubmer": 455,
+        "white": 1.0,
+        "grey": 0.0,
+        "darkGrey": 0.0,
+        "liteGrey": 0.0,
+        "black": 0.0,
+        "color": 0.0
+      },
+      {
+        "nubmer": 456,
+        "white": 1.0,
+        "grey": 0.0,
+        "darkGrey": 0.0,
+        "liteGrey": 0.0,
+        "black": 0.0,
+        "color": 0.0
+      },
+      {
+        "nubmer": 457,
+        "white": 1.0,
+        "grey": 0.0,
+        "darkGrey": 0.0,
+        "liteGrey": 0.0,
+        "black": 0.0,
+        "color": 0.0
+      },
+      {
+        "nubmer": 458,
+        "white": 1.0,
+        "grey": 0.0,
+        "darkGrey": 0.0,
+        "liteGrey": 0.0,
+        "black": 0.0,
+        "color": 0.0
+      },
+      {
+        "nubmer": 459,
+        "white": 1.0,
+        "grey": 0.0,
+        "darkGrey": 0.0,
+        "liteGrey": 0.0,
+        "black": 0.0,
+        "color": 0.0
+      },
+      {
+        "nubmer": 460,
+        "white": 1.0,
+        "grey": 0.0,
+        "darkGrey": 0.0,
+        "liteGrey": 0.0,
+        "black": 0.0,
+        "color": 0.0
+      },
+      {
+        "nubmer": 461,
+        "white": 1.0,
+        "grey": 0.0,
+        "darkGrey": 0.0,
+        "liteGrey": 0.0,
+        "black": 0.0,
+        "color": 0.0
+      },
+      {
+        "nubmer": 462,
+        "white": 1.0,
+        "grey": 0.0,
+        "darkGrey": 0.0,
+        "liteGrey": 0.0,
+        "black": 0.0,
+        "color": 0.0
+      },
+      {
+        "nubmer": 463,
+        "white": 1.0,
+        "grey": 0.0,
+        "darkGrey": 0.0,
+        "liteGrey": 0.0,
+        "black": 0.0,
+        "color": 0.0
+      },
+      {
+        "nubmer": 464,
+        "white": 1.0,
+        "grey": 0.0,
+        "darkGrey": 0.0,
+        "liteGrey": 0.0,
+        "black": 0.0,
+        "color": 0.0
+      },
+      {
+        "nubmer": 465,
+        "white": 1.0,
+        "grey": 0.0,
+        "darkGrey": 0.0,
+        "liteGrey": 0.0,
+        "black": 0.0,
+        "color": 0.0
+      },
+      {
+        "nubmer": 466,
+        "white": 1.0,
+        "grey": 0.0,
+        "darkGrey": 0.0,
+        "liteGrey": 0.0,
+        "black": 0.0,
+        "color": 0.0
+      },
+      {
+        "nubmer": 467,
+        "white": 1.0,
+        "grey": 0.0,
+        "darkGrey": 0.0,
+        "liteGrey": 0.0,
+        "black": 0.0,
+        "color": 0.0
+      },
+      {
+        "nubmer": 468,
+        "white": 0.95,
+        "grey": 0.0,
+        "darkGrey": 0.0,
+        "liteGrey": 0.0,
+        "black": 0.05,
+        "color": 0.0
+      },
+      {
+        "nubmer": 469,
+        "white": 0.95,
+        "grey": 0.0,
+        "darkGrey": 0.0,
+        "liteGrey": 0.0,
+        "black": 0.05,
+        "color": 0.0
+      },
+      {
+        "nubmer": 470,
+        "white": 1.0,
+        "grey": 0.0,
+        "darkGrey": 0.0,
+        "liteGrey": 0.0,
+        "black": 0.0,
+        "color": 0.0
+      },
+      {
+        "nubmer": 471,
+        "white": 1.0,
+        "grey": 0.0,
+        "darkGrey": 0.0,
+        "liteGrey": 0.0,
+        "black": 0.0,
+        "color": 0.0
+      },
+      {
+        "nubmer": 472,
+        "white": 0.8925,
+        "grey": 0.1075,
+        "darkGrey": 0.0,
+        "liteGrey": 0.0,
+        "black": 0.0,
+        "color": 0.0
+      },
+      {
+        "nubmer": 473,
+        "white": 0.625,
+        "grey": 0.375,
+        "darkGrey": 0.0,
+        "liteGrey": 0.0,
+        "black": 0.0,
+        "color": 0.0
+      },
+      {
+        "nubmer": 474,
+        "white": 0.535,
+        "grey": 0.465,
+        "darkGrey": 0.0,
+        "liteGrey": 0.0,
+        "black": 0.0,
+        "color": 0.0
+      },
+      {
+        "nubmer": 475,
+        "white": 0.785,
+        "grey": 0.215,
+        "darkGrey": 0.0,
+        "liteGrey": 0.0,
+        "black": 0.0,
+        "color": 0.0
+      },
+      {
+        "nubmer": 476,
+        "white": 0.9825,
+        "grey": 0.0175,
+        "darkGrey": 0.0,
+        "liteGrey": 0.0,
+        "black": 0.0,
+        "color": 0.0
+      },
+      {
+        "nubmer": 477,
+        "white": 1.0,
+        "grey": 0.0,
+        "darkGrey": 0.0,
+        "liteGrey": 0.0,
+        "black": 0.0,
+        "color": 0.0
+      },
+      {
+        "nubmer": 478,
+        "white": 1.0,
+        "grey": 0.0,
+        "darkGrey": 0.0,
+        "liteGrey": 0.0,
+        "black": 0.0,
+        "color": 0.0
+      },
+      {
+        "nubmer": 479,
+        "white": 1.0,
+        "grey": 0.0,
+        "darkGrey": 0.0,
+        "liteGrey": 0.0,
+        "black": 0.0,
+        "color": 0.0
+      },
+      {
+        "nubmer": 480,
+        "white": 0.0,
+        "grey": 0.0,
+        "darkGrey": 0.0,
+        "liteGrey": 0.0,
+        "black": 0.0,
+        "color": 0.0
+      },
+      {
+        "nubmer": 481,
+        "white": 0.0,
+        "grey": 0.0,
+        "darkGrey": 0.0,
+        "liteGrey": 0.0,
+        "black": 0.0,
+        "color": 0.0
+      },
+      {
+        "nubmer": 482,
+        "white": 0.0,
+        "grey": 0.0,
+        "darkGrey": 0.0,
+        "liteGrey": 0.0,
+        "black": 0.0,
+        "color": 0.0
+      },
+      {
+        "nubmer": 483,
+        "white": 0.0,
+        "grey": 0.0,
+        "darkGrey": 0.0,
+        "liteGrey": 0.0,
+        "black": 0.0,
+        "color": 0.0
+      },
+      {
+        "nubmer": 484,
+        "white": 0.0,
+        "grey": 0.0,
+        "darkGrey": 0.0,
+        "liteGrey": 0.0,
+        "black": 0.0,
+        "color": 0.0
+      },
+      {
+        "nubmer": 485,
+        "white": 1.0,
+        "grey": 0.0,
+        "darkGrey": 0.0,
+        "liteGrey": 0.0,
+        "black": 0.0,
+        "color": 0.0
+      },
+      {
+        "nubmer": 486,
+        "white": 1.0,
+        "grey": 0.0,
+        "darkGrey": 0.0,
+        "liteGrey": 0.0,
+        "black": 0.0,
+        "color": 0.0
+      },
+      {
+        "nubmer": 487,
+        "white": 1.0,
+        "grey": 0.0,
+        "darkGrey": 0.0,
+        "liteGrey": 0.0,
+        "black": 0.0,
+        "color": 0.0
+      },
+      {
+        "nubmer": 488,
+        "white": 1.0,
+        "grey": 0.0,
+        "darkGrey": 0.0,
+        "liteGrey": 0.0,
+        "black": 0.0,
+        "color": 0.0
+      },
+      {
+        "nubmer": 489,
+        "white": 1.0,
+        "grey": 0.0,
+        "darkGrey": 0.0,
+        "liteGrey": 0.0,
+        "black": 0.0,
+        "color": 0.0
+      },
+      {
+        "nubmer": 490,
+        "white": 1.0,
+        "grey": 0.0,
+        "darkGrey": 0.0,
+        "liteGrey": 0.0,
+        "black": 0.0,
+        "color": 0.0
+      },
+      {
+        "nubmer": 491,
+        "white": 1.0,
+        "grey": 0.0,
+        "darkGrey": 0.0,
+        "liteGrey": 0.0,
+        "black": 0.0,
+        "color": 0.0
+      },
+      {
+        "nubmer": 492,
+        "white": 1.0,
+        "grey": 0.0,
+        "darkGrey": 0.0,
+        "liteGrey": 0.0,
+        "black": 0.0,
+        "color": 0.0
+      },
+      {
+        "nubmer": 493,
+        "white": 1.0,
+        "grey": 0.0,
+        "darkGrey": 0.0,
+        "liteGrey": 0.0,
+        "black": 0.0,
+        "color": 0.0
+      },
+      {
+        "nubmer": 494,
+        "white": 1.0,
+        "grey": 0.0,
+        "darkGrey": 0.0,
+        "liteGrey": 0.0,
+        "black": 0.0,
+        "color": 0.0
+      },
+      {
+        "nubmer": 495,
+        "white": 1.0,
+        "grey": 0.0,
+        "darkGrey": 0.0,
+        "liteGrey": 0.0,
+        "black": 0.0,
+        "color": 0.0
+      },
+      {
+        "nubmer": 496,
+        "white": 1.0,
+        "grey": 0.0,
+        "darkGrey": 0.0,
+        "liteGrey": 0.0,
+        "black": 0.0,
+        "color": 0.0
+      },
+      {
+        "nubmer": 497,
+        "white": 1.0,
+        "grey": 0.0,
+        "darkGrey": 0.0,
+        "liteGrey": 0.0,
+        "black": 0.0,
+        "color": 0.0
+      },
+      {
+        "nubmer": 498,
+        "white": 1.0,
+        "grey": 0.0,
+        "darkGrey": 0.0,
+        "liteGrey": 0.0,
+        "black": 0.0,
+        "color": 0.0
+      },
+      {
+        "nubmer": 499,
+        "white": 1.0,
+        "grey": 0.0,
+        "darkGrey": 0.0,
+        "liteGrey": 0.0,
+        "black": 0.0,
+        "color": 0.0
+      },
+      {
+        "nubmer": 500,
+        "white": 0.95,
+        "grey": 0.0,
+        "darkGrey": 0.0,
+        "liteGrey": 0.0,
+        "black": 0.05,
+        "color": 0.0
+      },
+      {
+        "nubmer": 501,
+        "white": 0.95,
+        "grey": 0.0,
+        "darkGrey": 0.0,
+        "liteGrey": 0.0,
+        "black": 0.05,
+        "color": 0.0
+      },
+      {
+        "nubmer": 502,
+        "white": 1.0,
+        "grey": 0.0,
+        "darkGrey": 0.0,
+        "liteGrey": 0.0,
+        "black": 0.0,
+        "color": 0.0
+      },
+      {
+        "nubmer": 503,
+        "white": 0.8875,
+        "grey": 0.1125,
+        "darkGrey": 0.0,
+        "liteGrey": 0.0,
+        "black": 0.0,
+        "color": 0.0
+      },
+      {
+        "nubmer": 504,
+        "white": 0.615,
+        "grey": 0.385,
+        "darkGrey": 0.0,
+        "liteGrey": 0.0,
+        "black": 0.0,
+        "color": 0.0
+      },
+      {
+        "nubmer": 505,
+        "white": 0.5425,
+        "grey": 0.4575,
+        "darkGrey": 0.0,
+        "liteGrey": 0.0,
+        "black": 0.0,
+        "color": 0.0
+      },
+      {
+        "nubmer": 506,
+        "white": 0.8075,
+        "grey": 0.1925,
+        "darkGrey": 0.0,
+        "liteGrey": 0.0,
+        "black": 0.0,
+        "color": 0.0
+      },
+      {
+        "nubmer": 507,
+        "white": 0.9925,
+        "grey": 0.0075,
+        "darkGrey": 0.0,
+        "liteGrey": 0.0,
+        "black": 0.0,
+        "color": 0.0
+      },
+      {
+        "nubmer": 508,
+        "white": 1.0,
+        "grey": 0.0,
+        "darkGrey": 0.0,
+        "liteGrey": 0.0,
+        "black": 0.0,
+        "color": 0.0
+      },
+      {
+        "nubmer": 509,
+        "white": 1.0,
+        "grey": 0.0,
+        "darkGrey": 0.0,
+        "liteGrey": 0.0,
+        "black": 0.0,
+        "color": 0.0
+      },
+      {
+        "nubmer": 510,
+        "white": 1.0,
+        "grey": 0.0,
+        "darkGrey": 0.0,
+        "liteGrey": 0.0,
+        "black": 0.0,
+        "color": 0.0
+      },
+      {
+        "nubmer": 511,
+        "white": 1.0,
+        "grey": 0.0,
+        "darkGrey": 0.0,
+        "liteGrey": 0.0,
+        "black": 0.0,
+        "color": 0.0
+      },
+      {
+        "nubmer": 512,
+        "white": 0.0,
+        "grey": 0.0,
+        "darkGrey": 0.0,
+        "liteGrey": 0.0,
+        "black": 0.0,
+        "color": 0.0
+      },
+      {
+        "nubmer": 513,
+        "white": 0.0,
+        "grey": 0.0,
+        "darkGrey": 0.0,
+        "liteGrey": 0.0,
+        "black": 0.0,
+        "color": 0.0
+      },
+      {
+        "nubmer": 514,
+        "white": 0.0,
+        "grey": 0.0,
+        "darkGrey": 0.0,
+        "liteGrey": 0.0,
+        "black": 0.0,
+        "color": 0.0
+      },
+      {
+        "nubmer": 515,
+        "white": 0.0,
+        "grey": 0.0,
+        "darkGrey": 0.0,
+        "liteGrey": 0.0,
+        "black": 0.0,
+        "color": 0.0
+      },
+      {
+        "nubmer": 516,
+        "white": 0.0,
+        "grey": 0.0,
+        "darkGrey": 0.0,
+        "liteGrey": 0.0,
+        "black": 0.0,
+        "color": 0.0
+      },
+      {
+        "nubmer": 517,
+        "white": 1.0,
+        "grey": 0.0,
+        "darkGrey": 0.0,
+        "liteGrey": 0.0,
+        "black": 0.0,
+        "color": 0.0
+      },
+      {
+        "nubmer": 518,
+        "white": 1.0,
+        "grey": 0.0,
+        "darkGrey": 0.0,
+        "liteGrey": 0.0,
+        "black": 0.0,
+        "color": 0.0
+      },
+      {
+        "nubmer": 519,
+        "white": 1.0,
+        "grey": 0.0,
+        "darkGrey": 0.0,
+        "liteGrey": 0.0,
+        "black": 0.0,
+        "color": 0.0
+      },
+      {
+        "nubmer": 520,
+        "white": 1.0,
+        "grey": 0.0,
+        "darkGrey": 0.0,
+        "liteGrey": 0.0,
+        "black": 0.0,
+        "color": 0.0
+      },
+      {
+        "nubmer": 521,
+        "white": 1.0,
+        "grey": 0.0,
+        "darkGrey": 0.0,
+        "liteGrey": 0.0,
+        "black": 0.0,
+        "color": 0.0
+      },
+      {
+        "nubmer": 522,
+        "white": 1.0,
+        "grey": 0.0,
+        "darkGrey": 0.0,
+        "liteGrey": 0.0,
+        "black": 0.0,
+        "color": 0.0
+      },
+      {
+        "nubmer": 523,
+        "white": 1.0,
+        "grey": 0.0,
+        "darkGrey": 0.0,
+        "liteGrey": 0.0,
+        "black": 0.0,
+        "color": 0.0
+      },
+      {
+        "nubmer": 524,
+        "white": 1.0,
+        "grey": 0.0,
+        "darkGrey": 0.0,
+        "liteGrey": 0.0,
+        "black": 0.0,
+        "color": 0.0
+      },
+      {
+        "nubmer": 525,
+        "white": 1.0,
+        "grey": 0.0,
+        "darkGrey": 0.0,
+        "liteGrey": 0.0,
+        "black": 0.0,
+        "color": 0.0
+      },
+      {
+        "nubmer": 526,
+        "white": 1.0,
+        "grey": 0.0,
+        "darkGrey": 0.0,
+        "liteGrey": 0.0,
+        "black": 0.0,
+        "color": 0.0
+      },
+      {
+        "nubmer": 527,
+        "white": 1.0,
+        "grey": 0.0,
+        "darkGrey": 0.0,
+        "liteGrey": 0.0,
+        "black": 0.0,
+        "color": 0.0
+      },
+      {
+        "nubmer": 528,
+        "white": 1.0,
+        "grey": 0.0,
+        "darkGrey": 0.0,
+        "liteGrey": 0.0,
+        "black": 0.0,
+        "color": 0.0
+      },
+      {
+        "nubmer": 529,
+        "white": 1.0,
+        "grey": 0.0,
+        "darkGrey": 0.0,
+        "liteGrey": 0.0,
+        "black": 0.0,
+        "color": 0.0
+      },
+      {
+        "nubmer": 530,
+        "white": 1.0,
+        "grey": 0.0,
+        "darkGrey": 0.0,
+        "liteGrey": 0.0,
+        "black": 0.0,
+        "color": 0.0
+      },
+      {
+        "nubmer": 531,
+        "white": 1.0,
+        "grey": 0.0,
+        "darkGrey": 0.0,
+        "liteGrey": 0.0,
+        "black": 0.0,
+        "color": 0.0
+      },
+      {
+        "nubmer": 532,
+        "white": 0.95,
+        "grey": 0.0,
+        "darkGrey": 0.0,
+        "liteGrey": 0.0,
+        "black": 0.05,
+        "color": 0.0
+      },
+      {
+        "nubmer": 533,
+        "white": 0.95,
+        "grey": 0.0,
+        "darkGrey": 0.0,
+        "liteGrey": 0.0,
+        "black": 0.05,
+        "color": 0.0
+      },
+      {
+        "nubmer": 534,
+        "white": 0.89,
+        "grey": 0.11,
+        "darkGrey": 0.0,
+        "liteGrey": 0.0,
+        "black": 0.0,
+        "color": 0.0
+      },
+      {
+        "nubmer": 535,
+        "white": 0.6175,
+        "grey": 0.3825,
+        "darkGrey": 0.0,
+        "liteGrey": 0.0,
+        "black": 0.0,
+        "color": 0.0
+      },
+      {
+        "nubmer": 536,
+        "white": 0.56,
+        "grey": 0.44,
+        "darkGrey": 0.0,
+        "liteGrey": 0.0,
+        "black": 0.0,
+        "color": 0.0
+      },
+      {
+        "nubmer": 537,
+        "white": 0.825,
+        "grey": 0.175,
+        "darkGrey": 0.0,
+        "liteGrey": 0.0,
+        "black": 0.0,
+        "color": 0.0
+      },
+      {
+        "nubmer": 538,
+        "white": 0.9925,
+        "grey": 0.0075,
+        "darkGrey": 0.0,
+        "liteGrey": 0.0,
+        "black": 0.0,
+        "color": 0.0
+      },
+      {
+        "nubmer": 539,
+        "white": 1.0,
+        "grey": 0.0,
+        "darkGrey": 0.0,
+        "liteGrey": 0.0,
+        "black": 0.0,
+        "color": 0.0
+      },
+      {
+        "nubmer": 540,
+        "white": 1.0,
+        "grey": 0.0,
+        "darkGrey": 0.0,
+        "liteGrey": 0.0,
+        "black": 0.0,
+        "color": 0.0
+      },
+      {
+        "nubmer": 541,
+        "white": 1.0,
+        "grey": 0.0,
+        "darkGrey": 0.0,
+        "liteGrey": 0.0,
+        "black": 0.0,
+        "color": 0.0
+      },
+      {
+        "nubmer": 542,
+        "white": 1.0,
+        "grey": 0.0,
+        "darkGrey": 0.0,
+        "liteGrey": 0.0,
+        "black": 0.0,
+        "color": 0.0
+      },
+      {
+        "nubmer": 543,
+        "white": 1.0,
+        "grey": 0.0,
+        "darkGrey": 0.0,
+        "liteGrey": 0.0,
+        "black": 0.0,
+        "color": 0.0
+      },
+      {
+        "nubmer": 544,
+        "white": 0.0,
+        "grey": 0.0,
+        "darkGrey": 0.0,
+        "liteGrey": 0.0,
+        "black": 0.0,
+        "color": 0.0
+      },
+      {
+        "nubmer": 545,
+        "white": 0.0,
+        "grey": 0.0,
+        "darkGrey": 0.0,
+        "liteGrey": 0.0,
+        "black": 0.0,
+        "color": 0.0
+      },
+      {
+        "nubmer": 546,
+        "white": 0.0,
+        "grey": 0.0,
+        "darkGrey": 0.0,
+        "liteGrey": 0.0,
+        "black": 0.0,
+        "color": 0.0
+      },
+      {
+        "nubmer": 547,
+        "white": 0.0,
+        "grey": 0.0,
+        "darkGrey": 0.0,
+        "liteGrey": 0.0,
+        "black": 0.0,
+        "color": 0.0
+      },
+      {
+        "nubmer": 548,
+        "white": 0.0,
+        "grey": 0.0,
+        "darkGrey": 0.0,
+        "liteGrey": 0.0,
+        "black": 0.0,
+        "color": 0.0
+      },
+      {
+        "nubmer": 549,
+        "white": 1.0,
+        "grey": 0.0,
+        "darkGrey": 0.0,
+        "liteGrey": 0.0,
+        "black": 0.0,
+        "color": 0.0
+      },
+      {
+        "nubmer": 550,
+        "white": 1.0,
+        "grey": 0.0,
+        "darkGrey": 0.0,
+        "liteGrey": 0.0,
+        "black": 0.0,
+        "color": 0.0
+      },
+      {
+        "nubmer": 551,
+        "white": 1.0,
+        "grey": 0.0,
+        "darkGrey": 0.0,
+        "liteGrey": 0.0,
+        "black": 0.0,
+        "color": 0.0
+      },
+      {
+        "nubmer": 552,
+        "white": 1.0,
+        "grey": 0.0,
+        "darkGrey": 0.0,
+        "liteGrey": 0.0,
+        "black": 0.0,
+        "color": 0.0
+      },
+      {
+        "nubmer": 553,
+        "white": 1.0,
+        "grey": 0.0,
+        "darkGrey": 0.0,
+        "liteGrey": 0.0,
+        "black": 0.0,
+        "color": 0.0
+      },
+      {
+        "nubmer": 554,
+        "white": 1.0,
+        "grey": 0.0,
+        "darkGrey": 0.0,
+        "liteGrey": 0.0,
+        "black": 0.0,
+        "color": 0.0
+      },
+      {
+        "nubmer": 555,
+        "white": 1.0,
+        "grey": 0.0,
+        "darkGrey": 0.0,
+        "liteGrey": 0.0,
+        "black": 0.0,
+        "color": 0.0
+      },
+      {
+        "nubmer": 556,
+        "white": 1.0,
+        "grey": 0.0,
+        "darkGrey": 0.0,
+        "liteGrey": 0.0,
+        "black": 0.0,
+        "color": 0.0
+      },
+      {
+        "nubmer": 557,
+        "white": 1.0,
+        "grey": 0.0,
+        "darkGrey": 0.0,
+        "liteGrey": 0.0,
+        "black": 0.0,
+        "color": 0.0
+      },
+      {
+        "nubmer": 558,
+        "white": 1.0,
+        "grey": 0.0,
+        "darkGrey": 0.0,
+        "liteGrey": 0.0,
+        "black": 0.0,
+        "color": 0.0
+      },
+      {
+        "nubmer": 559,
+        "white": 1.0,
+        "grey": 0.0,
+        "darkGrey": 0.0,
+        "liteGrey": 0.0,
+        "black": 0.0,
+        "color": 0.0
+      },
+      {
+        "nubmer": 560,
+        "white": 1.0,
+        "grey": 0.0,
+        "darkGrey": 0.0,
+        "liteGrey": 0.0,
+        "black": 0.0,
+        "color": 0.0
+      },
+      {
+        "nubmer": 561,
+        "white": 1.0,
+        "grey": 0.0,
+        "darkGrey": 0.0,
+        "liteGrey": 0.0,
+        "black": 0.0,
+        "color": 0.0
+      },
+      {
+        "nubmer": 562,
+        "white": 1.0,
+        "grey": 0.0,
+        "darkGrey": 0.0,
+        "liteGrey": 0.0,
+        "black": 0.0,
+        "color": 0.0
+      },
+      {
+        "nubmer": 563,
+        "white": 1.0,
+        "grey": 0.0,
+        "darkGrey": 0.0,
+        "liteGrey": 0.0,
+        "black": 0.0,
+        "color": 0.0
+      },
+      {
+        "nubmer": 564,
+        "white": 0.95,
+        "grey": 0.0,
+        "darkGrey": 0.0,
+        "liteGrey": 0.0,
+        "black": 0.05,
+        "color": 0.0
+      },
+      {
+        "nubmer": 565,
+        "white": 0.8675,
+        "grey": 0.0825,
+        "darkGrey": 0.0,
+        "liteGrey": 0.0,
+        "black": 0.05,
+        "color": 0.0
+      },
+      {
+        "nubmer": 566,
+        "white": 0.63,
+        "grey": 0.37,
+        "darkGrey": 0.0,
+        "liteGrey": 0.0,
+        "black": 0.0,
+        "color": 0.0
+      },
+      {
+        "nubmer": 567,
+        "white": 0.545,
+        "grey": 0.455,
+        "darkGrey": 0.0,
+        "liteGrey": 0.0,
+        "black": 0.0,
+        "color": 0.0
+      },
+      {
+        "nubmer": 568,
+        "white": 0.83,
+        "grey": 0.17,
+        "darkGrey": 0.0,
+        "liteGrey": 0.0,
+        "black": 0.0,
+        "color": 0.0
+      },
+      {
+        "nubmer": 569,
+        "white": 0.9975,
+        "grey": 0.0025,
+        "darkGrey": 0.0,
+        "liteGrey": 0.0,
+        "black": 0.0,
+        "color": 0.0
+      },
+      {
+        "nubmer": 570,
+        "white": 1.0,
+        "grey": 0.0,
+        "darkGrey": 0.0,
+        "liteGrey": 0.0,
+        "black": 0.0,
+        "color": 0.0
+      },
+      {
+        "nubmer": 571,
+        "white": 1.0,
+        "grey": 0.0,
+        "darkGrey": 0.0,
+        "liteGrey": 0.0,
+        "black": 0.0,
+        "color": 0.0
+      },
+      {
+        "nubmer": 572,
+        "white": 1.0,
+        "grey": 0.0,
+        "darkGrey": 0.0,
+        "liteGrey": 0.0,
+        "black": 0.0,
+        "color": 0.0
+      },
+      {
+        "nubmer": 573,
+        "white": 1.0,
+        "grey": 0.0,
+        "darkGrey": 0.0,
+        "liteGrey": 0.0,
+        "black": 0.0,
+        "color": 0.0
+      },
+      {
+        "nubmer": 574,
+        "white": 1.0,
+        "grey": 0.0,
+        "darkGrey": 0.0,
+        "liteGrey": 0.0,
+        "black": 0.0,
+        "color": 0.0
+      },
+      {
+        "nubmer": 575,
+        "white": 1.0,
+        "grey": 0.0,
+        "darkGrey": 0.0,
+        "liteGrey": 0.0,
+        "black": 0.0,
+        "color": 0.0
+      },
+      {
+        "nubmer": 576,
+        "white": 0.0,
+        "grey": 0.0,
+        "darkGrey": 0.0,
+        "liteGrey": 0.0,
+        "black": 0.0,
+        "color": 0.0
+      },
+      {
+        "nubmer": 577,
+        "white": 0.0,
+        "grey": 0.0,
+        "darkGrey": 0.0,
+        "liteGrey": 0.0,
+        "black": 0.0,
+        "color": 0.0
+      },
+      {
+        "nubmer": 578,
+        "white": 0.0,
+        "grey": 0.0,
+        "darkGrey": 0.0,
+        "liteGrey": 0.0,
+        "black": 0.0,
+        "color": 0.0
+      },
+      {
+        "nubmer": 579,
+        "white": 0.0,
+        "grey": 0.0,
+        "darkGrey": 0.0,
+        "liteGrey": 0.0,
+        "black": 0.0,
+        "color": 0.0
+      },
+      {
+        "nubmer": 580,
+        "white": 0.0,
+        "grey": 0.0,
+        "darkGrey": 0.0,
+        "liteGrey": 0.0,
+        "black": 0.0,
+        "color": 0.0
+      },
+      {
+        "nubmer": 581,
+        "white": 1.0,
+        "grey": 0.0,
+        "darkGrey": 0.0,
+        "liteGrey": 0.0,
+        "black": 0.0,
+        "color": 0.0
+      },
+      {
+        "nubmer": 582,
+        "white": 1.0,
+        "grey": 0.0,
+        "darkGrey": 0.0,
+        "liteGrey": 0.0,
+        "black": 0.0,
+        "color": 0.0
+      },
+      {
+        "nubmer": 583,
+        "white": 1.0,
+        "grey": 0.0,
+        "darkGrey": 0.0,
+        "liteGrey": 0.0,
+        "black": 0.0,
+        "color": 0.0
+      },
+      {
+        "nubmer": 584,
+        "white": 1.0,
+        "grey": 0.0,
+        "darkGrey": 0.0,
+        "liteGrey": 0.0,
+        "black": 0.0,
+        "color": 0.0
+      },
+      {
+        "nubmer": 585,
+        "white": 1.0,
+        "grey": 0.0,
+        "darkGrey": 0.0,
+        "liteGrey": 0.0,
+        "black": 0.0,
+        "color": 0.0
+      },
+      {
+        "nubmer": 586,
+        "white": 1.0,
+        "grey": 0.0,
+        "darkGrey": 0.0,
+        "liteGrey": 0.0,
+        "black": 0.0,
+        "color": 0.0
+      },
+      {
+        "nubmer": 587,
+        "white": 1.0,
+        "grey": 0.0,
+        "darkGrey": 0.0,
+        "liteGrey": 0.0,
+        "black": 0.0,
+        "color": 0.0
+      },
+      {
+        "nubmer": 588,
+        "white": 1.0,
+        "grey": 0.0,
+        "darkGrey": 0.0,
+        "liteGrey": 0.0,
+        "black": 0.0,
+        "color": 0.0
+      },
+      {
+        "nubmer": 589,
+        "white": 1.0,
+        "grey": 0.0,
+        "darkGrey": 0.0,
+        "liteGrey": 0.0,
+        "black": 0.0,
+        "color": 0.0
+      },
+      {
+        "nubmer": 590,
+        "white": 1.0,
+        "grey": 0.0,
+        "darkGrey": 0.0,
+        "liteGrey": 0.0,
+        "black": 0.0,
+        "color": 0.0
+      },
+      {
+        "nubmer": 591,
+        "white": 1.0,
+        "grey": 0.0,
+        "darkGrey": 0.0,
+        "liteGrey": 0.0,
+        "black": 0.0,
+        "color": 0.0
+      },
+      {
+        "nubmer": 592,
+        "white": 1.0,
+        "grey": 0.0,
+        "darkGrey": 0.0,
+        "liteGrey": 0.0,
+        "black": 0.0,
+        "color": 0.0
+      },
+      {
+        "nubmer": 593,
+        "white": 1.0,
+        "grey": 0.0,
+        "darkGrey": 0.0,
+        "liteGrey": 0.0,
+        "black": 0.0,
+        "color": 0.0
+      },
+      {
+        "nubmer": 594,
+        "white": 1.0,
+        "grey": 0.0,
+        "darkGrey": 0.0,
+        "liteGrey": 0.0,
+        "black": 0.0,
+        "color": 0.0
+      },
+      {
+        "nubmer": 595,
+        "white": 1.0,
+        "grey": 0.0,
+        "darkGrey": 0.0,
+        "liteGrey": 0.0,
+        "black": 0.0,
+        "color": 0.0
+      },
+      {
+        "nubmer": 596,
+        "white": 0.905,
+        "grey": 0.045,
+        "darkGrey": 0.0,
+        "liteGrey": 0.0,
+        "black": 0.05,
+        "color": 0.0
+      },
+      {
+        "nubmer": 597,
+        "white": 0.625,
+        "grey": 0.325,
+        "darkGrey": 0.0,
+        "liteGrey": 0.0,
+        "black": 0.05,
+        "color": 0.0
+      },
+      {
+        "nubmer": 598,
+        "white": 0.53,
+        "grey": 0.47,
+        "darkGrey": 0.0,
+        "liteGrey": 0.0,
+        "black": 0.0,
+        "color": 0.0
+      },
+      {
+        "nubmer": 599,
+        "white": 0.8025,
+        "grey": 0.1975,
+        "darkGrey": 0.0,
+        "liteGrey": 0.0,
+        "black": 0.0,
+        "color": 0.0
+      },
+      {
+        "nubmer": 600,
+        "white": 0.9925,
+        "grey": 0.0075,
+        "darkGrey": 0.0,
+        "liteGrey": 0.0,
+        "black": 0.0,
+        "color": 0.0
+      },
+      {
+        "nubmer": 601,
+        "white": 1.0,
+        "grey": 0.0,
+        "darkGrey": 0.0,
+        "liteGrey": 0.0,
+        "black": 0.0,
+        "color": 0.0
+      },
+      {
+        "nubmer": 602,
+        "white": 1.0,
+        "grey": 0.0,
+        "darkGrey": 0.0,
+        "liteGrey": 0.0,
+        "black": 0.0,
+        "color": 0.0
+      },
+      {
+        "nubmer": 603,
+        "white": 1.0,
+        "grey": 0.0,
+        "darkGrey": 0.0,
+        "liteGrey": 0.0,
+        "black": 0.0,
+        "color": 0.0
+      },
+      {
+        "nubmer": 604,
+        "white": 1.0,
+        "grey": 0.0,
+        "darkGrey": 0.0,
+        "liteGrey": 0.0,
+        "black": 0.0,
+        "color": 0.0
+      },
+      {
+        "nubmer": 605,
+        "white": 1.0,
+        "grey": 0.0,
+        "darkGrey": 0.0,
+        "liteGrey": 0.0,
+        "black": 0.0,
+        "color": 0.0
+      },
+      {
+        "nubmer": 606,
+        "white": 1.0,
+        "grey": 0.0,
+        "darkGrey": 0.0,
+        "liteGrey": 0.0,
+        "black": 0.0,
+        "color": 0.0
+      },
+      {
+        "nubmer": 607,
+        "white": 1.0,
+        "grey": 0.0,
+        "darkGrey": 0.0,
+        "liteGrey": 0.0,
+        "black": 0.0,
+        "color": 0.0
+      },
+      {
+        "nubmer": 608,
+        "white": 0.0,
+        "grey": 0.0,
+        "darkGrey": 0.0,
+        "liteGrey": 0.0,
+        "black": 0.0,
+        "color": 0.0
+      },
+      {
+        "nubmer": 609,
+        "white": 0.0,
+        "grey": 0.0,
+        "darkGrey": 0.0,
+        "liteGrey": 0.0,
+        "black": 0.0,
+        "color": 0.0
+      },
+      {
+        "nubmer": 610,
+        "white": 0.0,
+        "grey": 0.0,
+        "darkGrey": 0.0,
+        "liteGrey": 0.0,
+        "black": 0.0,
+        "color": 0.0
+      },
+      {
+        "nubmer": 611,
+        "white": 0.0,
+        "grey": 0.0,
+        "darkGrey": 0.0,
+        "liteGrey": 0.0,
+        "black": 0.0,
+        "color": 0.0
+      },
+      {
+        "nubmer": 612,
+        "white": 0.0,
+        "grey": 0.0,
+        "darkGrey": 0.0,
+        "liteGrey": 0.0,
+        "black": 0.0,
+        "color": 0.0
+      },
+      {
+        "nubmer": 613,
+        "white": 1.0,
+        "grey": 0.0,
+        "darkGrey": 0.0,
+        "liteGrey": 0.0,
+        "black": 0.0,
+        "color": 0.0
+      },
+      {
+        "nubmer": 614,
+        "white": 1.0,
+        "grey": 0.0,
+        "darkGrey": 0.0,
+        "liteGrey": 0.0,
+        "black": 0.0,
+        "color": 0.0
+      },
+      {
+        "nubmer": 615,
+        "white": 1.0,
+        "grey": 0.0,
+        "darkGrey": 0.0,
+        "liteGrey": 0.0,
+        "black": 0.0,
+        "color": 0.0
+      },
+      {
+        "nubmer": 616,
+        "white": 1.0,
+        "grey": 0.0,
+        "darkGrey": 0.0,
+        "liteGrey": 0.0,
+        "black": 0.0,
+        "color": 0.0
+      },
+      {
+        "nubmer": 617,
+        "white": 1.0,
+        "grey": 0.0,
+        "darkGrey": 0.0,
+        "liteGrey": 0.0,
+        "black": 0.0,
+        "color": 0.0
+      },
+      {
+        "nubmer": 618,
+        "white": 1.0,
+        "grey": 0.0,
+        "darkGrey": 0.0,
+        "liteGrey": 0.0,
+        "black": 0.0,
+        "color": 0.0
+      },
+      {
+        "nubmer": 619,
+        "white": 1.0,
+        "grey": 0.0,
+        "darkGrey": 0.0,
+        "liteGrey": 0.0,
+        "black": 0.0,
+        "color": 0.0
+      },
+      {
+        "nubmer": 620,
+        "white": 1.0,
+        "grey": 0.0,
+        "darkGrey": 0.0,
+        "liteGrey": 0.0,
+        "black": 0.0,
+        "color": 0.0
+      },
+      {
+        "nubmer": 621,
+        "white": 1.0,
+        "grey": 0.0,
+        "darkGrey": 0.0,
+        "liteGrey": 0.0,
+        "black": 0.0,
+        "color": 0.0
+      },
+      {
+        "nubmer": 622,
+        "white": 1.0,
+        "grey": 0.0,
+        "darkGrey": 0.0,
+        "liteGrey": 0.0,
+        "black": 0.0,
+        "color": 0.0
+      },
+      {
+        "nubmer": 623,
+        "white": 1.0,
+        "grey": 0.0,
+        "darkGrey": 0.0,
+        "liteGrey": 0.0,
+        "black": 0.0,
+        "color": 0.0
+      },
+      {
+        "nubmer": 624,
+        "white": 1.0,
+        "grey": 0.0,
+        "darkGrey": 0.0,
+        "liteGrey": 0.0,
+        "black": 0.0,
+        "color": 0.0
+      },
+      {
+        "nubmer": 625,
+        "white": 1.0,
+        "grey": 0.0,
+        "darkGrey": 0.0,
+        "liteGrey": 0.0,
+        "black": 0.0,
+        "color": 0.0
+      },
+      {
+        "nubmer": 626,
+        "white": 1.0,
+        "grey": 0.0,
+        "darkGrey": 0.0,
+        "liteGrey": 0.0,
+        "black": 0.0,
+        "color": 0.0
+      },
+      {
+        "nubmer": 627,
+        "white": 0.995,
+        "grey": 0.005,
+        "darkGrey": 0.0,
+        "liteGrey": 0.0,
+        "black": 0.0,
+        "color": 0.0
+      },
+      {
+        "nubmer": 628,
+        "white": 0.7175,
+        "grey": 0.25,
+        "darkGrey": 0.0,
+        "liteGrey": 0.0,
+        "black": 0.0325,
+        "color": 0.0
+      },
+      {
+        "nubmer": 629,
+        "white": 0.4875,
+        "grey": 0.48,
+        "darkGrey": 0.0,
+        "liteGrey": 0.0,
+        "black": 0.0325,
+        "color": 0.0
+      },
+      {
+        "nubmer": 630,
+        "white": 0.7525,
+        "grey": 0.2475,
+        "darkGrey": 0.0,
+        "liteGrey": 0.0,
+        "black": 0.0,
+        "color": 0.0
+      },
+      {
+        "nubmer": 631,
+        "white": 0.9875,
+        "grey": 0.0125,
+        "darkGrey": 0.0,
+        "liteGrey": 0.0,
+        "black": 0.0,
+        "color": 0.0
+      },
+      {
+        "nubmer": 632,
+        "white": 1.0,
+        "grey": 0.0,
+        "darkGrey": 0.0,
+        "liteGrey": 0.0,
+        "black": 0.0,
+        "color": 0.0
+      },
+      {
+        "nubmer": 633,
+        "white": 1.0,
+        "grey": 0.0,
+        "darkGrey": 0.0,
+        "liteGrey": 0.0,
+        "black": 0.0,
+        "color": 0.0
+      },
+      {
+        "nubmer": 634,
+        "white": 1.0,
+        "grey": 0.0,
+        "darkGrey": 0.0,
+        "liteGrey": 0.0,
+        "black": 0.0,
+        "color": 0.0
+      },
+      {
+        "nubmer": 635,
+        "white": 1.0,
+        "grey": 0.0,
+        "darkGrey": 0.0,
+        "liteGrey": 0.0,
+        "black": 0.0,
+        "color": 0.0
+      },
+      {
+        "nubmer": 636,
+        "white": 1.0,
+        "grey": 0.0,
+        "darkGrey": 0.0,
+        "liteGrey": 0.0,
+        "black": 0.0,
+        "color": 0.0
+      },
+      {
+        "nubmer": 637,
+        "white": 1.0,
+        "grey": 0.0,
+        "darkGrey": 0.0,
+        "liteGrey": 0.0,
+        "black": 0.0,
+        "color": 0.0
+      },
+      {
+        "nubmer": 638,
+        "white": 1.0,
+        "grey": 0.0,
+        "darkGrey": 0.0,
+        "liteGrey": 0.0,
+        "black": 0.0,
+        "color": 0.0
+      },
+      {
+        "nubmer": 639,
+        "white": 1.0,
+        "grey": 0.0,
+        "darkGrey": 0.0,
+        "liteGrey": 0.0,
+        "black": 0.0,
+        "color": 0.0
+      },
+      {
+        "nubmer": 640,
+        "white": 0.0,
+        "grey": 0.0,
+        "darkGrey": 0.0,
+        "liteGrey": 0.0,
+        "black": 0.0,
+        "color": 0.0
+      },
+      {
+        "nubmer": 641,
+        "white": 0.0,
+        "grey": 0.0,
+        "darkGrey": 0.0,
+        "liteGrey": 0.0,
+        "black": 0.0,
+        "color": 0.0
+      },
+      {
+        "nubmer": 642,
+        "white": 0.0,
+        "grey": 0.0,
+        "darkGrey": 0.0,
+        "liteGrey": 0.0,
+        "black": 0.0,
+        "color": 0.0
+      },
+      {
+        "nubmer": 643,
+        "white": 0.0,
+        "grey": 0.0,
+        "darkGrey": 0.0,
+        "liteGrey": 0.0,
+        "black": 0.0,
+        "color": 0.0
+      },
+      {
+        "nubmer": 644,
+        "white": 0.0,
+        "grey": 0.0,
+        "darkGrey": 0.0,
+        "liteGrey": 0.0,
+        "black": 0.0,
+        "color": 0.0
+      },
+      {
+        "nubmer": 645,
+        "white": 1.0,
+        "grey": 0.0,
+        "darkGrey": 0.0,
+        "liteGrey": 0.0,
+        "black": 0.0,
+        "color": 0.0
+      },
+      {
+        "nubmer": 646,
+        "white": 1.0,
+        "grey": 0.0,
+        "darkGrey": 0.0,
+        "liteGrey": 0.0,
+        "black": 0.0,
+        "color": 0.0
+      },
+      {
+        "nubmer": 647,
+        "white": 1.0,
+        "grey": 0.0,
+        "darkGrey": 0.0,
+        "liteGrey": 0.0,
+        "black": 0.0,
+        "color": 0.0
+      },
+      {
+        "nubmer": 648,
+        "white": 1.0,
+        "grey": 0.0,
+        "darkGrey": 0.0,
+        "liteGrey": 0.0,
+        "black": 0.0,
+        "color": 0.0
+      },
+      {
+        "nubmer": 649,
+        "white": 1.0,
+        "grey": 0.0,
+        "darkGrey": 0.0,
+        "liteGrey": 0.0,
+        "black": 0.0,
+        "color": 0.0
+      },
+      {
+        "nubmer": 650,
+        "white": 1.0,
+        "grey": 0.0,
+        "darkGrey": 0.0,
+        "liteGrey": 0.0,
+        "black": 0.0,
+        "color": 0.0
+      },
+      {
+        "nubmer": 651,
+        "white": 1.0,
+        "grey": 0.0,
+        "darkGrey": 0.0,
+        "liteGrey": 0.0,
+        "black": 0.0,
+        "color": 0.0
+      },
+      {
+        "nubmer": 652,
+        "white": 1.0,
+        "grey": 0.0,
+        "darkGrey": 0.0,
+        "liteGrey": 0.0,
+        "black": 0.0,
+        "color": 0.0
+      },
+      {
+        "nubmer": 653,
+        "white": 1.0,
+        "grey": 0.0,
+        "darkGrey": 0.0,
+        "liteGrey": 0.0,
+        "black": 0.0,
+        "color": 0.0
+      },
+      {
+        "nubmer": 654,
+        "white": 1.0,
+        "grey": 0.0,
+        "darkGrey": 0.0,
+        "liteGrey": 0.0,
+        "black": 0.0,
+        "color": 0.0
+      },
+      {
+        "nubmer": 655,
+        "white": 1.0,
+        "grey": 0.0,
+        "darkGrey": 0.0,
+        "liteGrey": 0.0,
+        "black": 0.0,
+        "color": 0.0
+      },
+      {
+        "nubmer": 656,
+        "white": 1.0,
+        "grey": 0.0,
+        "darkGrey": 0.0,
+        "liteGrey": 0.0,
+        "black": 0.0,
+        "color": 0.0
+      },
+      {
+        "nubmer": 657,
+        "white": 1.0,
+        "grey": 0.0,
+        "darkGrey": 0.0,
+        "liteGrey": 0.0,
+        "black": 0.0,
+        "color": 0.0
+      },
+      {
+        "nubmer": 658,
+        "white": 1.0,
+        "grey": 0.0,
+        "darkGrey": 0.0,
+        "liteGrey": 0.0,
+        "black": 0.0,
+        "color": 0.0
+      },
+      {
+        "nubmer": 659,
+        "white": 0.88,
+        "grey": 0.12,
+        "darkGrey": 0.0,
+        "liteGrey": 0.0,
+        "black": 0.0,
+        "color": 0.0
+      },
+      {
+        "nubmer": 660,
+        "white": 0.555,
+        "grey": 0.435,
+        "darkGrey": 0.0,
+        "liteGrey": 0.0,
+        "black": 0.01,
+        "color": 0.0
+      },
+      {
+        "nubmer": 661,
+        "white": 0.6375,
+        "grey": 0.3525,
+        "darkGrey": 0.0,
+        "liteGrey": 0.0,
+        "black": 0.01,
+        "color": 0.0
+      },
+      {
+        "nubmer": 662,
+        "white": 0.9625,
+        "grey": 0.0375,
+        "darkGrey": 0.0,
+        "liteGrey": 0.0,
+        "black": 0.0,
+        "color": 0.0
+      },
+      {
+        "nubmer": 663,
+        "white": 1.0,
+        "grey": 0.0,
+        "darkGrey": 0.0,
+        "liteGrey": 0.0,
+        "black": 0.0,
+        "color": 0.0
+      },
+      {
+        "nubmer": 664,
+        "white": 1.0,
+        "grey": 0.0,
+        "darkGrey": 0.0,
+        "liteGrey": 0.0,
+        "black": 0.0,
+        "color": 0.0
+      },
+      {
+        "nubmer": 665,
+        "white": 1.0,
+        "grey": 0.0,
+        "darkGrey": 0.0,
+        "liteGrey": 0.0,
+        "black": 0.0,
+        "color": 0.0
+      },
+      {
+        "nubmer": 666,
+        "white": 1.0,
+        "grey": 0.0,
+        "darkGrey": 0.0,
+        "liteGrey": 0.0,
+        "black": 0.0,
+        "color": 0.0
+      },
+      {
+        "nubmer": 667,
+        "white": 1.0,
+        "grey": 0.0,
+        "darkGrey": 0.0,
+        "liteGrey": 0.0,
+        "black": 0.0,
+        "color": 0.0
+      },
+      {
+        "nubmer": 668,
+        "white": 1.0,
+        "grey": 0.0,
+        "darkGrey": 0.0,
+        "liteGrey": 0.0,
+        "black": 0.0,
+        "color": 0.0
+      },
+      {
+        "nubmer": 669,
+        "white": 1.0,
+        "grey": 0.0,
+        "darkGrey": 0.0,
+        "liteGrey": 0.0,
+        "black": 0.0,
+        "color": 0.0
+      },
+      {
+        "nubmer": 670,
+        "white": 1.0,
+        "grey": 0.0,
+        "darkGrey": 0.0,
+        "liteGrey": 0.0,
+        "black": 0.0,
+        "color": 0.0
+      },
+      {
+        "nubmer": 671,
+        "white": 1.0,
+        "grey": 0.0,
+        "darkGrey": 0.0,
+        "liteGrey": 0.0,
+        "black": 0.0,
+        "color": 0.0
+      },
+      {
+        "nubmer": 672,
+        "white": 0.0,
+        "grey": 0.0,
+        "darkGrey": 0.0,
+        "liteGrey": 0.0,
+        "black": 0.0,
+        "color": 0.0
+      },
+      {
+        "nubmer": 673,
+        "white": 0.0,
+        "grey": 0.0,
+        "darkGrey": 0.0,
+        "liteGrey": 0.0,
+        "black": 0.0,
+        "color": 0.0
+      },
+      {
+        "nubmer": 674,
+        "white": 0.0,
+        "grey": 0.0,
+        "darkGrey": 0.0,
+        "liteGrey": 0.0,
+        "black": 0.0,
+        "color": 0.0
+      },
+      {
+        "nubmer": 675,
+        "white": 0.0,
+        "grey": 0.0,
+        "darkGrey": 0.0,
+        "liteGrey": 0.0,
+        "black": 0.0,
+        "color": 0.0
+      },
+      {
+        "nubmer": 676,
+        "white": 0.0,
+        "grey": 0.0,
+        "darkGrey": 0.0,
+        "liteGrey": 0.0,
+        "black": 0.0,
+        "color": 0.0
+      },
+      {
+        "nubmer": 677,
+        "white": 1.0,
+        "grey": 0.0,
+        "darkGrey": 0.0,
+        "liteGrey": 0.0,
+        "black": 0.0,
+        "color": 0.0
+      },
+      {
+        "nubmer": 678,
+        "white": 0.98076923076923073,
+        "grey": 0.0,
+        "darkGrey": 0.0,
+        "liteGrey": 0.0,
+        "black": 0.019230769230769232,
+        "color": 0.0
+      },
+      {
+        "nubmer": 679,
+        "white": 0.9625,
+        "grey": 0.0,
+        "darkGrey": 0.0,
+        "liteGrey": 0.0,
+        "black": 0.0375,
+        "color": 0.0
+      },
+      {
+        "nubmer": 680,
+        "white": 0.95,
+        "grey": 0.0,
+        "darkGrey": 0.0,
+        "liteGrey": 0.0,
+        "black": 0.05,
+        "color": 0.0
+      },
+      {
+        "nubmer": 681,
+        "white": 0.95,
+        "grey": 0.0,
+        "darkGrey": 0.0,
+        "liteGrey": 0.0,
+        "black": 0.05,
+        "color": 0.0
+      },
+      {
+        "nubmer": 682,
+        "white": 0.95,
+        "grey": 0.0,
+        "darkGrey": 0.0,
+        "liteGrey": 0.0,
+        "black": 0.05,
+        "color": 0.0
+      },
+      {
+        "nubmer": 683,
+        "white": 0.95,
+        "grey": 0.0,
+        "darkGrey": 0.0,
+        "liteGrey": 0.0,
+        "black": 0.05,
+        "color": 0.0
+      },
+      {
+        "nubmer": 684,
+        "white": 0.95,
+        "grey": 0.0,
+        "darkGrey": 0.0,
+        "liteGrey": 0.0,
+        "black": 0.05,
+        "color": 0.0
+      },
+      {
+        "nubmer": 685,
+        "white": 0.95,
+        "grey": 0.0,
+        "darkGrey": 0.0,
+        "liteGrey": 0.0,
+        "black": 0.05,
+        "color": 0.0
+      },
+      {
+        "nubmer": 686,
+        "white": 0.95,
+        "grey": 0.0,
+        "darkGrey": 0.0,
+        "liteGrey": 0.0,
+        "black": 0.05,
+        "color": 0.0
+      },
+      {
+        "nubmer": 687,
+        "white": 0.95,
+        "grey": 0.0,
+        "darkGrey": 0.0,
+        "liteGrey": 0.0,
+        "black": 0.05,
+        "color": 0.0
+      },
+      {
+        "nubmer": 688,
+        "white": 0.95,
+        "grey": 0.0,
+        "darkGrey": 0.0,
+        "liteGrey": 0.0,
+        "black": 0.05,
+        "color": 0.0
+      },
+      {
+        "nubmer": 689,
+        "white": 0.95,
+        "grey": 0.0,
+        "darkGrey": 0.0,
+        "liteGrey": 0.0,
+        "black": 0.05,
+        "color": 0.0
+      },
+      {
+        "nubmer": 690,
+        "white": 0.94,
+        "grey": 0.01,
+        "darkGrey": 0.0,
+        "liteGrey": 0.0,
+        "black": 0.05,
+        "color": 0.0
+      },
+      {
+        "nubmer": 691,
+        "white": 0.64,
+        "grey": 0.33,
+        "darkGrey": 0.0,
+        "liteGrey": 0.0,
+        "black": 0.03,
+        "color": 0.0
+      },
+      {
+        "nubmer": 692,
+        "white": 0.505,
+        "grey": 0.44,
+        "darkGrey": 0.0,
+        "liteGrey": 0.0,
+        "black": 0.055,
+        "color": 0.0
+      },
+      {
+        "nubmer": 693,
+        "white": 0.805,
+        "grey": 0.12,
+        "darkGrey": 0.0,
+        "liteGrey": 0.0,
+        "black": 0.075,
+        "color": 0.0
+      },
+      {
+        "nubmer": 694,
+        "white": 0.95,
+        "grey": 0.0,
+        "darkGrey": 0.0,
+        "liteGrey": 0.0,
+        "black": 0.05,
+        "color": 0.0
+      },
+      {
+        "nubmer": 695,
+        "white": 0.95,
+        "grey": 0.0,
+        "darkGrey": 0.0,
+        "liteGrey": 0.0,
+        "black": 0.05,
+        "color": 0.0
+      },
+      {
+        "nubmer": 696,
+        "white": 0.95,
+        "grey": 0.0,
+        "darkGrey": 0.0,
+        "liteGrey": 0.0,
+        "black": 0.05,
+        "color": 0.0
+      },
+      {
+        "nubmer": 697,
+        "white": 0.95,
+        "grey": 0.0,
+        "darkGrey": 0.0,
+        "liteGrey": 0.0,
+        "black": 0.05,
+        "color": 0.0
+      },
+      {
+        "nubmer": 698,
+        "white": 0.95,
+        "grey": 0.0,
+        "darkGrey": 0.0,
+        "liteGrey": 0.0,
+        "black": 0.05,
+        "color": 0.0
+      },
+      {
+        "nubmer": 699,
+        "white": 0.95,
+        "grey": 0.0,
+        "darkGrey": 0.0,
+        "liteGrey": 0.0,
+        "black": 0.05,
+        "color": 0.0
+      },
+      {
+        "nubmer": 700,
+        "white": 0.95,
+        "grey": 0.0,
+        "darkGrey": 0.0,
+        "liteGrey": 0.0,
+        "black": 0.05,
+        "color": 0.0
+      },
+      {
+        "nubmer": 701,
+        "white": 0.95,
+        "grey": 0.0,
+        "darkGrey": 0.0,
+        "liteGrey": 0.0,
+        "black": 0.05,
+        "color": 0.0
+      },
+      {
+        "nubmer": 702,
+        "white": 0.95,
+        "grey": 0.0,
+        "darkGrey": 0.0,
+        "liteGrey": 0.0,
+        "black": 0.05,
+        "color": 0.0
+      },
+      {
+        "nubmer": 703,
+        "white": 0.95,
+        "grey": 0.0,
+        "darkGrey": 0.0,
+        "liteGrey": 0.0,
+        "black": 0.05,
+        "color": 0.0
+      },
+      {
+        "nubmer": 704,
+        "white": 0.0,
+        "grey": 0.0,
+        "darkGrey": 0.0,
+        "liteGrey": 0.0,
+        "black": 0.0,
+        "color": 0.0
+      },
+      {
+        "nubmer": 705,
+        "white": 0.0,
+        "grey": 0.0,
+        "darkGrey": 0.0,
+        "liteGrey": 0.0,
+        "black": 0.0,
+        "color": 0.0
+      },
+      {
+        "nubmer": 706,
+        "white": 0.0,
+        "grey": 0.0,
+        "darkGrey": 0.0,
+        "liteGrey": 0.0,
+        "black": 0.0,
+        "color": 0.0
+      },
+      {
+        "nubmer": 707,
+        "white": 0.0,
+        "grey": 0.0,
+        "darkGrey": 0.0,
+        "liteGrey": 0.0,
+        "black": 0.0,
+        "color": 0.0
+      },
+      {
+        "nubmer": 708,
+        "white": 0.0,
+        "grey": 0.0,
+        "darkGrey": 0.0,
+        "liteGrey": 0.0,
+        "black": 0.0,
+        "color": 0.0
+      },
+      {
+        "nubmer": 709,
+        "white": 1.0,
+        "grey": 0.0,
+        "darkGrey": 0.0,
+        "liteGrey": 0.0,
+        "black": 0.0,
+        "color": 0.0
+      },
+      {
+        "nubmer": 710,
+        "white": 0.98076923076923073,
+        "grey": 0.0,
+        "darkGrey": 0.0,
+        "liteGrey": 0.0,
+        "black": 0.019230769230769232,
+        "color": 0.0
+      },
+      {
+        "nubmer": 711,
+        "white": 0.9625,
+        "grey": 0.0,
+        "darkGrey": 0.0,
+        "liteGrey": 0.0,
+        "black": 0.0375,
+        "color": 0.0
+      },
+      {
+        "nubmer": 712,
+        "white": 0.95,
+        "grey": 0.0,
+        "darkGrey": 0.0,
+        "liteGrey": 0.0,
+        "black": 0.05,
+        "color": 0.0
+      },
+      {
+        "nubmer": 713,
+        "white": 0.95,
+        "grey": 0.0,
+        "darkGrey": 0.0,
+        "liteGrey": 0.0,
+        "black": 0.05,
+        "color": 0.0
+      },
+      {
+        "nubmer": 714,
+        "white": 0.95,
+        "grey": 0.0,
+        "darkGrey": 0.0,
+        "liteGrey": 0.0,
+        "black": 0.05,
+        "color": 0.0
+      },
+      {
+        "nubmer": 715,
+        "white": 0.95,
+        "grey": 0.0,
+        "darkGrey": 0.0,
+        "liteGrey": 0.0,
+        "black": 0.05,
+        "color": 0.0
+      },
+      {
+        "nubmer": 716,
+        "white": 0.95,
+        "grey": 0.0,
+        "darkGrey": 0.0,
+        "liteGrey": 0.0,
+        "black": 0.05,
+        "color": 0.0
+      },
+      {
+        "nubmer": 717,
+        "white": 0.95,
+        "grey": 0.0,
+        "darkGrey": 0.0,
+        "liteGrey": 0.0,
+        "black": 0.05,
+        "color": 0.0
+      },
+      {
+        "nubmer": 718,
+        "white": 0.95,
+        "grey": 0.0,
+        "darkGrey": 0.0,
+        "liteGrey": 0.0,
+        "black": 0.05,
+        "color": 0.0
+      },
+      {
+        "nubmer": 719,
+        "white": 0.95,
+        "grey": 0.0,
+        "darkGrey": 0.0,
+        "liteGrey": 0.0,
+        "black": 0.05,
+        "color": 0.0
+      },
+      {
+        "nubmer": 720,
+        "white": 0.95,
+        "grey": 0.0,
+        "darkGrey": 0.0,
+        "liteGrey": 0.0,
+        "black": 0.05,
+        "color": 0.0
+      },
+      {
+        "nubmer": 721,
+        "white": 0.95,
+        "grey": 0.0,
+        "darkGrey": 0.0,
+        "liteGrey": 0.0,
+        "black": 0.05,
+        "color": 0.0
+      },
+      {
+        "nubmer": 722,
+        "white": 0.8525,
+        "grey": 0.0975,
+        "darkGrey": 0.0,
+        "liteGrey": 0.0,
+        "black": 0.05,
+        "color": 0.0
+      },
+      {
+        "nubmer": 723,
+        "white": 0.5425,
+        "grey": 0.4275,
+        "darkGrey": 0.0,
+        "liteGrey": 0.0,
+        "black": 0.03,
+        "color": 0.0
+      },
+      {
+        "nubmer": 724,
+        "white": 0.5875,
+        "grey": 0.335,
+        "darkGrey": 0.0,
+        "liteGrey": 0.0,
+        "black": 0.0775,
+        "color": 0.0
+      },
+      {
+        "nubmer": 725,
+        "white": 0.8975,
+        "grey": 0.005,
+        "darkGrey": 0.0,
+        "liteGrey": 0.0,
+        "black": 0.0975,
+        "color": 0.0
+      },
+      {
+        "nubmer": 726,
+        "white": 0.95,
+        "grey": 0.0,
+        "darkGrey": 0.0,
+        "liteGrey": 0.0,
+        "black": 0.05,
+        "color": 0.0
+      },
+      {
+        "nubmer": 727,
+        "white": 0.95,
+        "grey": 0.0,
+        "darkGrey": 0.0,
+        "liteGrey": 0.0,
+        "black": 0.05,
+        "color": 0.0
+      },
+      {
+        "nubmer": 728,
+        "white": 0.95,
+        "grey": 0.0,
+        "darkGrey": 0.0,
+        "liteGrey": 0.0,
+        "black": 0.05,
+        "color": 0.0
+      },
+      {
+        "nubmer": 729,
+        "white": 0.95,
+        "grey": 0.0,
+        "darkGrey": 0.0,
+        "liteGrey": 0.0,
+        "black": 0.05,
+        "color": 0.0
+      },
+      {
+        "nubmer": 730,
+        "white": 0.95,
+        "grey": 0.0,
+        "darkGrey": 0.0,
+        "liteGrey": 0.0,
+        "black": 0.05,
+        "color": 0.0
+      },
+      {
+        "nubmer": 731,
+        "white": 0.95,
+        "grey": 0.0,
+        "darkGrey": 0.0,
+        "liteGrey": 0.0,
+        "black": 0.05,
+        "color": 0.0
+      },
+      {
+        "nubmer": 732,
+        "white": 0.95,
+        "grey": 0.0,
+        "darkGrey": 0.0,
+        "liteGrey": 0.0,
+        "black": 0.05,
+        "color": 0.0
+      },
+      {
+        "nubmer": 733,
+        "white": 0.95,
+        "grey": 0.0,
+        "darkGrey": 0.0,
+        "liteGrey": 0.0,
+        "black": 0.05,
+        "color": 0.0
+      },
+      {
+        "nubmer": 734,
+        "white": 0.95,
+        "grey": 0.0,
+        "darkGrey": 0.0,
+        "liteGrey": 0.0,
+        "black": 0.05,
+        "color": 0.0
+      },
+      {
+        "nubmer": 735,
+        "white": 0.95,
+        "grey": 0.0,
+        "darkGrey": 0.0,
+        "liteGrey": 0.0,
+        "black": 0.05,
+        "color": 0.0
+      },
+      {
+        "nubmer": 736,
+        "white": 0.0,
+        "grey": 0.0,
+        "darkGrey": 0.0,
+        "liteGrey": 0.0,
+        "black": 0.0,
+        "color": 0.0
+      },
+      {
+        "nubmer": 737,
+        "white": 0.0,
+        "grey": 0.0,
+        "darkGrey": 0.0,
+        "liteGrey": 0.0,
+        "black": 0.0,
+        "color": 0.0
+      },
+      {
+        "nubmer": 738,
+        "white": 0.0,
+        "grey": 0.0,
+        "darkGrey": 0.0,
+        "liteGrey": 0.0,
+        "black": 0.0,
+        "color": 0.0
+      },
+      {
+        "nubmer": 739,
+        "white": 0.0,
+        "grey": 0.0,
+        "darkGrey": 0.0,
+        "liteGrey": 0.0,
+        "black": 0.0,
+        "color": 0.0
+      },
+      {
+        "nubmer": 740,
+        "white": 0.0,
+        "grey": 0.0,
+        "darkGrey": 0.0,
+        "liteGrey": 0.0,
+        "black": 0.0,
+        "color": 0.0
+      },
+      {
+        "nubmer": 741,
+        "white": 1.0,
+        "grey": 0.0,
+        "darkGrey": 0.0,
+        "liteGrey": 0.0,
+        "black": 0.0,
+        "color": 0.0
+      },
+      {
+        "nubmer": 742,
+        "white": 1.0,
+        "grey": 0.0,
+        "darkGrey": 0.0,
+        "liteGrey": 0.0,
+        "black": 0.0,
+        "color": 0.0
+      },
+      {
+        "nubmer": 743,
+        "white": 1.0,
+        "grey": 0.0,
+        "darkGrey": 0.0,
+        "liteGrey": 0.0,
+        "black": 0.0,
+        "color": 0.0
+      },
+      {
+        "nubmer": 744,
+        "white": 1.0,
+        "grey": 0.0,
+        "darkGrey": 0.0,
+        "liteGrey": 0.0,
+        "black": 0.0,
+        "color": 0.0
+      },
+      {
+        "nubmer": 745,
+        "white": 1.0,
+        "grey": 0.0,
+        "darkGrey": 0.0,
+        "liteGrey": 0.0,
+        "black": 0.0,
+        "color": 0.0
+      },
+      {
+        "nubmer": 746,
+        "white": 1.0,
+        "grey": 0.0,
+        "darkGrey": 0.0,
+        "liteGrey": 0.0,
+        "black": 0.0,
+        "color": 0.0
+      },
+      {
+        "nubmer": 747,
+        "white": 1.0,
+        "grey": 0.0,
+        "darkGrey": 0.0,
+        "liteGrey": 0.0,
+        "black": 0.0,
+        "color": 0.0
+      },
+      {
+        "nubmer": 748,
+        "white": 1.0,
+        "grey": 0.0,
+        "darkGrey": 0.0,
+        "liteGrey": 0.0,
+        "black": 0.0,
+        "color": 0.0
+      },
+      {
+        "nubmer": 749,
+        "white": 1.0,
+        "grey": 0.0,
+        "darkGrey": 0.0,
+        "liteGrey": 0.0,
+        "black": 0.0,
+        "color": 0.0
+      },
+      {
+        "nubmer": 750,
+        "white": 1.0,
+        "grey": 0.0,
+        "darkGrey": 0.0,
+        "liteGrey": 0.0,
+        "black": 0.0,
+        "color": 0.0
+      },
+      {
+        "nubmer": 751,
+        "white": 1.0,
+        "grey": 0.0,
+        "darkGrey": 0.0,
+        "liteGrey": 0.0,
+        "black": 0.0,
+        "color": 0.0
+      },
+      {
+        "nubmer": 752,
+        "white": 1.0,
+        "grey": 0.0,
+        "darkGrey": 0.0,
+        "liteGrey": 0.0,
+        "black": 0.0,
+        "color": 0.0
+      },
+      {
+        "nubmer": 753,
+        "white": 1.0,
+        "grey": 0.0,
+        "darkGrey": 0.0,
+        "liteGrey": 0.0,
+        "black": 0.0,
+        "color": 0.0
+      },
+      {
+        "nubmer": 754,
+        "white": 0.745,
+        "grey": 0.255,
+        "darkGrey": 0.0,
+        "liteGrey": 0.0,
+        "black": 0.0,
+        "color": 0.0
+      },
+      {
+        "nubmer": 755,
+        "white": 0.58,
+        "grey": 0.42,
+        "darkGrey": 0.0,
+        "liteGrey": 0.0,
+        "black": 0.0,
+        "color": 0.0
+      },
+      {
+        "nubmer": 756,
+        "white": 0.785,
+        "grey": 0.165,
+        "darkGrey": 0.0,
+        "liteGrey": 0.0,
+        "black": 0.05,
+        "color": 0.0
+      },
+      {
+        "nubmer": 757,
+        "white": 0.95,
+        "grey": 0.0,
+        "darkGrey": 0.0,
+        "liteGrey": 0.0,
+        "black": 0.05,
+        "color": 0.0
+      },
+      {
+        "nubmer": 758,
+        "white": 1.0,
+        "grey": 0.0,
+        "darkGrey": 0.0,
+        "liteGrey": 0.0,
+        "black": 0.0,
+        "color": 0.0
+      },
+      {
+        "nubmer": 759,
+        "white": 1.0,
+        "grey": 0.0,
+        "darkGrey": 0.0,
+        "liteGrey": 0.0,
+        "black": 0.0,
+        "color": 0.0
+      },
+      {
+        "nubmer": 760,
+        "white": 1.0,
+        "grey": 0.0,
+        "darkGrey": 0.0,
+        "liteGrey": 0.0,
+        "black": 0.0,
+        "color": 0.0
+      },
+      {
+        "nubmer": 761,
+        "white": 1.0,
+        "grey": 0.0,
+        "darkGrey": 0.0,
+        "liteGrey": 0.0,
+        "black": 0.0,
+        "color": 0.0
+      },
+      {
+        "nubmer": 762,
+        "white": 1.0,
+        "grey": 0.0,
+        "darkGrey": 0.0,
+        "liteGrey": 0.0,
+        "black": 0.0,
+        "color": 0.0
+      },
+      {
+        "nubmer": 763,
+        "white": 1.0,
+        "grey": 0.0,
+        "darkGrey": 0.0,
+        "liteGrey": 0.0,
+        "black": 0.0,
+        "color": 0.0
+      },
+      {
+        "nubmer": 764,
+        "white": 1.0,
+        "grey": 0.0,
+        "darkGrey": 0.0,
+        "liteGrey": 0.0,
+        "black": 0.0,
+        "color": 0.0
+      },
+      {
+        "nubmer": 765,
+        "white": 1.0,
+        "grey": 0.0,
+        "darkGrey": 0.0,
+        "liteGrey": 0.0,
+        "black": 0.0,
+        "color": 0.0
+      },
+      {
+        "nubmer": 766,
+        "white": 1.0,
+        "grey": 0.0,
+        "darkGrey": 0.0,
+        "liteGrey": 0.0,
+        "black": 0.0,
+        "color": 0.0
+      },
+      {
+        "nubmer": 767,
+        "white": 1.0,
+        "grey": 0.0,
+        "darkGrey": 0.0,
+        "liteGrey": 0.0,
+        "black": 0.0,
+        "color": 0.0
+      },
+      {
+        "nubmer": 768,
+        "white": 0.0,
+        "grey": 0.0,
+        "darkGrey": 0.0,
+        "liteGrey": 0.0,
+        "black": 0.0,
+        "color": 0.0
+      },
+      {
+        "nubmer": 769,
+        "white": 0.0,
+        "grey": 0.0,
+        "darkGrey": 0.0,
+        "liteGrey": 0.0,
+        "black": 0.0,
+        "color": 0.0
+      },
+      {
+        "nubmer": 770,
+        "white": 0.0,
+        "grey": 0.0,
+        "darkGrey": 0.0,
+        "liteGrey": 0.0,
+        "black": 0.0,
+        "color": 0.0
+      },
+      {
+        "nubmer": 771,
+        "white": 0.0,
+        "grey": 0.0,
+        "darkGrey": 0.0,
+        "liteGrey": 0.0,
+        "black": 0.0,
+        "color": 0.0
+      },
+      {
+        "nubmer": 772,
+        "white": 0.0,
+        "grey": 0.0,
+        "darkGrey": 0.0,
+        "liteGrey": 0.0,
+        "black": 0.0,
+        "color": 0.0
+      },
+      {
+        "nubmer": 773,
+        "white": 1.0,
+        "grey": 0.0,
+        "darkGrey": 0.0,
+        "liteGrey": 0.0,
+        "black": 0.0,
+        "color": 0.0
+      },
+      {
+        "nubmer": 774,
+        "white": 1.0,
+        "grey": 0.0,
+        "darkGrey": 0.0,
+        "liteGrey": 0.0,
+        "black": 0.0,
+        "color": 0.0
+      },
+      {
+        "nubmer": 775,
+        "white": 1.0,
+        "grey": 0.0,
+        "darkGrey": 0.0,
+        "liteGrey": 0.0,
+        "black": 0.0,
+        "color": 0.0
+      },
+      {
+        "nubmer": 776,
+        "white": 1.0,
+        "grey": 0.0,
+        "darkGrey": 0.0,
+        "liteGrey": 0.0,
+        "black": 0.0,
+        "color": 0.0
+      },
+      {
+        "nubmer": 777,
+        "white": 1.0,
+        "grey": 0.0,
+        "darkGrey": 0.0,
+        "liteGrey": 0.0,
+        "black": 0.0,
+        "color": 0.0
+      },
+      {
+        "nubmer": 778,
+        "white": 1.0,
+        "grey": 0.0,
+        "darkGrey": 0.0,
+        "liteGrey": 0.0,
+        "black": 0.0,
+        "color": 0.0
+      },
+      {
+        "nubmer": 779,
+        "white": 1.0,
+        "grey": 0.0,
+        "darkGrey": 0.0,
+        "liteGrey": 0.0,
+        "black": 0.0,
+        "color": 0.0
+      },
+      {
+        "nubmer": 780,
+        "white": 1.0,
+        "grey": 0.0,
+        "darkGrey": 0.0,
+        "liteGrey": 0.0,
+        "black": 0.0,
+        "color": 0.0
+      },
+      {
+        "nubmer": 781,
+        "white": 1.0,
+        "grey": 0.0,
+        "darkGrey": 0.0,
+        "liteGrey": 0.0,
+        "black": 0.0,
+        "color": 0.0
+      },
+      {
+        "nubmer": 782,
+        "white": 1.0,
+        "grey": 0.0,
+        "darkGrey": 0.0,
+        "liteGrey": 0.0,
+        "black": 0.0,
+        "color": 0.0
+      },
+      {
+        "nubmer": 783,
+        "white": 1.0,
+        "grey": 0.0,
+        "darkGrey": 0.0,
+        "liteGrey": 0.0,
+        "black": 0.0,
+        "color": 0.0
+      },
+      {
+        "nubmer": 784,
+        "white": 1.0,
+        "grey": 0.0,
+        "darkGrey": 0.0,
+        "liteGrey": 0.0,
+        "black": 0.0,
+        "color": 0.0
+      },
+      {
+        "nubmer": 785,
+        "white": 1.0,
+        "grey": 0.0,
+        "darkGrey": 0.0,
+        "liteGrey": 0.0,
+        "black": 0.0,
+        "color": 0.0
+      },
+      {
+        "nubmer": 786,
+        "white": 0.6275,
+        "grey": 0.3725,
+        "darkGrey": 0.0,
+        "liteGrey": 0.0,
+        "black": 0.0,
+        "color": 0.0
+      },
+      {
+        "nubmer": 787,
+        "white": 0.5875,
+        "grey": 0.4125,
+        "darkGrey": 0.0,
+        "liteGrey": 0.0,
+        "black": 0.0,
+        "color": 0.0
+      },
+      {
+        "nubmer": 788,
+        "white": 0.91,
+        "grey": 0.04,
+        "darkGrey": 0.0,
+        "liteGrey": 0.0,
+        "black": 0.05,
+        "color": 0.0
+      },
+      {
+        "nubmer": 789,
+        "white": 0.95,
+        "grey": 0.0,
+        "darkGrey": 0.0,
+        "liteGrey": 0.0,
+        "black": 0.05,
+        "color": 0.0
+      },
+      {
+        "nubmer": 790,
+        "white": 1.0,
+        "grey": 0.0,
+        "darkGrey": 0.0,
+        "liteGrey": 0.0,
+        "black": 0.0,
+        "color": 0.0
+      },
+      {
+        "nubmer": 791,
+        "white": 1.0,
+        "grey": 0.0,
+        "darkGrey": 0.0,
+        "liteGrey": 0.0,
+        "black": 0.0,
+        "color": 0.0
+      },
+      {
+        "nubmer": 792,
+        "white": 1.0,
+        "grey": 0.0,
+        "darkGrey": 0.0,
+        "liteGrey": 0.0,
+        "black": 0.0,
+        "color": 0.0
+      },
+      {
+        "nubmer": 793,
+        "white": 1.0,
+        "grey": 0.0,
+        "darkGrey": 0.0,
+        "liteGrey": 0.0,
+        "black": 0.0,
+        "color": 0.0
+      },
+      {
+        "nubmer": 794,
+        "white": 1.0,
+        "grey": 0.0,
+        "darkGrey": 0.0,
+        "liteGrey": 0.0,
+        "black": 0.0,
+        "color": 0.0
+      },
+      {
+        "nubmer": 795,
+        "white": 1.0,
+        "grey": 0.0,
+        "darkGrey": 0.0,
+        "liteGrey": 0.0,
+        "black": 0.0,
+        "color": 0.0
+      },
+      {
+        "nubmer": 796,
+        "white": 1.0,
+        "grey": 0.0,
+        "darkGrey": 0.0,
+        "liteGrey": 0.0,
+        "black": 0.0,
+        "color": 0.0
+      },
+      {
+        "nubmer": 797,
+        "white": 1.0,
+        "grey": 0.0,
+        "darkGrey": 0.0,
+        "liteGrey": 0.0,
+        "black": 0.0,
+        "color": 0.0
+      },
+      {
+        "nubmer": 798,
+        "white": 1.0,
+        "grey": 0.0,
+        "darkGrey": 0.0,
+        "liteGrey": 0.0,
+        "black": 0.0,
+        "color": 0.0
+      },
+      {
+        "nubmer": 799,
+        "white": 1.0,
+        "grey": 0.0,
+        "darkGrey": 0.0,
+        "liteGrey": 0.0,
+        "black": 0.0,
+        "color": 0.0
+      },
+      {
+        "nubmer": 800,
+        "white": 0.0,
+        "grey": 0.0,
+        "darkGrey": 0.0,
+        "liteGrey": 0.0,
+        "black": 0.0,
+        "color": 0.0
+      },
+      {
+        "nubmer": 801,
+        "white": 0.0,
+        "grey": 0.0,
+        "darkGrey": 0.0,
+        "liteGrey": 0.0,
+        "black": 0.0,
+        "color": 0.0
+      },
+      {
+        "nubmer": 802,
+        "white": 0.0,
+        "grey": 0.0,
+        "darkGrey": 0.0,
+        "liteGrey": 0.0,
+        "black": 0.0,
+        "color": 0.0
+      },
+      {
+        "nubmer": 803,
+        "white": 0.0,
+        "grey": 0.0,
+        "darkGrey": 0.0,
+        "liteGrey": 0.0,
+        "black": 0.0,
+        "color": 0.0
+      },
+      {
+        "nubmer": 804,
+        "white": 0.0,
+        "grey": 0.0,
+        "darkGrey": 0.0,
+        "liteGrey": 0.0,
+        "black": 0.0,
+        "color": 0.0
+      },
+      {
+        "nubmer": 805,
+        "white": 1.0,
+        "grey": 0.0,
+        "darkGrey": 0.0,
+        "liteGrey": 0.0,
+        "black": 0.0,
+        "color": 0.0
+      },
+      {
+        "nubmer": 806,
+        "white": 1.0,
+        "grey": 0.0,
+        "darkGrey": 0.0,
+        "liteGrey": 0.0,
+        "black": 0.0,
+        "color": 0.0
+      },
+      {
+        "nubmer": 807,
+        "white": 1.0,
+        "grey": 0.0,
+        "darkGrey": 0.0,
+        "liteGrey": 0.0,
+        "black": 0.0,
+        "color": 0.0
+      },
+      {
+        "nubmer": 808,
+        "white": 1.0,
+        "grey": 0.0,
+        "darkGrey": 0.0,
+        "liteGrey": 0.0,
+        "black": 0.0,
+        "color": 0.0
+      },
+      {
+        "nubmer": 809,
+        "white": 1.0,
+        "grey": 0.0,
+        "darkGrey": 0.0,
+        "liteGrey": 0.0,
+        "black": 0.0,
+        "color": 0.0
+      },
+      {
+        "nubmer": 810,
+        "white": 1.0,
+        "grey": 0.0,
+        "darkGrey": 0.0,
+        "liteGrey": 0.0,
+        "black": 0.0,
+        "color": 0.0
+      },
+      {
+        "nubmer": 811,
+        "white": 1.0,
+        "grey": 0.0,
+        "darkGrey": 0.0,
+        "liteGrey": 0.0,
+        "black": 0.0,
+        "color": 0.0
+      },
+      {
+        "nubmer": 812,
+        "white": 1.0,
+        "grey": 0.0,
+        "darkGrey": 0.0,
+        "liteGrey": 0.0,
+        "black": 0.0,
+        "color": 0.0
+      },
+      {
+        "nubmer": 813,
+        "white": 1.0,
+        "grey": 0.0,
+        "darkGrey": 0.0,
+        "liteGrey": 0.0,
+        "black": 0.0,
+        "color": 0.0
+      },
+      {
+        "nubmer": 814,
+        "white": 1.0,
+        "grey": 0.0,
+        "darkGrey": 0.0,
+        "liteGrey": 0.0,
+        "black": 0.0,
+        "color": 0.0
+      },
+      {
+        "nubmer": 815,
+        "white": 1.0,
+        "grey": 0.0,
+        "darkGrey": 0.0,
+        "liteGrey": 0.0,
+        "black": 0.0,
+        "color": 0.0
+      },
+      {
+        "nubmer": 816,
+        "white": 1.0,
+        "grey": 0.0,
+        "darkGrey": 0.0,
+        "liteGrey": 0.0,
+        "black": 0.0,
+        "color": 0.0
+      },
+      {
+        "nubmer": 817,
+        "white": 0.9825,
+        "grey": 0.0175,
+        "darkGrey": 0.0,
+        "liteGrey": 0.0,
+        "black": 0.0,
+        "color": 0.0
+      },
+      {
+        "nubmer": 818,
+        "white": 0.5925,
+        "grey": 0.4075,
+        "darkGrey": 0.0,
+        "liteGrey": 0.0,
+        "black": 0.0,
+        "color": 0.0
+      },
+      {
+        "nubmer": 819,
+        "white": 0.61,
+        "grey": 0.39,
+        "darkGrey": 0.0,
+        "liteGrey": 0.0,
+        "black": 0.0,
+        "color": 0.0
+      },
+      {
+        "nubmer": 820,
+        "white": 0.95,
+        "grey": 0.0,
+        "darkGrey": 0.0,
+        "liteGrey": 0.0,
+        "black": 0.05,
+        "color": 0.0
+      },
+      {
+        "nubmer": 821,
+        "white": 0.95,
+        "grey": 0.0,
+        "darkGrey": 0.0,
+        "liteGrey": 0.0,
+        "black": 0.05,
+        "color": 0.0
+      },
+      {
+        "nubmer": 822,
+        "white": 1.0,
+        "grey": 0.0,
+        "darkGrey": 0.0,
+        "liteGrey": 0.0,
+        "black": 0.0,
+        "color": 0.0
+      },
+      {
+        "nubmer": 823,
+        "white": 1.0,
+        "grey": 0.0,
+        "darkGrey": 0.0,
+        "liteGrey": 0.0,
+        "black": 0.0,
+        "color": 0.0
+      },
+      {
+        "nubmer": 824,
+        "white": 1.0,
+        "grey": 0.0,
+        "darkGrey": 0.0,
+        "liteGrey": 0.0,
+        "black": 0.0,
+        "color": 0.0
+      },
+      {
+        "nubmer": 825,
+        "white": 1.0,
+        "grey": 0.0,
+        "darkGrey": 0.0,
+        "liteGrey": 0.0,
+        "black": 0.0,
+        "color": 0.0
+      },
+      {
+        "nubmer": 826,
+        "white": 1.0,
+        "grey": 0.0,
+        "darkGrey": 0.0,
+        "liteGrey": 0.0,
+        "black": 0.0,
+        "color": 0.0
+      },
+      {
+        "nubmer": 827,
+        "white": 1.0,
+        "grey": 0.0,
+        "darkGrey": 0.0,
+        "liteGrey": 0.0,
+        "black": 0.0,
+        "color": 0.0
+      },
+      {
+        "nubmer": 828,
+        "white": 1.0,
+        "grey": 0.0,
+        "darkGrey": 0.0,
+        "liteGrey": 0.0,
+        "black": 0.0,
+        "color": 0.0
+      },
+      {
+        "nubmer": 829,
+        "white": 1.0,
+        "grey": 0.0,
+        "darkGrey": 0.0,
+        "liteGrey": 0.0,
+        "black": 0.0,
+        "color": 0.0
+      },
+      {
+        "nubmer": 830,
+        "white": 1.0,
+        "grey": 0.0,
+        "darkGrey": 0.0,
+        "liteGrey": 0.0,
+        "black": 0.0,
+        "color": 0.0
+      },
+      {
+        "nubmer": 831,
+        "white": 1.0,
+        "grey": 0.0,
+        "darkGrey": 0.0,
+        "liteGrey": 0.0,
+        "black": 0.0,
+        "color": 0.0
+      },
+      {
+        "nubmer": 832,
+        "white": 0.0,
+        "grey": 0.0,
+        "darkGrey": 0.0,
+        "liteGrey": 0.0,
+        "black": 0.0,
+        "color": 0.0
+      },
+      {
+        "nubmer": 833,
+        "white": 0.0,
+        "grey": 0.0,
+        "darkGrey": 0.0,
+        "liteGrey": 0.0,
+        "black": 0.0,
+        "color": 0.0
+      },
+      {
+        "nubmer": 834,
+        "white": 0.0,
+        "grey": 0.0,
+        "darkGrey": 0.0,
+        "liteGrey": 0.0,
+        "black": 0.0,
+        "color": 0.0
+      },
+      {
+        "nubmer": 835,
+        "white": 0.0,
+        "grey": 0.0,
+        "darkGrey": 0.0,
+        "liteGrey": 0.0,
+        "black": 0.0,
+        "color": 0.0
+      },
+      {
+        "nubmer": 836,
+        "white": 0.0,
+        "grey": 0.0,
+        "darkGrey": 0.0,
+        "liteGrey": 0.0,
+        "black": 0.0,
+        "color": 0.0
+      },
+      {
+        "nubmer": 837,
+        "white": 1.0,
+        "grey": 0.0,
+        "darkGrey": 0.0,
+        "liteGrey": 0.0,
+        "black": 0.0,
+        "color": 0.0
+      },
+      {
+        "nubmer": 838,
+        "white": 1.0,
+        "grey": 0.0,
+        "darkGrey": 0.0,
+        "liteGrey": 0.0,
+        "black": 0.0,
+        "color": 0.0
+      },
+      {
+        "nubmer": 839,
+        "white": 1.0,
+        "grey": 0.0,
+        "darkGrey": 0.0,
+        "liteGrey": 0.0,
+        "black": 0.0,
+        "color": 0.0
+      },
+      {
+        "nubmer": 840,
+        "white": 1.0,
+        "grey": 0.0,
+        "darkGrey": 0.0,
+        "liteGrey": 0.0,
+        "black": 0.0,
+        "color": 0.0
+      },
+      {
+        "nubmer": 841,
+        "white": 1.0,
+        "grey": 0.0,
+        "darkGrey": 0.0,
+        "liteGrey": 0.0,
+        "black": 0.0,
+        "color": 0.0
+      },
+      {
+        "nubmer": 842,
+        "white": 1.0,
+        "grey": 0.0,
+        "darkGrey": 0.0,
+        "liteGrey": 0.0,
+        "black": 0.0,
+        "color": 0.0
+      },
+      {
+        "nubmer": 843,
+        "white": 1.0,
+        "grey": 0.0,
+        "darkGrey": 0.0,
+        "liteGrey": 0.0,
+        "black": 0.0,
+        "color": 0.0
+      },
+      {
+        "nubmer": 844,
+        "white": 1.0,
+        "grey": 0.0,
+        "darkGrey": 0.0,
+        "liteGrey": 0.0,
+        "black": 0.0,
+        "color": 0.0
+      },
+      {
+        "nubmer": 845,
+        "white": 1.0,
+        "grey": 0.0,
+        "darkGrey": 0.0,
+        "liteGrey": 0.0,
+        "black": 0.0,
+        "color": 0.0
+      },
+      {
+        "nubmer": 846,
+        "white": 1.0,
+        "grey": 0.0,
+        "darkGrey": 0.0,
+        "liteGrey": 0.0,
+        "black": 0.0,
+        "color": 0.0
+      },
+      {
+        "nubmer": 847,
+        "white": 1.0,
+        "grey": 0.0,
+        "darkGrey": 0.0,
+        "liteGrey": 0.0,
+        "black": 0.0,
+        "color": 0.0
+      },
+      {
+        "nubmer": 848,
+        "white": 1.0,
+        "grey": 0.0,
+        "darkGrey": 0.0,
+        "liteGrey": 0.0,
+        "black": 0.0,
+        "color": 0.0
+      },
+      {
+        "nubmer": 849,
+        "white": 0.935,
+        "grey": 0.065,
+        "darkGrey": 0.0,
+        "liteGrey": 0.0,
+        "black": 0.0,
+        "color": 0.0
+      },
+      {
+        "nubmer": 850,
+        "white": 0.5975,
+        "grey": 0.4025,
+        "darkGrey": 0.0,
+        "liteGrey": 0.0,
+        "black": 0.0,
+        "color": 0.0
+      },
+      {
+        "nubmer": 851,
+        "white": 0.6625,
+        "grey": 0.3375,
+        "darkGrey": 0.0,
+        "liteGrey": 0.0,
+        "black": 0.0,
+        "color": 0.0
+      },
+      {
+        "nubmer": 852,
+        "white": 0.95,
+        "grey": 0.0,
+        "darkGrey": 0.0,
+        "liteGrey": 0.0,
+        "black": 0.05,
+        "color": 0.0
+      },
+      {
+        "nubmer": 853,
+        "white": 0.95,
+        "grey": 0.0,
+        "darkGrey": 0.0,
+        "liteGrey": 0.0,
+        "black": 0.05,
+        "color": 0.0
+      },
+      {
+        "nubmer": 854,
+        "white": 1.0,
+        "grey": 0.0,
+        "darkGrey": 0.0,
+        "liteGrey": 0.0,
+        "black": 0.0,
+        "color": 0.0
+      },
+      {
+        "nubmer": 855,
+        "white": 1.0,
+        "grey": 0.0,
+        "darkGrey": 0.0,
+        "liteGrey": 0.0,
+        "black": 0.0,
+        "color": 0.0
+      },
+      {
+        "nubmer": 856,
+        "white": 1.0,
+        "grey": 0.0,
+        "darkGrey": 0.0,
+        "liteGrey": 0.0,
+        "black": 0.0,
+        "color": 0.0
+      },
+      {
+        "nubmer": 857,
+        "white": 1.0,
+        "grey": 0.0,
+        "darkGrey": 0.0,
+        "liteGrey": 0.0,
+        "black": 0.0,
+        "color": 0.0
+      },
+      {
+        "nubmer": 858,
+        "white": 1.0,
+        "grey": 0.0,
+        "darkGrey": 0.0,
+        "liteGrey": 0.0,
+        "black": 0.0,
+        "color": 0.0
+      },
+      {
+        "nubmer": 859,
+        "white": 1.0,
+        "grey": 0.0,
+        "darkGrey": 0.0,
+        "liteGrey": 0.0,
+        "black": 0.0,
+        "color": 0.0
+      },
+      {
+        "nubmer": 860,
+        "white": 1.0,
+        "grey": 0.0,
+        "darkGrey": 0.0,
+        "liteGrey": 0.0,
+        "black": 0.0,
+        "color": 0.0
+      },
+      {
+        "nubmer": 861,
+        "white": 1.0,
+        "grey": 0.0,
+        "darkGrey": 0.0,
+        "liteGrey": 0.0,
+        "black": 0.0,
+        "color": 0.0
+      },
+      {
+        "nubmer": 862,
+        "white": 1.0,
+        "grey": 0.0,
+        "darkGrey": 0.0,
+        "liteGrey": 0.0,
+        "black": 0.0,
+        "color": 0.0
+      },
+      {
+        "nubmer": 863,
+        "white": 1.0,
+        "grey": 0.0,
+        "darkGrey": 0.0,
+        "liteGrey": 0.0,
+        "black": 0.0,
+        "color": 0.0
+      },
+      {
+        "nubmer": 864,
+        "white": 0.0,
+        "grey": 0.0,
+        "darkGrey": 0.0,
+        "liteGrey": 0.0,
+        "black": 0.0,
+        "color": 0.0
+      },
+      {
+        "nubmer": 865,
+        "white": 0.0,
+        "grey": 0.0,
+        "darkGrey": 0.0,
+        "liteGrey": 0.0,
+        "black": 0.0,
+        "color": 0.0
+      },
+      {
+        "nubmer": 866,
+        "white": 0.0,
+        "grey": 0.0,
+        "darkGrey": 0.0,
+        "liteGrey": 0.0,
+        "black": 0.0,
+        "color": 0.0
+      },
+      {
+        "nubmer": 867,
+        "white": 0.0,
+        "grey": 0.0,
+        "darkGrey": 0.0,
+        "liteGrey": 0.0,
+        "black": 0.0,
+        "color": 0.0
+      },
+      {
+        "nubmer": 868,
+        "white": 0.0,
+        "grey": 0.0,
+        "darkGrey": 0.0,
+        "liteGrey": 0.0,
+        "black": 0.0,
+        "color": 0.0
+      },
+      {
+        "nubmer": 869,
+        "white": 1.0,
+        "grey": 0.0,
+        "darkGrey": 0.0,
+        "liteGrey": 0.0,
+        "black": 0.0,
+        "color": 0.0
+      },
+      {
+        "nubmer": 870,
+        "white": 1.0,
+        "grey": 0.0,
+        "darkGrey": 0.0,
+        "liteGrey": 0.0,
+        "black": 0.0,
+        "color": 0.0
+      },
+      {
+        "nubmer": 871,
+        "white": 1.0,
+        "grey": 0.0,
+        "darkGrey": 0.0,
+        "liteGrey": 0.0,
+        "black": 0.0,
+        "color": 0.0
+      },
+      {
+        "nubmer": 872,
+        "white": 1.0,
+        "grey": 0.0,
+        "darkGrey": 0.0,
+        "liteGrey": 0.0,
+        "black": 0.0,
+        "color": 0.0
+      },
+      {
+        "nubmer": 873,
+        "white": 1.0,
+        "grey": 0.0,
+        "darkGrey": 0.0,
+        "liteGrey": 0.0,
+        "black": 0.0,
+        "color": 0.0
+      },
+      {
+        "nubmer": 874,
+        "white": 1.0,
+        "grey": 0.0,
+        "darkGrey": 0.0,
+        "liteGrey": 0.0,
+        "black": 0.0,
+        "color": 0.0
+      },
+      {
+        "nubmer": 875,
+        "white": 1.0,
+        "grey": 0.0,
+        "darkGrey": 0.0,
+        "liteGrey": 0.0,
+        "black": 0.0,
+        "color": 0.0
+      },
+      {
+        "nubmer": 876,
+        "white": 1.0,
+        "grey": 0.0,
+        "darkGrey": 0.0,
+        "liteGrey": 0.0,
+        "black": 0.0,
+        "color": 0.0
+      },
+      {
+        "nubmer": 877,
+        "white": 1.0,
+        "grey": 0.0,
+        "darkGrey": 0.0,
+        "liteGrey": 0.0,
+        "black": 0.0,
+        "color": 0.0
+      },
+      {
+        "nubmer": 878,
+        "white": 1.0,
+        "grey": 0.0,
+        "darkGrey": 0.0,
+        "liteGrey": 0.0,
+        "black": 0.0,
+        "color": 0.0
+      },
+      {
+        "nubmer": 879,
+        "white": 1.0,
+        "grey": 0.0,
+        "darkGrey": 0.0,
+        "liteGrey": 0.0,
+        "black": 0.0,
+        "color": 0.0
+      },
+      {
+        "nubmer": 880,
+        "white": 1.0,
+        "grey": 0.0,
+        "darkGrey": 0.0,
+        "liteGrey": 0.0,
+        "black": 0.0,
+        "color": 0.0
+      },
+      {
+        "nubmer": 881,
+        "white": 0.8775,
+        "grey": 0.1225,
+        "darkGrey": 0.0,
+        "liteGrey": 0.0,
+        "black": 0.0,
+        "color": 0.0
+      },
+      {
+        "nubmer": 882,
+        "white": 0.5975,
+        "grey": 0.4025,
+        "darkGrey": 0.0,
+        "liteGrey": 0.0,
+        "black": 0.0,
+        "color": 0.0
+      },
+      {
+        "nubmer": 883,
+        "white": 0.72,
+        "grey": 0.28,
+        "darkGrey": 0.0,
+        "liteGrey": 0.0,
+        "black": 0.0,
+        "color": 0.0
+      },
+      {
+        "nubmer": 884,
+        "white": 0.95,
+        "grey": 0.0,
+        "darkGrey": 0.0,
+        "liteGrey": 0.0,
+        "black": 0.05,
+        "color": 0.0
+      },
+      {
+        "nubmer": 885,
+        "white": 0.95,
+        "grey": 0.0,
+        "darkGrey": 0.0,
+        "liteGrey": 0.0,
+        "black": 0.05,
+        "color": 0.0
+      },
+      {
+        "nubmer": 886,
+        "white": 1.0,
+        "grey": 0.0,
+        "darkGrey": 0.0,
+        "liteGrey": 0.0,
+        "black": 0.0,
+        "color": 0.0
+      },
+      {
+        "nubmer": 887,
+        "white": 1.0,
+        "grey": 0.0,
+        "darkGrey": 0.0,
+        "liteGrey": 0.0,
+        "black": 0.0,
+        "color": 0.0
+      },
+      {
+        "nubmer": 888,
+        "white": 1.0,
+        "grey": 0.0,
+        "darkGrey": 0.0,
+        "liteGrey": 0.0,
+        "black": 0.0,
+        "color": 0.0
+      },
+      {
+        "nubmer": 889,
+        "white": 1.0,
+        "grey": 0.0,
+        "darkGrey": 0.0,
+        "liteGrey": 0.0,
+        "black": 0.0,
+        "color": 0.0
+      },
+      {
+        "nubmer": 890,
+        "white": 1.0,
+        "grey": 0.0,
+        "darkGrey": 0.0,
+        "liteGrey": 0.0,
+        "black": 0.0,
+        "color": 0.0
+      },
+      {
+        "nubmer": 891,
+        "white": 1.0,
+        "grey": 0.0,
+        "darkGrey": 0.0,
+        "liteGrey": 0.0,
+        "black": 0.0,
+        "color": 0.0
+      },
+      {
+        "nubmer": 892,
+        "white": 1.0,
+        "grey": 0.0,
+        "darkGrey": 0.0,
+        "liteGrey": 0.0,
+        "black": 0.0,
+        "color": 0.0
+      },
+      {
+        "nubmer": 893,
+        "white": 1.0,
+        "grey": 0.0,
+        "darkGrey": 0.0,
+        "liteGrey": 0.0,
+        "black": 0.0,
+        "color": 0.0
+      },
+      {
+        "nubmer": 894,
+        "white": 1.0,
+        "grey": 0.0,
+        "darkGrey": 0.0,
+        "liteGrey": 0.0,
+        "black": 0.0,
+        "color": 0.0
+      },
+      {
+        "nubmer": 895,
+        "white": 1.0,
+        "grey": 0.0,
+        "darkGrey": 0.0,
+        "liteGrey": 0.0,
+        "black": 0.0,
+        "color": 0.0
+      },
+      {
+        "nubmer": 896,
+        "white": 0.0,
+        "grey": 0.0,
+        "darkGrey": 0.0,
+        "liteGrey": 0.0,
+        "black": 0.0,
+        "color": 0.0
+      },
+      {
+        "nubmer": 897,
+        "white": 0.0,
+        "grey": 0.0,
+        "darkGrey": 0.0,
+        "liteGrey": 0.0,
+        "black": 0.0,
+        "color": 0.0
+      },
+      {
+        "nubmer": 898,
+        "white": 0.0,
+        "grey": 0.0,
+        "darkGrey": 0.0,
+        "liteGrey": 0.0,
+        "black": 0.0,
+        "color": 0.0
+      },
+      {
+        "nubmer": 899,
+        "white": 0.0,
+        "grey": 0.0,
+        "darkGrey": 0.0,
+        "liteGrey": 0.0,
+        "black": 0.0,
+        "color": 0.0
+      },
+      {
+        "nubmer": 900,
+        "white": 0.0,
+        "grey": 0.0,
+        "darkGrey": 0.0,
+        "liteGrey": 0.0,
+        "black": 0.0,
+        "color": 0.0
+      },
+      {
+        "nubmer": 901,
+        "white": 1.0,
+        "grey": 0.0,
+        "darkGrey": 0.0,
+        "liteGrey": 0.0,
+        "black": 0.0,
+        "color": 0.0
+      },
+      {
+        "nubmer": 902,
+        "white": 1.0,
+        "grey": 0.0,
+        "darkGrey": 0.0,
+        "liteGrey": 0.0,
+        "black": 0.0,
+        "color": 0.0
+      },
+      {
+        "nubmer": 903,
+        "white": 1.0,
+        "grey": 0.0,
+        "darkGrey": 0.0,
+        "liteGrey": 0.0,
+        "black": 0.0,
+        "color": 0.0
+      },
+      {
+        "nubmer": 904,
+        "white": 1.0,
+        "grey": 0.0,
+        "darkGrey": 0.0,
+        "liteGrey": 0.0,
+        "black": 0.0,
+        "color": 0.0
+      },
+      {
+        "nubmer": 905,
+        "white": 1.0,
+        "grey": 0.0,
+        "darkGrey": 0.0,
+        "liteGrey": 0.0,
+        "black": 0.0,
+        "color": 0.0
+      },
+      {
+        "nubmer": 906,
+        "white": 1.0,
+        "grey": 0.0,
+        "darkGrey": 0.0,
+        "liteGrey": 0.0,
+        "black": 0.0,
+        "color": 0.0
+      },
+      {
+        "nubmer": 907,
+        "white": 1.0,
+        "grey": 0.0,
+        "darkGrey": 0.0,
+        "liteGrey": 0.0,
+        "black": 0.0,
+        "color": 0.0
+      },
+      {
+        "nubmer": 908,
+        "white": 1.0,
+        "grey": 0.0,
+        "darkGrey": 0.0,
+        "liteGrey": 0.0,
+        "black": 0.0,
+        "color": 0.0
+      },
+      {
+        "nubmer": 909,
+        "white": 1.0,
+        "grey": 0.0,
+        "darkGrey": 0.0,
+        "liteGrey": 0.0,
+        "black": 0.0,
+        "color": 0.0
+      },
+      {
+        "nubmer": 910,
+        "white": 1.0,
+        "grey": 0.0,
+        "darkGrey": 0.0,
+        "liteGrey": 0.0,
+        "black": 0.0,
+        "color": 0.0
+      },
+      {
+        "nubmer": 911,
+        "white": 1.0,
+        "grey": 0.0,
+        "darkGrey": 0.0,
+        "liteGrey": 0.0,
+        "black": 0.0,
+        "color": 0.0
+      },
+      {
+        "nubmer": 912,
+        "white": 1.0,
+        "grey": 0.0,
+        "darkGrey": 0.0,
+        "liteGrey": 0.0,
+        "black": 0.0,
+        "color": 0.0
+      },
+      {
+        "nubmer": 913,
+        "white": 0.845,
+        "grey": 0.155,
+        "darkGrey": 0.0,
+        "liteGrey": 0.0,
+        "black": 0.0,
+        "color": 0.0
+      },
+      {
+        "nubmer": 914,
+        "white": 0.6,
+        "grey": 0.4,
+        "darkGrey": 0.0,
+        "liteGrey": 0.0,
+        "black": 0.0,
+        "color": 0.0
+      },
+      {
+        "nubmer": 915,
+        "white": 0.755,
+        "grey": 0.245,
+        "darkGrey": 0.0,
+        "liteGrey": 0.0,
+        "black": 0.0,
+        "color": 0.0
+      },
+      {
+        "nubmer": 916,
+        "white": 0.95,
+        "grey": 0.0,
+        "darkGrey": 0.0,
+        "liteGrey": 0.0,
+        "black": 0.05,
+        "color": 0.0
+      },
+      {
+        "nubmer": 917,
+        "white": 0.95,
+        "grey": 0.0,
+        "darkGrey": 0.0,
+        "liteGrey": 0.0,
+        "black": 0.05,
+        "color": 0.0
+      },
+      {
+        "nubmer": 918,
+        "white": 1.0,
+        "grey": 0.0,
+        "darkGrey": 0.0,
+        "liteGrey": 0.0,
+        "black": 0.0,
+        "color": 0.0
+      },
+      {
+        "nubmer": 919,
+        "white": 1.0,
+        "grey": 0.0,
+        "darkGrey": 0.0,
+        "liteGrey": 0.0,
+        "black": 0.0,
+        "color": 0.0
+      },
+      {
+        "nubmer": 920,
+        "white": 1.0,
+        "grey": 0.0,
+        "darkGrey": 0.0,
+        "liteGrey": 0.0,
+        "black": 0.0,
+        "color": 0.0
+      },
+      {
+        "nubmer": 921,
+        "white": 1.0,
+        "grey": 0.0,
+        "darkGrey": 0.0,
+        "liteGrey": 0.0,
+        "black": 0.0,
+        "color": 0.0
+      },
+      {
+        "nubmer": 922,
+        "white": 1.0,
+        "grey": 0.0,
+        "darkGrey": 0.0,
+        "liteGrey": 0.0,
+        "black": 0.0,
+        "color": 0.0
+      },
+      {
+        "nubmer": 923,
+        "white": 1.0,
+        "grey": 0.0,
+        "darkGrey": 0.0,
+        "liteGrey": 0.0,
+        "black": 0.0,
+        "color": 0.0
+      },
+      {
+        "nubmer": 924,
+        "white": 1.0,
+        "grey": 0.0,
+        "darkGrey": 0.0,
+        "liteGrey": 0.0,
+        "black": 0.0,
+        "color": 0.0
+      },
+      {
+        "nubmer": 925,
+        "white": 1.0,
+        "grey": 0.0,
+        "darkGrey": 0.0,
+        "liteGrey": 0.0,
+        "black": 0.0,
+        "color": 0.0
+      },
+      {
+        "nubmer": 926,
+        "white": 1.0,
+        "grey": 0.0,
+        "darkGrey": 0.0,
+        "liteGrey": 0.0,
+        "black": 0.0,
+        "color": 0.0
+      },
+      {
+        "nubmer": 927,
+        "white": 1.0,
+        "grey": 0.0,
+        "darkGrey": 0.0,
+        "liteGrey": 0.0,
+        "black": 0.0,
+        "color": 0.0
+      },
+      {
+        "nubmer": 928,
+        "white": 0.0,
+        "grey": 0.0,
+        "darkGrey": 0.0,
+        "liteGrey": 0.0,
+        "black": 0.0,
+        "color": 0.0
+      },
+      {
+        "nubmer": 929,
+        "white": 0.0,
+        "grey": 0.0,
+        "darkGrey": 0.0,
+        "liteGrey": 0.0,
+        "black": 0.0,
+        "color": 0.0
+      },
+      {
+        "nubmer": 930,
+        "white": 0.0,
+        "grey": 0.0,
+        "darkGrey": 0.0,
+        "liteGrey": 0.0,
+        "black": 0.0,
+        "color": 0.0
+      },
+      {
+        "nubmer": 931,
+        "white": 0.0,
+        "grey": 0.0,
+        "darkGrey": 0.0,
+        "liteGrey": 0.0,
+        "black": 0.0,
+        "color": 0.0
+      },
+      {
+        "nubmer": 932,
+        "white": 0.0,
+        "grey": 0.0,
+        "darkGrey": 0.0,
+        "liteGrey": 0.0,
+        "black": 0.0,
+        "color": 0.0
+      },
+      {
+        "nubmer": 933,
+        "white": 1.0,
+        "grey": 0.0,
+        "darkGrey": 0.0,
+        "liteGrey": 0.0,
+        "black": 0.0,
+        "color": 0.0
+      },
+      {
+        "nubmer": 934,
+        "white": 1.0,
+        "grey": 0.0,
+        "darkGrey": 0.0,
+        "liteGrey": 0.0,
+        "black": 0.0,
+        "color": 0.0
+      },
+      {
+        "nubmer": 935,
+        "white": 1.0,
+        "grey": 0.0,
+        "darkGrey": 0.0,
+        "liteGrey": 0.0,
+        "black": 0.0,
+        "color": 0.0
+      },
+      {
+        "nubmer": 936,
+        "white": 1.0,
+        "grey": 0.0,
+        "darkGrey": 0.0,
+        "liteGrey": 0.0,
+        "black": 0.0,
+        "color": 0.0
+      },
+      {
+        "nubmer": 937,
+        "white": 1.0,
+        "grey": 0.0,
+        "darkGrey": 0.0,
+        "liteGrey": 0.0,
+        "black": 0.0,
+        "color": 0.0
+      },
+      {
+        "nubmer": 938,
+        "white": 1.0,
+        "grey": 0.0,
+        "darkGrey": 0.0,
+        "liteGrey": 0.0,
+        "black": 0.0,
+        "color": 0.0
+      },
+      {
+        "nubmer": 939,
+        "white": 1.0,
+        "grey": 0.0,
+        "darkGrey": 0.0,
+        "liteGrey": 0.0,
+        "black": 0.0,
+        "color": 0.0
+      },
+      {
+        "nubmer": 940,
+        "white": 1.0,
+        "grey": 0.0,
+        "darkGrey": 0.0,
+        "liteGrey": 0.0,
+        "black": 0.0,
+        "color": 0.0
+      },
+      {
+        "nubmer": 941,
+        "white": 1.0,
+        "grey": 0.0,
+        "darkGrey": 0.0,
+        "liteGrey": 0.0,
+        "black": 0.0,
+        "color": 0.0
+      },
+      {
+        "nubmer": 942,
+        "white": 1.0,
+        "grey": 0.0,
+        "darkGrey": 0.0,
+        "liteGrey": 0.0,
+        "black": 0.0,
+        "color": 0.0
+      },
+      {
+        "nubmer": 943,
+        "white": 1.0,
+        "grey": 0.0,
+        "darkGrey": 0.0,
+        "liteGrey": 0.0,
+        "black": 0.0,
+        "color": 0.0
+      },
+      {
+        "nubmer": 944,
+        "white": 1.0,
+        "grey": 0.0,
+        "darkGrey": 0.0,
+        "liteGrey": 0.0,
+        "black": 0.0,
+        "color": 0.0
+      },
+      {
+        "nubmer": 945,
+        "white": 0.82,
+        "grey": 0.18,
+        "darkGrey": 0.0,
+        "liteGrey": 0.0,
+        "black": 0.0,
+        "color": 0.0
+      },
+      {
+        "nubmer": 946,
+        "white": 0.6025,
+        "grey": 0.3975,
+        "darkGrey": 0.0,
+        "liteGrey": 0.0,
+        "black": 0.0,
+        "color": 0.0
+      },
+      {
+        "nubmer": 947,
+        "white": 0.7825,
+        "grey": 0.2175,
+        "darkGrey": 0.0,
+        "liteGrey": 0.0,
+        "black": 0.0,
+        "color": 0.0
+      },
+      {
+        "nubmer": 948,
+        "white": 0.95,
+        "grey": 0.0,
+        "darkGrey": 0.0,
+        "liteGrey": 0.0,
+        "black": 0.05,
+        "color": 0.0
+      },
+      {
+        "nubmer": 949,
+        "white": 0.95,
+        "grey": 0.0,
+        "darkGrey": 0.0,
+        "liteGrey": 0.0,
+        "black": 0.05,
+        "color": 0.0
+      },
+      {
+        "nubmer": 950,
+        "white": 1.0,
+        "grey": 0.0,
+        "darkGrey": 0.0,
+        "liteGrey": 0.0,
+        "black": 0.0,
+        "color": 0.0
+      },
+      {
+        "nubmer": 951,
+        "white": 1.0,
+        "grey": 0.0,
+        "darkGrey": 0.0,
+        "liteGrey": 0.0,
+        "black": 0.0,
+        "color": 0.0
+      },
+      {
+        "nubmer": 952,
+        "white": 1.0,
+        "grey": 0.0,
+        "darkGrey": 0.0,
+        "liteGrey": 0.0,
+        "black": 0.0,
+        "color": 0.0
+      },
+      {
+        "nubmer": 953,
+        "white": 1.0,
+        "grey": 0.0,
+        "darkGrey": 0.0,
+        "liteGrey": 0.0,
+        "black": 0.0,
+        "color": 0.0
+      },
+      {
+        "nubmer": 954,
+        "white": 1.0,
+        "grey": 0.0,
+        "darkGrey": 0.0,
+        "liteGrey": 0.0,
+        "black": 0.0,
+        "color": 0.0
+      },
+      {
+        "nubmer": 955,
+        "white": 1.0,
+        "grey": 0.0,
+        "darkGrey": 0.0,
+        "liteGrey": 0.0,
+        "black": 0.0,
+        "color": 0.0
+      },
+      {
+        "nubmer": 956,
+        "white": 1.0,
+        "grey": 0.0,
+        "darkGrey": 0.0,
+        "liteGrey": 0.0,
+        "black": 0.0,
+        "color": 0.0
+      },
+      {
+        "nubmer": 957,
+        "white": 1.0,
+        "grey": 0.0,
+        "darkGrey": 0.0,
+        "liteGrey": 0.0,
+        "black": 0.0,
+        "color": 0.0
+      },
+      {
+        "nubmer": 958,
+        "white": 1.0,
+        "grey": 0.0,
+        "darkGrey": 0.0,
+        "liteGrey": 0.0,
+        "black": 0.0,
+        "color": 0.0
+      },
+      {
+        "nubmer": 959,
+        "white": 1.0,
+        "grey": 0.0,
+        "darkGrey": 0.0,
+        "liteGrey": 0.0,
+        "black": 0.0,
+        "color": 0.0
+      },
+      {
+        "nubmer": 960,
+        "white": 0.0,
+        "grey": 0.0,
+        "darkGrey": 0.0,
+        "liteGrey": 0.0,
+        "black": 0.0,
+        "color": 0.0
+      },
+      {
+        "nubmer": 961,
+        "white": 0.0,
+        "grey": 0.0,
+        "darkGrey": 0.0,
+        "liteGrey": 0.0,
+        "black": 0.0,
+        "color": 0.0
+      },
+      {
+        "nubmer": 962,
+        "white": 0.0,
+        "grey": 0.0,
+        "darkGrey": 0.0,
+        "liteGrey": 0.0,
+        "black": 0.0,
+        "color": 0.0
+      },
+      {
+        "nubmer": 963,
+        "white": 0.0,
+        "grey": 0.0,
+        "darkGrey": 0.0,
+        "liteGrey": 0.0,
+        "black": 0.0,
+        "color": 0.0
+      },
+      {
+        "nubmer": 964,
+        "white": 0.0,
+        "grey": 0.0,
+        "darkGrey": 0.0,
+        "liteGrey": 0.0,
+        "black": 0.0,
+        "color": 0.0
+      },
+      {
+        "nubmer": 965,
+        "white": 1.0,
+        "grey": 0.0,
+        "darkGrey": 0.0,
+        "liteGrey": 0.0,
+        "black": 0.0,
+        "color": 0.0
+      },
+      {
+        "nubmer": 966,
+        "white": 1.0,
+        "grey": 0.0,
+        "darkGrey": 0.0,
+        "liteGrey": 0.0,
+        "black": 0.0,
+        "color": 0.0
+      },
+      {
+        "nubmer": 967,
+        "white": 1.0,
+        "grey": 0.0,
+        "darkGrey": 0.0,
+        "liteGrey": 0.0,
+        "black": 0.0,
+        "color": 0.0
+      },
+      {
+        "nubmer": 968,
+        "white": 1.0,
+        "grey": 0.0,
+        "darkGrey": 0.0,
+        "liteGrey": 0.0,
+        "black": 0.0,
+        "color": 0.0
+      },
+      {
+        "nubmer": 969,
+        "white": 1.0,
+        "grey": 0.0,
+        "darkGrey": 0.0,
+        "liteGrey": 0.0,
+        "black": 0.0,
+        "color": 0.0
+      },
+      {
+        "nubmer": 970,
+        "white": 1.0,
+        "grey": 0.0,
+        "darkGrey": 0.0,
+        "liteGrey": 0.0,
+        "black": 0.0,
+        "color": 0.0
+      },
+      {
+        "nubmer": 971,
+        "white": 1.0,
+        "grey": 0.0,
+        "darkGrey": 0.0,
+        "liteGrey": 0.0,
+        "black": 0.0,
+        "color": 0.0
+      },
+      {
+        "nubmer": 972,
+        "white": 1.0,
+        "grey": 0.0,
+        "darkGrey": 0.0,
+        "liteGrey": 0.0,
+        "black": 0.0,
+        "color": 0.0
+      },
+      {
+        "nubmer": 973,
+        "white": 1.0,
+        "grey": 0.0,
+        "darkGrey": 0.0,
+        "liteGrey": 0.0,
+        "black": 0.0,
+        "color": 0.0
+      },
+      {
+        "nubmer": 974,
+        "white": 1.0,
+        "grey": 0.0,
+        "darkGrey": 0.0,
+        "liteGrey": 0.0,
+        "black": 0.0,
+        "color": 0.0
+      },
+      {
+        "nubmer": 975,
+        "white": 1.0,
+        "grey": 0.0,
+        "darkGrey": 0.0,
+        "liteGrey": 0.0,
+        "black": 0.0,
+        "color": 0.0
+      },
+      {
+        "nubmer": 976,
+        "white": 1.0,
+        "grey": 0.0,
+        "darkGrey": 0.0,
+        "liteGrey": 0.0,
+        "black": 0.0,
+        "color": 0.0
+      },
+      {
+        "nubmer": 977,
+        "white": 0.8,
+        "grey": 0.2,
+        "darkGrey": 0.0,
+        "liteGrey": 0.0,
+        "black": 0.0,
+        "color": 0.0
+      },
+      {
+        "nubmer": 978,
+        "white": 0.6,
+        "grey": 0.4,
+        "darkGrey": 0.0,
+        "liteGrey": 0.0,
+        "black": 0.0,
+        "color": 0.0
+      },
+      {
+        "nubmer": 979,
+        "white": 0.8,
+        "grey": 0.2,
+        "darkGrey": 0.0,
+        "liteGrey": 0.0,
+        "black": 0.0,
+        "color": 0.0
+      },
+      {
+        "nubmer": 980,
+        "white": 0.95,
+        "grey": 0.0,
+        "darkGrey": 0.0,
+        "liteGrey": 0.0,
+        "black": 0.05,
+        "color": 0.0
+      },
+      {
+        "nubmer": 981,
+        "white": 0.95,
+        "grey": 0.0,
+        "darkGrey": 0.0,
+        "liteGrey": 0.0,
+        "black": 0.05,
+        "color": 0.0
+      },
+      {
+        "nubmer": 982,
+        "white": 1.0,
+        "grey": 0.0,
+        "darkGrey": 0.0,
+        "liteGrey": 0.0,
+        "black": 0.0,
+        "color": 0.0
+      },
+      {
+        "nubmer": 983,
+        "white": 1.0,
+        "grey": 0.0,
+        "darkGrey": 0.0,
+        "liteGrey": 0.0,
+        "black": 0.0,
+        "color": 0.0
+      },
+      {
+        "nubmer": 984,
+        "white": 1.0,
+        "grey": 0.0,
+        "darkGrey": 0.0,
+        "liteGrey": 0.0,
+        "black": 0.0,
+        "color": 0.0
+      },
+      {
+        "nubmer": 985,
+        "white": 1.0,
+        "grey": 0.0,
+        "darkGrey": 0.0,
+        "liteGrey": 0.0,
+        "black": 0.0,
+        "color": 0.0
+      },
+      {
+        "nubmer": 986,
+        "white": 1.0,
+        "grey": 0.0,
+        "darkGrey": 0.0,
+        "liteGrey": 0.0,
+        "black": 0.0,
+        "color": 0.0
+      },
+      {
+        "nubmer": 987,
+        "white": 1.0,
+        "grey": 0.0,
+        "darkGrey": 0.0,
+        "liteGrey": 0.0,
+        "black": 0.0,
+        "color": 0.0
+      },
+      {
+        "nubmer": 988,
+        "white": 1.0,
+        "grey": 0.0,
+        "darkGrey": 0.0,
+        "liteGrey": 0.0,
+        "black": 0.0,
+        "color": 0.0
+      },
+      {
+        "nubmer": 989,
+        "white": 1.0,
+        "grey": 0.0,
+        "darkGrey": 0.0,
+        "liteGrey": 0.0,
+        "black": 0.0,
+        "color": 0.0
+      },
+      {
+        "nubmer": 990,
+        "white": 1.0,
+        "grey": 0.0,
+        "darkGrey": 0.0,
+        "liteGrey": 0.0,
+        "black": 0.0,
+        "color": 0.0
+      },
+      {
+        "nubmer": 991,
+        "white": 1.0,
+        "grey": 0.0,
+        "darkGrey": 0.0,
+        "liteGrey": 0.0,
+        "black": 0.0,
+        "color": 0.0
+      },
+      {
+        "nubmer": 992,
+        "white": 0.0,
+        "grey": 0.0,
+        "darkGrey": 0.0,
+        "liteGrey": 0.0,
+        "black": 0.0,
+        "color": 0.0
+      },
+      {
+        "nubmer": 993,
+        "white": 0.0,
+        "grey": 0.0,
+        "darkGrey": 0.0,
+        "liteGrey": 0.0,
+        "black": 0.0,
+        "color": 0.0
+      },
+      {
+        "nubmer": 994,
+        "white": 0.0,
+        "grey": 0.0,
+        "darkGrey": 0.0,
+        "liteGrey": 0.0,
+        "black": 0.0,
+        "color": 0.0
+      },
+      {
+        "nubmer": 995,
+        "white": 0.0,
+        "grey": 0.0,
+        "darkGrey": 0.0,
+        "liteGrey": 0.0,
+        "black": 0.0,
+        "color": 0.0
+      },
+      {
+        "nubmer": 996,
+        "white": 0.0,
+        "grey": 0.0,
+        "darkGrey": 0.0,
+        "liteGrey": 0.0,
+        "black": 0.0,
+        "color": 0.0
+      },
+      {
+        "nubmer": 997,
+        "white": 1.0,
+        "grey": 0.0,
+        "darkGrey": 0.0,
+        "liteGrey": 0.0,
+        "black": 0.0,
+        "color": 0.0
+      },
+      {
+        "nubmer": 998,
+        "white": 1.0,
+        "grey": 0.0,
+        "darkGrey": 0.0,
+        "liteGrey": 0.0,
+        "black": 0.0,
+        "color": 0.0
+      },
+      {
+        "nubmer": 999,
+        "white": 1.0,
+        "grey": 0.0,
+        "darkGrey": 0.0,
+        "liteGrey": 0.0,
+        "black": 0.0,
+        "color": 0.0
+      },
+      {
+        "nubmer": 1000,
+        "white": 1.0,
+        "grey": 0.0,
+        "darkGrey": 0.0,
+        "liteGrey": 0.0,
+        "black": 0.0,
+        "color": 0.0
+      },
+      {
+        "nubmer": 1001,
+        "white": 1.0,
+        "grey": 0.0,
+        "darkGrey": 0.0,
+        "liteGrey": 0.0,
+        "black": 0.0,
+        "color": 0.0
+      },
+      {
+        "nubmer": 1002,
+        "white": 1.0,
+        "grey": 0.0,
+        "darkGrey": 0.0,
+        "liteGrey": 0.0,
+        "black": 0.0,
+        "color": 0.0
+      },
+      {
+        "nubmer": 1003,
+        "white": 1.0,
+        "grey": 0.0,
+        "darkGrey": 0.0,
+        "liteGrey": 0.0,
+        "black": 0.0,
+        "color": 0.0
+      },
+      {
+        "nubmer": 1004,
+        "white": 1.0,
+        "grey": 0.0,
+        "darkGrey": 0.0,
+        "liteGrey": 0.0,
+        "black": 0.0,
+        "color": 0.0
+      },
+      {
+        "nubmer": 1005,
+        "white": 1.0,
+        "grey": 0.0,
+        "darkGrey": 0.0,
+        "liteGrey": 0.0,
+        "black": 0.0,
+        "color": 0.0
+      },
+      {
+        "nubmer": 1006,
+        "white": 1.0,
+        "grey": 0.0,
+        "darkGrey": 0.0,
+        "liteGrey": 0.0,
+        "black": 0.0,
+        "color": 0.0
+      },
+      {
+        "nubmer": 1007,
+        "white": 1.0,
+        "grey": 0.0,
+        "darkGrey": 0.0,
+        "liteGrey": 0.0,
+        "black": 0.0,
+        "color": 0.0
+      },
+      {
+        "nubmer": 1008,
+        "white": 1.0,
+        "grey": 0.0,
+        "darkGrey": 0.0,
+        "liteGrey": 0.0,
+        "black": 0.0,
+        "color": 0.0
+      },
+      {
+        "nubmer": 1009,
+        "white": 0.8,
+        "grey": 0.2,
+        "darkGrey": 0.0,
+        "liteGrey": 0.0,
+        "black": 0.0,
+        "color": 0.0
+      },
+      {
+        "nubmer": 1010,
+        "white": 0.6,
+        "grey": 0.4,
+        "darkGrey": 0.0,
+        "liteGrey": 0.0,
+        "black": 0.0,
+        "color": 0.0
+      },
+      {
+        "nubmer": 1011,
+        "white": 0.8,
+        "grey": 0.2,
+        "darkGrey": 0.0,
+        "liteGrey": 0.0,
+        "black": 0.0,
+        "color": 0.0
+      },
+      {
+        "nubmer": 1012,
+        "white": 0.95,
+        "grey": 0.0,
+        "darkGrey": 0.0,
+        "liteGrey": 0.0,
+        "black": 0.05,
+        "color": 0.0
+      },
+      {
+        "nubmer": 1013,
+        "white": 0.95,
+        "grey": 0.0,
+        "darkGrey": 0.0,
+        "liteGrey": 0.0,
+        "black": 0.05,
+        "color": 0.0
+      },
+      {
+        "nubmer": 1014,
+        "white": 1.0,
+        "grey": 0.0,
+        "darkGrey": 0.0,
+        "liteGrey": 0.0,
+        "black": 0.0,
+        "color": 0.0
+      },
+      {
+        "nubmer": 1015,
+        "white": 1.0,
+        "grey": 0.0,
+        "darkGrey": 0.0,
+        "liteGrey": 0.0,
+        "black": 0.0,
+        "color": 0.0
+      },
+      {
+        "nubmer": 1016,
+        "white": 1.0,
+        "grey": 0.0,
+        "darkGrey": 0.0,
+        "liteGrey": 0.0,
+        "black": 0.0,
+        "color": 0.0
+      },
+      {
+        "nubmer": 1017,
+        "white": 1.0,
+        "grey": 0.0,
+        "darkGrey": 0.0,
+        "liteGrey": 0.0,
+        "black": 0.0,
+        "color": 0.0
+      },
+      {
+        "nubmer": 1018,
+        "white": 1.0,
+        "grey": 0.0,
+        "darkGrey": 0.0,
+        "liteGrey": 0.0,
+        "black": 0.0,
+        "color": 0.0
+      },
+      {
+        "nubmer": 1019,
+        "white": 1.0,
+        "grey": 0.0,
+        "darkGrey": 0.0,
+        "liteGrey": 0.0,
+        "black": 0.0,
+        "color": 0.0
+      },
+      {
+        "nubmer": 1020,
+        "white": 1.0,
+        "grey": 0.0,
+        "darkGrey": 0.0,
+        "liteGrey": 0.0,
+        "black": 0.0,
+        "color": 0.0
+      },
+      {
+        "nubmer": 1021,
+        "white": 1.0,
+        "grey": 0.0,
+        "darkGrey": 0.0,
+        "liteGrey": 0.0,
+        "black": 0.0,
+        "color": 0.0
+      },
+      {
+        "nubmer": 1022,
+        "white": 1.0,
+        "grey": 0.0,
+        "darkGrey": 0.0,
+        "liteGrey": 0.0,
+        "black": 0.0,
+        "color": 0.0
+      },
+      {
+        "nubmer": 1023,
+        "white": 1.0,
+        "grey": 0.0,
+        "darkGrey": 0.0,
+        "liteGrey": 0.0,
+        "black": 0.0,
+        "color": 0.0
+      }
+    ]
+  }
+}

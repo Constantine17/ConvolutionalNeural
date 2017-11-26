@@ -84,10 +84,13 @@ namespace GUIforNeuron
 
         private void SmartLayer32_Click(object sender, EventArgs e)
         {
-            var eye = new Eye(imagedirectory);
-            var secondNetwork = new SecondNeuron(eye);
-            var smart32 = new SmartLayer32(secondNetwork.secondnetNetwork);
-            smart32.CalcConcentration();
+            //var eye = new Eye(imagedirectory);
+            //var secondNetwork = new SecondNeuron(eye);
+            //var smart32 = new SmartLayer32(secondNetwork.secondnetNetwork);
+            //smart32.CalcConcentration();
+            //smart32.writeFile();
+
+            new SmartLayer32().CreateKnowlengeFile();
         }
     }
 }
