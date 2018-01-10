@@ -40,5 +40,7 @@ namespace GUIforNeuron
         public double black;
         public double color;
         public double radius;
+        public double smalRadius;
+        public double bigRadius;
     }
 }

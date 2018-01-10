@@ -24,10 +24,34 @@ namespace GUIforNeuron
         Point[,] lgPoints = new Point[32, 32];
         Point[,] lnPoints = new Point[32, 32];
 
-
-        public SmartLayer32()
+        public SmartLayer32() { }
+        public SmartLayer32(SecondResponse[,] data)
         {
+            ReadFiles();
+            SetData(data);
+            double sin = 0;
+            double cos = 0;
+            int sini = 0, cosi = 0;
 
+            var input = GetData(data);
+            var culc = new Geometry();
+            for (int x = 0; x < 32; x++)
+                for (int y = 0; y < 32; y++)
+                {
+                    double mid = culc.LengthBetweenPoints(sinPoints[x, y].white, sinPoints[x, y].black, sinPoints[x, y].grey, sinPoints[x, y].color, input[x, y].white, input[x, y].black, input[x, y].grey, input[x, y].color);
+                    mid= Math.Abs(sinPoints[x, y].radius - mid);
+                    sin += mid;//if (0 < mid && mid < 0.5) sini++;
+                }
+            for (int x = 0; x < 32; x++)
+                for (int y = 0; y < 32; y++)
+                {
+                    double mid = culc.LengthBetweenPoints(cosPoints[x, y].white, cosPoints[x, y].black, cosPoints[x, y].grey, cosPoints[x, y].color, input[x, y].white, input[x, y].black, input[x, y].grey, input[x, y].color);
+                    mid= Math.Abs(cosPoints[x, y].radius - mid);
+                    cos += mid;//if (0 < mid && mid < 0.5) cosi++;
+                }
+            sin /= 1024;
+            cos /= 1024;
+         
         }
 
         public Answer[,] GetData(SecondResponse[,] data)
@@ -146,13 +170,54 @@ namespace GUIforNeuron
             var json = new Json(direcrory,fileName);
             json.Write(answerNeuron32);
         }
+
+        void ReadFiles()
+        {
+            string sinDirectory = @"d:\programs\Diplom\GUI\GUIforNeuron\GUIforNeuron\json\SmatrLayer32\sin.json";
+            string cosDirectory = @"d:\programs\Diplom\GUI\GUIforNeuron\GUIforNeuron\json\SmatrLayer32\cos.json";
+            string tanDirectory = @"d:\programs\Diplom\GUI\GUIforNeuron\GUIforNeuron\json\SmatrLayer32\tan.json";
+            string ctanDirectory = @"d:\programs\Diplom\GUI\GUIforNeuron\GUIforNeuron\json\SmatrLayer32\ctan.json";
+
+            for (int grahp = 0; grahp < 4; grahp++)
+            {
+                Point[,] array;
+                string directory;
+                switch (grahp) { 
+                    case (0): array = sinPoints; directory = sinDirectory; break;
+                    case (1): array = cosPoints; directory = cosDirectory; break;
+                    case (2): array = tanPoints; directory = tanDirectory; break;
+                    case (3): array = ctanPoints; directory = ctanDirectory; break;
+                    default:  array = lnPoints; directory = ""; break;
+                }
+                var points = new List<Point>();
+                var jObject = JObject.Parse(File.ReadAllText(directory));
+                int size = (int)jObject["size"];
+                for (int i = 0; i < size; i++)
+                {
+                    var ans = new Point();
+                    ans.white = (double)jObject["arrayAnswer"]["items"][i]["white"];
+                    ans.grey = (double)jObject["arrayAnswer"]["items"][i]["grey"];
+                    ans.black = (double)jObject["arrayAnswer"]["items"][i]["black"];
+                    ans.color = (double)jObject["arrayAnswer"]["items"][i]["color"];
+                    ans.radius = (double)jObject["arrayAnswer"]["items"][i]["radius"];
+                    points.Add(ans);
+                }
+                int inc = 0;
+                for (int x = 0; x < 32; x++)
+                    for (int y = 0; y < 32; y++)
+                    {
+                        array[x,y] = points[inc];
+                        inc++;
+                    }
+            }
+        }
         
         public void CreateKnowlengeFile()
         {
-            string imageDirectory = @"d:\programs\Diplom\GUI\GUIforNeuron\GUIforNeuron\json\SmatrLayer32\images\cos\";
-            string file1 = @"cos1.png";
-            string file2 = @"cos2.jpg";
-            string file3 = @"cos3.png";
+            string imageDirectory = @"d:\programs\Diplom\GUI\GUIforNeuron\GUIforNeuron\json\SmatrLayer32\images\sin\";
+            string file1 = @"sin1.jpg";
+            string file2 = @"sin2.png";
+            string file3 = @"sin3.jpg";
 
             List<Point> points = new List<Point>();
             Answer[,] fist = new Answer[32, 32];
@@ -168,18 +233,35 @@ namespace GUIforNeuron
             for (int x = 0; x < 32; x++)
                 for (int y = 0; y < 32; y++)
                 {
+                    //double fist1 = 0, second1 = 0, third1 = 0;
+
                     var point = new Point();
                     point.white = (fist[x,y].white + second[x, y].white + third[x, y].white) / 3;
+                   // fist1 = fist[x, y].white; second1 = second[x, y].white; third1 = third[x, y].white;
                     point.black = (fist[x, y].black + second[x, y].black + third[x, y].black) / 3;
+                   // fist1 = fist[x, y].black; second1 = second[x, y].black; third1 = third[x, y].black;
                     point.grey = (fist[x, y].grey + second[x, y].grey + third[x, y].grey) / 3;
+                    
                     point.color = (fist[x, y].color + second[x, y].color + third[x, y].color) / 3;
+                   // fist1 = fist[x, y].color; second1 = second[x, y].color; third1 = third[x, y].color;
 
+
+
+                    double bigRadius;
+                    double smalRadius;
                     double radius;
-                    point.radius = culk.LengthBetweenPoints(point.white, point.black, point.grey, point.color, fist[x, y].white, fist[x, y].black, fist[x, y].grey, fist[x, y].color);
+                    radius = culk.LengthBetweenPoints(point.white, point.black, point.grey, point.color, fist[x, y].white, fist[x, y].black, fist[x, y].grey, fist[x, y].color);
+                    bigRadius = radius; smalRadius = radius;
                     radius = culk.LengthBetweenPoints(point.white, point.black, point.grey, point.color, second[x, y].white, second[x, y].black, second[x, y].grey, second[x, y].color);
-                    if (radius > point.radius) point.radius = radius;
+                    if (bigRadius < radius) bigRadius = radius;
+                    if (smalRadius > radius) smalRadius = radius;
                     radius = culk.LengthBetweenPoints(point.white, point.black, point.grey, point.color, third[x, y].white, third[x, y].black, third[x, y].grey, third[x, y].color);
-                    if (radius > point.radius) point.radius = radius;
+                    if (bigRadius < radius) bigRadius = radius;
+                    if (smalRadius > radius) smalRadius = radius;
+
+                    point.smalRadius = smalRadius;
+                    point.bigRadius = bigRadius;
+                    point.radius = (smalRadius + bigRadius) / 2;
 
                     points.Add(point);
                 }
@@ -199,14 +281,15 @@ namespace GUIforNeuron
                                 new JProperty("black", element.black),
                                 new JProperty("color", element.color),
                                 new JProperty("radius", element.radius),
-                                new JProperty("probability", 1-element.radius)
+                                new JProperty("smalRadius", element.smalRadius),
+                                new JProperty("bigRadius", element.bigRadius)
                                 )
                             )
                         )
                     )
                 ));
 
-            File.WriteAllText(@"d:\programs\Diplom\GUI\GUIforNeuron\GUIforNeuron\json\SmatrLayer32\cos.json", jObject.ToString());
+            File.WriteAllText(@"d:\programs\Diplom\GUI\GUIforNeuron\GUIforNeuron\json\SmatrLayer32\ctan.json", jObject.ToString());
         }
     }
 }

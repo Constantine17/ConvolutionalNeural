@@ -60,6 +60,7 @@
     <Compile Include="Geometry.cs" />
     <Compile Include="Json.cs" />
     <Compile Include="Messeges.cs" />
+    <Compile Include="OneNeuron.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
     <Compile Include="SecondNeuron.cs" />
